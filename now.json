@@ -10,9 +10,16 @@
       "src": "package.json",
       "use": "@now/static-build",
       "config": { "distDir": "data" }
+    },
+    {
+      "src": "*.md",
+      "use": "@now/md"
     }
   ],
   "routes": [
+    { "src": "/",
+      "dest": "/README.html"
+    },
     { "src": "/original",
       "dest": "/original.json",
       "headers": {
