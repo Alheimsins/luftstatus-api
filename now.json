@@ -1,0 +1,52 @@
+{
+  "version": 2,
+  "name": "luftstatus-api",
+  "scope": "alheimsins",
+  "alias": [
+    "luftstatus.api.alheimsins.net"
+  ],
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@now/static-build",
+      "config": { "distDir": "data" }
+    }
+  ],
+  "routes": [
+    { "src": "/original",
+      "dest": "/original.json",
+      "headers": {
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Headers": "Origin, X-Requested-With, Content-Type, Accept"
+      }
+    },
+    { "src": "/data",
+      "dest": "/data.json",
+      "headers": {
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Headers": "Origin, X-Requested-With, Content-Type, Accept"
+      }
+    },
+    { "src": "/stations",
+      "dest": "/stations.json",
+      "headers": {
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Headers": "Origin, X-Requested-With, Content-Type, Accept"
+      }
+    },
+    { "src": "/areas",
+      "dest": "/areas.json",
+      "headers": {
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Headers": "Origin, X-Requested-With, Content-Type, Accept"
+      }
+    },
+    { "src": "/warnings",
+      "dest": "/warnings.json",
+      "headers": {
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Headers": "Origin, X-Requested-With, Content-Type, Accept"
+      }
+    }
+  ]
+}
