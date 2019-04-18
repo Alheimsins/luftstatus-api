@@ -5,7 +5,7 @@
 
 API for luftstatus services
 
-[luftkvalitet.api.alheimsins.net](https://luftkvalitet.api.alheimsins.net)
+[api.luftstatus.no](https://api.luftstatus.no)
 
 # API
 

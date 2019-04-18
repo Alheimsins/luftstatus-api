@@ -3,7 +3,7 @@
   "name": "luftstatus-api",
   "scope": "alheimsins",
   "alias": [
-    "luftstatus.api.alheimsins.net"
+    "api.luftstatus.no"
   ],
   "builds": [
     {
