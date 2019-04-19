@@ -1,6 +1,6 @@
 workflow "Updates data" {
   resolves = ["Commit changes"]
-  on = "schedule(0 0 * * *)"
+  on = "schedule(0 * * * *)"
 }
 
 action "Install dependencies" {
