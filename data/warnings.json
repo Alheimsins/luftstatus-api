@@ -3,6 +3,12 @@
   "high": [
     {
       "zone": "Øst og Sørlandet",
+      "municipality": "Gjøvik",
+      "area": "Gjøvik",
+      "color": "ff0000"
+    },
+    {
+      "zone": "Øst og Sørlandet",
       "municipality": "Hønefoss",
       "area": "Hønefoss",
       "color": "ff0000"
