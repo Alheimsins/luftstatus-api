@@ -6,8 +6,9 @@
   let jobs = []
 
   const { data } = await axios.get(warningsUrl)
-  console.log(`Got data - ${data.length}`)
-  if (data.length > 0) {
+  console.log(`Got data`)
+  if (data.hasOwnProperty('high') || data.hasOwnProperty('veryHigh')) {
+    console.log(`Creating tweets`)
     if (data.high.length > 0) {
       const msg = createMessage('høy', data.high)
       jobs.push(tweetMessage(msg))
