@@ -1,5 +1,5 @@
 {
-  "updated": "2019-04-20T21:01:11.215Z",
+  "updated": "2019-04-20T22:00:59.245Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -11,7 +11,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Birkenes",
       "area": "Birkenes",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Midt-Norge og Nordland",
@@ -53,13 +53,13 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Gjøvik",
       "area": "Gjøvik",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
       "municipality": "Grenland",
       "area": "Grenland",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -89,13 +89,13 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Hurdal",
       "area": "Hurdal",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
       "municipality": "Hønefoss",
       "area": "Hønefoss",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Vestlandet",
@@ -113,7 +113,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Lillehammer",
       "area": "Lillehammer",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
