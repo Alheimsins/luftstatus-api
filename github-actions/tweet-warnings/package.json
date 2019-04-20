@@ -11,6 +11,7 @@
   },
   "main": "tweet-warnings.js",
   "dependencies": {
+    "axios": "0.18.0",
     "timezone": "1.0.22",
     "twit": "2.2.11"
   }
