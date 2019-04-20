@@ -1,5 +1,5 @@
 {
-  "updated": "2019-04-20T13:01:10.988Z",
+  "updated": "2019-04-20T14:01:14.374Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -29,7 +29,7 @@
       "zone": "Stor-Oslo",
       "municipality": "Bærum",
       "area": "Bærum",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Stor-Oslo",
@@ -59,7 +59,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Grenland",
       "area": "Grenland",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -209,7 +209,7 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Ålesund",
       "area": "Ålesund",
-      "color": "ff9900"
+      "color": "6ee86e"
     }
   ]
 }
