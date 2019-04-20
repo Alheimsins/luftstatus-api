@@ -1,5 +1,5 @@
 workflow "Updates data" {
-  resolves = ["Commit changes"]
+  resolves = ["Tweet warnings"]
   on = "schedule(0 * * * *)"
 }
 
@@ -33,4 +33,10 @@ action "Commit changes" {
   needs = ["Alias deployment"]
   args = "Data updated"
   secrets = ["GITHUB_TOKEN"]
+}
+
+action "Tweet warnings" {
+  uses = "./github-action/tweet-warnings"
+  needs = ["Commit changes"]
+  secrets = ["TWITTER_CONSUMER_KEY", "TWITTER_CONSUMER_SECRET", "TWITTER_ACCESS_TOKEN", "TWITTER_ACCESS_TOKEN_SECRET"]
 }

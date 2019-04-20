@@ -1,0 +1,17 @@
+{
+  "name": "tweet-warnings",
+  "version": "1.0.0",
+  "description": "GitHub action for tweeting warnings from luftstatus",
+  "license": "MIT",
+  "private": true,
+  "author": {
+    "name": "Geir Gåsodden",
+    "email": "geir.gasodden@pythonia.no",
+    "url": "https://github.com/zrrrzzt"
+  },
+  "main": "tweet-warnings.js",
+  "dependencies": {
+    "timezone": "1.0.22",
+    "twit": "2.2.11"
+  }
+}
