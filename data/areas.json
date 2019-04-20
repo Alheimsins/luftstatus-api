@@ -1,5 +1,5 @@
 {
-  "updated": "2019-04-20T14:01:14.374Z",
+  "updated": "2019-04-20T15:01:25.919Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -64,7 +64,7 @@
     {
       "zone": "Øst og Sørlandet",
       "municipality": "Halden",
-      "area": "Prestebakke",
+      "area": "Halden",
       "color": "ff9900"
     },
     {
@@ -77,7 +77,7 @@
       "zone": "Troms og Finnmark",
       "municipality": "Harstad",
       "area": "Harstad",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Midt-Norge og Nordland",
