@@ -1,5 +1,5 @@
 {
-  "updated": "2019-04-20T22:00:59.245Z",
+  "updated": "2019-04-20T23:01:02.059Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -11,7 +11,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Birkenes",
       "area": "Birkenes",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Midt-Norge og Nordland",
@@ -29,7 +29,7 @@
       "zone": "Stor-Oslo",
       "municipality": "Bærum",
       "area": "Bærum",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Stor-Oslo",
