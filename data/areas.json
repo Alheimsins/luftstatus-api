@@ -1,5 +1,5 @@
 {
-  "updated": "2019-04-20T09:01:12.855Z",
+  "updated": "2019-04-20T10:01:11.105Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -11,7 +11,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Birkenes",
       "area": "Birkenes",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Midt-Norge og Nordland",
@@ -101,7 +101,7 @@
       "zone": "Vestlandet",
       "municipality": "Karmøy",
       "area": "Sandve",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -209,7 +209,7 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Ålesund",
       "area": "Ålesund",
-      "color": "6ee86e"
+      "color": "ff9900"
     }
   ]
 }
