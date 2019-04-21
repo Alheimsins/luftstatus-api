@@ -1,5 +1,5 @@
 {
-  "updated": "2019-04-21T13:01:05.454Z",
+  "updated": "2019-04-21T14:01:20.548Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -143,7 +143,7 @@
       "zone": "Stor-Oslo",
       "municipality": "Oslo",
       "area": "Oslo",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Midt-Norge og Nordland",
@@ -173,7 +173,7 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Sunndal",
       "area": "Kårvatn",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Utenfor sonesystemet",
