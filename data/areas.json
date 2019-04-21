@@ -1,5 +1,5 @@
 {
-  "updated": "2019-04-21T22:01:16.045Z",
+  "updated": "2019-04-21T23:01:11.493Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -41,7 +41,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Elverum",
       "area": "Elverum",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -89,13 +89,13 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Hurdal",
       "area": "Hurdal",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
       "municipality": "Hønefoss",
       "area": "Hønefoss",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Vestlandet",
@@ -113,7 +113,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Lillehammer",
       "area": "Lillehammer",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
