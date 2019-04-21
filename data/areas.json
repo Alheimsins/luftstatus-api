@@ -1,5 +1,5 @@
 {
-  "updated": "2019-04-21T08:01:05.423Z",
+  "updated": "2019-04-21T12:01:17.817Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -29,7 +29,7 @@
       "zone": "Stor-Oslo",
       "municipality": "Bærum",
       "area": "Bærum",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Stor-Oslo",
@@ -65,7 +65,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Halden",
       "area": "Halden",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -89,7 +89,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Hurdal",
       "area": "Hurdal",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -119,7 +119,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Lillesand",
       "area": "Lillesand",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -168,6 +168,12 @@
       "municipality": "Stavanger",
       "area": "Stavanger",
       "color": "6ee86e"
+    },
+    {
+      "zone": "Midt-Norge og Nordland",
+      "municipality": "Sunndal",
+      "area": "Kårvatn",
+      "color": "ff9900"
     },
     {
       "zone": "Utenfor sonesystemet",
