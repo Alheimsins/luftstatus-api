@@ -1,1 +1,11 @@
-[]
+{
+  "veryHigh": [],
+  "high": [
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Elverum",
+      "area": "Elverum",
+      "color": "ff0000"
+    }
+  ]
+}
