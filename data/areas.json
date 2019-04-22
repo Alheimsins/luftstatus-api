@@ -1,5 +1,5 @@
 {
-  "updated": "2019-04-22T07:01:20.279Z",
+  "updated": "2019-04-22T08:01:20.063Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -38,6 +38,12 @@
       "color": "6ee86e"
     },
     {
+      "zone": "Utenfor sonesystemet",
+      "municipality": "Dronning Maud Land",
+      "area": "Troll",
+      "color": "6ee86e"
+    },
+    {
       "zone": "Øst og Sørlandet",
       "municipality": "Elverum",
       "area": "Elverum",
@@ -65,7 +71,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Halden",
       "area": "Prestebakke",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -119,7 +125,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Lillesand",
       "area": "Lillesand",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -173,7 +179,7 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Sunndal",
       "area": "Kårvatn",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Utenfor sonesystemet",
@@ -185,7 +191,7 @@
       "zone": "Troms og Finnmark",
       "municipality": "Sør-Varanger",
       "area": "Sør-Varanger",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Troms og Finnmark",
