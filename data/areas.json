@@ -1,5 +1,5 @@
 {
-  "updated": "2019-04-22T13:01:25.317Z",
+  "updated": "2019-04-22T14:01:21.122Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -38,6 +38,12 @@
       "color": "6ee86e"
     },
     {
+      "zone": "Utenfor sonesystemet",
+      "municipality": "Dronning Maud Land",
+      "area": "Troll",
+      "color": "6ee86e"
+    },
+    {
       "zone": "Øst og Sørlandet",
       "municipality": "Elverum",
       "area": "Elverum",
@@ -59,7 +65,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Grenland",
       "area": "Grenland",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -95,7 +101,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Hønefoss",
       "area": "Hønefoss",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Vestlandet",
@@ -125,7 +131,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Lørenskog",
       "area": "Lørenskog",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -137,13 +143,13 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Narvik",
       "area": "Narvik",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Stor-Oslo",
       "municipality": "Oslo",
       "area": "Oslo",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Midt-Norge og Nordland",
@@ -170,6 +176,12 @@
       "color": "6ee86e"
     },
     {
+      "zone": "Midt-Norge og Nordland",
+      "municipality": "Sunndal",
+      "area": "Kårvatn",
+      "color": "ff9900"
+    },
+    {
       "zone": "Utenfor sonesystemet",
       "municipality": "Svalbard",
       "area": "Zeppelinfjellet",
@@ -185,7 +197,7 @@
       "zone": "Troms og Finnmark",
       "municipality": "Tromsø",
       "area": "Tromsø",
-      "color": "ff9900"
+      "color": "ff0000"
     },
     {
       "zone": "Trondheim",
