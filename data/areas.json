@@ -1,5 +1,5 @@
 {
-  "updated": "2019-04-22T09:01:16.327Z",
+  "updated": "2019-04-22T10:01:20.074Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -11,7 +11,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Birkenes",
       "area": "Birkenes",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Midt-Norge og Nordland",
@@ -38,6 +38,12 @@
       "color": "6ee86e"
     },
     {
+      "zone": "Utenfor sonesystemet",
+      "municipality": "Dronning Maud Land",
+      "area": "Troll",
+      "color": "6ee86e"
+    },
+    {
       "zone": "Øst og Sørlandet",
       "municipality": "Elverum",
       "area": "Elverum",
@@ -59,7 +65,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Grenland",
       "area": "Grenland",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -83,7 +89,7 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Hemnes",
       "area": "Tustervatn",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -137,7 +143,7 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Narvik",
       "area": "Narvik",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Stor-Oslo",
