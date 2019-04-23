@@ -1,5 +1,5 @@
 {
-  "updated": "2019-04-22T23:01:08.797Z",
+  "updated": "2019-04-23T00:01:02.409Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -208,12 +208,6 @@
     {
       "zone": "Midt-Norge og Nordland",
       "municipality": "Ålesund",
-      "area": "Ålesund",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Midt-Norge og Nordland",
-      "municipality": "��lesund",
       "area": "Ålesund",
       "color": "6ee86e"
     }
