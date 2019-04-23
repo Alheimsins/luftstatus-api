@@ -1,11 +1,11 @@
 {
-  "updated": "2019-04-23T05:01:10.278Z",
+  "updated": "2019-04-23T06:01:14.781Z",
   "areas": [
     {
       "zone": "Bergen",
       "municipality": "Bergen",
       "area": "Bergen",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -23,7 +23,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Brumunddal",
       "area": "Brumunddal",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Stor-Oslo",
@@ -35,7 +35,7 @@
       "zone": "Stor-Oslo",
       "municipality": "Drammen",
       "area": "Drammen",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -89,7 +89,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Hurdal",
       "area": "Hurdal",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -101,7 +101,7 @@
       "zone": "Vestlandet",
       "municipality": "Karmøy",
       "area": "Sandve",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -125,7 +125,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Lørenskog",
       "area": "Lørenskog",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -143,7 +143,7 @@
       "zone": "Stor-Oslo",
       "municipality": "Oslo",
       "area": "Oslo",
-      "color": "6ee86e"
+      "color": "ff0000"
     },
     {
       "zone": "Midt-Norge og Nordland",
