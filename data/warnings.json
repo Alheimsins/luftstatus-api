@@ -2,6 +2,12 @@
   "veryHigh": [],
   "high": [
     {
+      "zone": "Troms og Finnmark",
+      "municipality": "Harstad",
+      "area": "Harstad",
+      "color": "ff0000"
+    },
+    {
       "zone": "Stor-Oslo",
       "municipality": "Oslo",
       "area": "Oslo",
