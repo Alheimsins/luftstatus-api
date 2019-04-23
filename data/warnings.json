@@ -2,6 +2,18 @@
   "veryHigh": [],
   "high": [
     {
+      "zone": "Midt-Norge og Nordland",
+      "municipality": "Bodø",
+      "area": "Bodø",
+      "color": "ff0000"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Brumunddal",
+      "area": "Brumunddal",
+      "color": "ff0000"
+    },
+    {
       "zone": "Stor-Oslo",
       "municipality": "Oslo",
       "area": "Oslo",
