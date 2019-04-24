@@ -2,6 +2,12 @@
   "veryHigh": [],
   "high": [
     {
+      "zone": "Stor-Oslo",
+      "municipality": "Drammen",
+      "area": "Drammen",
+      "color": "ff0000"
+    },
+    {
       "zone": "Midt-Norge og Nordland",
       "municipality": "Narvik",
       "area": "Narvik",
