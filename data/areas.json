@@ -1,5 +1,5 @@
 {
-  "updated": "2019-04-24T03:01:34.293Z",
+  "updated": "2019-04-24T04:01:41.955Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -59,7 +59,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Grenland",
       "area": "Grenland",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -161,13 +161,13 @@
       "zone": "Stor-Oslo",
       "municipality": "Skedsmo",
       "area": "Lillestrøm",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Vestlandet",
       "municipality": "Stavanger",
       "area": "Stavanger",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Midt-Norge og Nordland",
