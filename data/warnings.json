@@ -8,9 +8,33 @@
       "color": "ff0000"
     },
     {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Fredrikstad",
+      "area": "Fredrikstad",
+      "color": "ff0000"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Lørenskog",
+      "area": "Lørenskog",
+      "color": "ff0000"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Moss",
+      "area": "Moss",
+      "color": "ff0000"
+    },
+    {
       "zone": "Stor-Oslo",
       "municipality": "Oslo",
       "area": "Oslo",
+      "color": "ff0000"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Sarpsborg",
+      "area": "Sarpsborg",
       "color": "ff0000"
     },
     {
