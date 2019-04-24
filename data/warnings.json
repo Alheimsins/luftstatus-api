@@ -2,6 +2,12 @@
   "veryHigh": [],
   "high": [
     {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Lillehammer",
+      "area": "Lillehammer",
+      "color": "ff0000"
+    },
+    {
       "zone": "Stor-Oslo",
       "municipality": "Oslo",
       "area": "Oslo",

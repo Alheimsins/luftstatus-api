@@ -1,5 +1,5 @@
 {
-  "updated": "2019-04-24T04:01:41.955Z",
+  "updated": "2019-04-24T05:01:34.192Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -35,7 +35,7 @@
       "zone": "Stor-Oslo",
       "municipality": "Drammen",
       "area": "Drammen",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -113,7 +113,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Lillehammer",
       "area": "Lillehammer",
-      "color": "6ee86e"
+      "color": "ff0000"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -167,7 +167,7 @@
       "zone": "Vestlandet",
       "municipality": "Stavanger",
       "area": "Stavanger",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Midt-Norge og Nordland",
