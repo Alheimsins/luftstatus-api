@@ -6,12 +6,6 @@
       "municipality": "Oslo",
       "area": "Oslo",
       "color": "ff0000"
-    },
-    {
-      "zone": "Trondheim",
-      "municipality": "Trondheim",
-      "area": "Trondheim",
-      "color": "ff0000"
     }
   ]
 }
