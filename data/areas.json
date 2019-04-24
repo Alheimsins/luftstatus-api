@@ -1,5 +1,5 @@
 {
-  "updated": "2019-04-24T15:01:21.154Z",
+  "updated": "2019-04-24T16:01:17.304Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -23,13 +23,13 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Brumunddal",
       "area": "Brumunddal",
-      "color": "ff0000"
+      "color": "ff9900"
     },
     {
       "zone": "Stor-Oslo",
       "municipality": "Bærum",
       "area": "Bærum",
-      "color": "ff0000"
+      "color": "ff9900"
     },
     {
       "zone": "Stor-Oslo",
@@ -59,7 +59,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Grenland",
       "area": "Grenland",
-      "color": "ff0000"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -113,7 +113,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Lillehammer",
       "area": "Lillehammer",
-      "color": "ff0000"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -131,7 +131,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Moss",
       "area": "Moss",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Midt-Norge og Nordland",
@@ -155,7 +155,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Sarpsborg",
       "area": "Sarpsborg",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Stor-Oslo",
@@ -203,13 +203,13 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Tønsberg",
       "area": "Tønsberg",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Midt-Norge og Nordland",
       "municipality": "Ålesund",
       "area": "Ålesund",
-      "color": "ff9900"
+      "color": "6ee86e"
     }
   ]
 }
