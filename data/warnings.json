@@ -8,9 +8,39 @@
       "color": "ff0000"
     },
     {
+      "zone": "Stor-Oslo",
+      "municipality": "Bærum",
+      "area": "Bærum",
+      "color": "ff0000"
+    },
+    {
+      "zone": "Stor-Oslo",
+      "municipality": "Drammen",
+      "area": "Drammen",
+      "color": "ff0000"
+    },
+    {
       "zone": "Øst og Sørlandet",
-      "municipality": "Fredrikstad",
-      "area": "Fredrikstad",
+      "municipality": "Grenland",
+      "area": "Grenland",
+      "color": "ff0000"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Halden",
+      "area": "Halden",
+      "color": "ff0000"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Hamar",
+      "area": "Hamar",
+      "color": "ff0000"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Hønefoss",
+      "area": "Hønefoss",
       "color": "ff0000"
     },
     {
@@ -41,6 +71,12 @@
       "zone": "Troms og Finnmark",
       "municipality": "Tromsø",
       "area": "Tromsø",
+      "color": "ff0000"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Tønsberg",
+      "area": "Tønsberg",
       "color": "ff0000"
     }
   ]
