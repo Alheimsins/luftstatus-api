@@ -1,5 +1,5 @@
 {
-  "updated": "2019-04-24T14:01:26.536Z",
+  "updated": "2019-04-24T15:01:21.154Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -29,13 +29,13 @@
       "zone": "Stor-Oslo",
       "municipality": "Bærum",
       "area": "Bærum",
-      "color": "ff9900"
+      "color": "ff0000"
     },
     {
       "zone": "Stor-Oslo",
       "municipality": "Drammen",
       "area": "Drammen",
-      "color": "ff0000"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -71,7 +71,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Hamar",
       "area": "Hamar",
-      "color": "ff0000"
+      "color": "ff9900"
     },
     {
       "zone": "Troms og Finnmark",
@@ -113,7 +113,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Lillehammer",
       "area": "Lillehammer",
-      "color": "ff9900"
+      "color": "ff0000"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -131,7 +131,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Moss",
       "area": "Moss",
-      "color": "ff0000"
+      "color": "ff9900"
     },
     {
       "zone": "Midt-Norge og Nordland",
@@ -209,7 +209,7 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Ålesund",
       "area": "Ålesund",
-      "color": "6ee86e"
+      "color": "ff9900"
     }
   ]
 }

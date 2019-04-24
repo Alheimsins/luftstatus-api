@@ -9,8 +9,8 @@
     },
     {
       "zone": "Stor-Oslo",
-      "municipality": "Drammen",
-      "area": "Drammen",
+      "municipality": "Bærum",
+      "area": "Bærum",
       "color": "ff0000"
     },
     {
@@ -21,26 +21,20 @@
     },
     {
       "zone": "Øst og Sørlandet",
-      "municipality": "Hamar",
-      "area": "Hamar",
-      "color": "ff0000"
-    },
-    {
-      "zone": "Øst og Sørlandet",
       "municipality": "Hønefoss",
       "area": "Hønefoss",
       "color": "ff0000"
     },
     {
       "zone": "Øst og Sørlandet",
-      "municipality": "Lørenskog",
-      "area": "Lørenskog",
+      "municipality": "Lillehammer",
+      "area": "Lillehammer",
       "color": "ff0000"
     },
     {
       "zone": "Øst og Sørlandet",
-      "municipality": "Moss",
-      "area": "Moss",
+      "municipality": "Lørenskog",
+      "area": "Lørenskog",
       "color": "ff0000"
     },
     {
