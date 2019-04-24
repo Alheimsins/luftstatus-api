@@ -2,12 +2,6 @@
   "veryHigh": [],
   "high": [
     {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Lørenskog",
-      "area": "Lørenskog",
-      "color": "ff0000"
-    },
-    {
       "zone": "Stor-Oslo",
       "municipality": "Oslo",
       "area": "Oslo",
