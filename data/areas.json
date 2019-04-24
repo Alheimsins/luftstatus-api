@@ -1,5 +1,5 @@
 {
-  "updated": "2019-04-24T08:01:16.765Z",
+  "updated": "2019-04-24T09:01:23.649Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -36,6 +36,12 @@
       "municipality": "Drammen",
       "area": "Drammen",
       "color": "ff0000"
+    },
+    {
+      "zone": "Utenfor sonesystemet",
+      "municipality": "Dronning Maud Land",
+      "area": "Troll",
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -77,7 +83,7 @@
       "zone": "Troms og Finnmark",
       "municipality": "Harstad",
       "area": "Harstad",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Midt-Norge og Nordland",
@@ -89,7 +95,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Hurdal",
       "area": "Hurdal",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -173,7 +179,7 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Sunndal",
       "area": "Kårvatn",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Utenfor sonesystemet",
@@ -197,7 +203,7 @@
       "zone": "Trondheim",
       "municipality": "Trondheim",
       "area": "Trondheim",
-      "color": "ff0000"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
