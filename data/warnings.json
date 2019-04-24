@@ -6,6 +6,12 @@
       "municipality": "Harstad",
       "area": "Harstad",
       "color": "ff0000"
+    },
+    {
+      "zone": "Troms og Finnmark",
+      "municipality": "Tromsø",
+      "area": "Tromsø",
+      "color": "ff0000"
     }
   ]
 }
