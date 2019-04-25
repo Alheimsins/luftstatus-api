@@ -2,9 +2,9 @@
   "veryHigh": [],
   "high": [
     {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Elverum",
-      "area": "Elverum",
+      "zone": "Troms og Finnmark",
+      "municipality": "Harstad",
+      "area": "Harstad",
       "color": "ff0000"
     },
     {
@@ -17,6 +17,24 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Narvik",
       "area": "Narvik",
+      "color": "ff0000"
+    },
+    {
+      "zone": "Stor-Oslo",
+      "municipality": "Oslo",
+      "area": "Oslo",
+      "color": "ff0000"
+    },
+    {
+      "zone": "Midt-Norge og Nordland",
+      "municipality": "Rana",
+      "area": "Mo i Rana",
+      "color": "ff0000"
+    },
+    {
+      "zone": "Troms og Finnmark",
+      "municipality": "Tromsø",
+      "area": "Tromsø",
       "color": "ff0000"
     }
   ]
