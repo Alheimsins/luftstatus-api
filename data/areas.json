@@ -1,5 +1,5 @@
 {
-  "updated": "2019-04-25T00:01:45.051Z",
+  "updated": "2019-04-25T01:01:53.151Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -95,7 +95,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Hønefoss",
       "area": "Hønefoss",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Vestlandet",
@@ -125,7 +125,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Lørenskog",
       "area": "Lørenskog",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -191,13 +191,13 @@
       "zone": "Troms og Finnmark",
       "municipality": "Tromsø",
       "area": "Tromsø",
-      "color": "ff0000"
+      "color": "ff9900"
     },
     {
       "zone": "Trondheim",
       "municipality": "Trondheim",
       "area": "Trondheim",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
