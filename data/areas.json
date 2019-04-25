@@ -1,5 +1,5 @@
 {
-  "updated": "2019-04-25T03:01:49.454Z",
+  "updated": "2019-04-25T04:01:48.491Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -20,10 +20,16 @@
       "color": "6ee86e"
     },
     {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Brumunddal",
+      "area": "Brumunddal",
+      "color": "6ee86e"
+    },
+    {
       "zone": "Stor-Oslo",
       "municipality": "Bærum",
       "area": "Bærum",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Stor-Oslo",
@@ -35,7 +41,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Elverum",
       "area": "Elverum",
-      "color": "990099"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -125,7 +131,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Moss",
       "area": "Moss",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Midt-Norge og Nordland",
@@ -164,12 +170,6 @@
       "color": "6ee86e"
     },
     {
-      "zone": "Midt-Norge og Nordland",
-      "municipality": "Sunndal",
-      "area": "Kårvatn",
-      "color": "ff9900"
-    },
-    {
       "zone": "Utenfor sonesystemet",
       "municipality": "Svalbard",
       "area": "Zeppelinfjellet",
@@ -197,7 +197,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Tønsberg",
       "area": "Tønsberg",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Midt-Norge og Nordland",
