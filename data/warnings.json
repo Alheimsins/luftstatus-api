@@ -9,12 +9,6 @@
     },
     {
       "zone": "Øst og Sørlandet",
-      "municipality": "Grenland",
-      "area": "Grenland",
-      "color": "ff0000"
-    },
-    {
-      "zone": "Øst og Sørlandet",
       "municipality": "Lillehammer",
       "area": "Lillehammer",
       "color": "ff0000"
@@ -23,12 +17,6 @@
       "zone": "Stor-Oslo",
       "municipality": "Oslo",
       "area": "Oslo",
-      "color": "ff0000"
-    },
-    {
-      "zone": "Troms og Finnmark",
-      "municipality": "Tromsø",
-      "area": "Tromsø",
       "color": "ff0000"
     },
     {
