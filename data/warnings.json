@@ -9,14 +9,20 @@
     },
     {
       "zone": "Øst og Sørlandet",
+      "municipality": "Grenland",
+      "area": "Grenland",
+      "color": "ff0000"
+    },
+    {
+      "zone": "Øst og Sørlandet",
       "municipality": "Lillehammer",
       "area": "Lillehammer",
       "color": "ff0000"
     },
     {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Lørenskog",
-      "area": "Lørenskog",
+      "zone": "Stor-Oslo",
+      "municipality": "Oslo",
+      "area": "Oslo",
       "color": "ff0000"
     },
     {
