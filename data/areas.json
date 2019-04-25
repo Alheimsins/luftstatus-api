@@ -1,5 +1,5 @@
 {
-  "updated": "2019-04-25T17:01:28.291Z",
+  "updated": "2019-04-25T18:01:23.138Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -20,12 +20,6 @@
       "color": "ff9900"
     },
     {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Brumunddal",
-      "area": "Brumunddal",
-      "color": "ff9900"
-    },
-    {
       "zone": "Stor-Oslo",
       "municipality": "Bærum",
       "area": "Bærum",
@@ -36,12 +30,6 @@
       "municipality": "Drammen",
       "area": "Drammen",
       "color": "ff9900"
-    },
-    {
-      "zone": "Utenfor sonesystemet",
-      "municipality": "Dronning Maud Land",
-      "area": "Troll",
-      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -65,7 +53,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Grenland",
       "area": "Grenland",
-      "color": "ff0000"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -83,7 +71,7 @@
       "zone": "Troms og Finnmark",
       "municipality": "Harstad",
       "area": "Harstad",
-      "color": "6ee86e"
+      "color": "ff0000"
     },
     {
       "zone": "Midt-Norge og Nordland",
@@ -101,7 +89,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Hønefoss",
       "area": "Hønefoss",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Vestlandet",
@@ -137,7 +125,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Moss",
       "area": "Moss",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Midt-Norge og Nordland",
@@ -161,7 +149,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Sarpsborg",
       "area": "Sarpsborg",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Stor-Oslo",
