@@ -1,11 +1,11 @@
 {
-  "updated": "2019-04-25T04:01:48.491Z",
+  "updated": "2019-04-25T05:01:48.108Z",
   "areas": [
     {
       "zone": "Bergen",
       "municipality": "Bergen",
       "area": "Bergen",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -23,7 +23,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Brumunddal",
       "area": "Brumunddal",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Stor-Oslo",
@@ -35,7 +35,7 @@
       "zone": "Stor-Oslo",
       "municipality": "Drammen",
       "area": "Drammen",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -59,7 +59,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Grenland",
       "area": "Grenland",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -131,7 +131,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Moss",
       "area": "Moss",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Midt-Norge og Nordland",
@@ -168,6 +168,12 @@
       "municipality": "Stavanger",
       "area": "Stavanger",
       "color": "6ee86e"
+    },
+    {
+      "zone": "Midt-Norge og Nordland",
+      "municipality": "Sunndal",
+      "area": "Kårvatn",
+      "color": "ff9900"
     },
     {
       "zone": "Utenfor sonesystemet",
