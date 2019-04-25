@@ -1,1 +1,17 @@
-[]
+{
+  "veryHigh": [],
+  "high": [
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Grenland",
+      "area": "Grenland",
+      "color": "ff0000"
+    },
+    {
+      "zone": "Stor-Oslo",
+      "municipality": "Oslo",
+      "area": "Oslo",
+      "color": "ff0000"
+    }
+  ]
+}
