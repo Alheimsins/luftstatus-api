@@ -1,11 +1,11 @@
 {
-  "updated": "2019-04-25T02:01:48.266Z",
+  "updated": "2019-04-25T03:01:49.454Z",
   "areas": [
     {
       "zone": "Bergen",
       "municipality": "Bergen",
       "area": "Bergen",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -35,7 +35,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Elverum",
       "area": "Elverum",
-      "color": "6ee86e"
+      "color": "990099"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -143,7 +143,7 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Rana",
       "area": "Mo i Rana",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
