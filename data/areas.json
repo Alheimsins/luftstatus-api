@@ -1,17 +1,17 @@
 {
-  "updated": "2019-04-25T06:01:44.733Z",
+  "updated": "2019-04-25T07:01:49.713Z",
   "areas": [
     {
       "zone": "Bergen",
       "municipality": "Bergen",
       "area": "Bergen",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
       "municipality": "Birkenes",
       "area": "Birkenes",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Midt-Norge og Nordland",
@@ -41,13 +41,13 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Elverum",
       "area": "Elverum",
-      "color": "ff9900"
+      "color": "ff0000"
     },
     {
       "zone": "Øst og Sørlandet",
       "municipality": "Fredrikstad",
       "area": "Fredrikstad",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -59,7 +59,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Grenland",
       "area": "Grenland",
-      "color": "ff0000"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -71,13 +71,13 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Hamar",
       "area": "Hamar",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Troms og Finnmark",
       "municipality": "Harstad",
       "area": "Harstad",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Midt-Norge og Nordland",
@@ -113,7 +113,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Lillehammer",
       "area": "Lillehammer",
-      "color": "ff9900"
+      "color": "ff0000"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -131,25 +131,25 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Moss",
       "area": "Moss",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Midt-Norge og Nordland",
       "municipality": "Narvik",
       "area": "Narvik",
-      "color": "6ee86e"
+      "color": "ff0000"
     },
     {
       "zone": "Stor-Oslo",
       "municipality": "Oslo",
       "area": "Oslo",
-      "color": "ff0000"
+      "color": "ff9900"
     },
     {
       "zone": "Midt-Norge og Nordland",
       "municipality": "Rana",
       "area": "Mo i Rana",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -168,12 +168,6 @@
       "municipality": "Stavanger",
       "area": "Stavanger",
       "color": "6ee86e"
-    },
-    {
-      "zone": "Midt-Norge og Nordland",
-      "municipality": "Sunndal",
-      "area": "Kårvatn",
-      "color": "ff9900"
     },
     {
       "zone": "Utenfor sonesystemet",
@@ -209,7 +203,7 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Ålesund",
       "area": "Ålesund",
-      "color": "6ee86e"
+      "color": "ff9900"
     }
   ]
 }

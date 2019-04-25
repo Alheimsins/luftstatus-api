@@ -3,14 +3,20 @@
   "high": [
     {
       "zone": "Øst og Sørlandet",
-      "municipality": "Grenland",
-      "area": "Grenland",
+      "municipality": "Elverum",
+      "area": "Elverum",
       "color": "ff0000"
     },
     {
-      "zone": "Stor-Oslo",
-      "municipality": "Oslo",
-      "area": "Oslo",
+      "zone": "Øst og Sørlandet",
+      "municipality": "Lillehammer",
+      "area": "Lillehammer",
+      "color": "ff0000"
+    },
+    {
+      "zone": "Midt-Norge og Nordland",
+      "municipality": "Narvik",
+      "area": "Narvik",
       "color": "ff0000"
     }
   ]
