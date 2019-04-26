@@ -1,5 +1,5 @@
 {
-  "updated": "2019-04-26T16:01:11.436Z",
+  "updated": "2019-04-26T17:01:16.878Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -29,7 +29,7 @@
       "zone": "Stor-Oslo",
       "municipality": "Bærum",
       "area": "Bærum",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Stor-Oslo",
@@ -38,10 +38,16 @@
       "color": "6ee86e"
     },
     {
+      "zone": "Utenfor sonesystemet",
+      "municipality": "Dronning Maud Land",
+      "area": "Troll",
+      "color": "6ee86e"
+    },
+    {
       "zone": "Øst og Sørlandet",
       "municipality": "Elverum",
       "area": "Elverum",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -71,13 +77,13 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Hamar",
       "area": "Hamar",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Troms og Finnmark",
       "municipality": "Harstad",
       "area": "Harstad",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Midt-Norge og Nordland",
@@ -125,7 +131,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Lørenskog",
       "area": "Lørenskog",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
