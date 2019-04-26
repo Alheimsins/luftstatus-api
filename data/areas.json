@@ -1,5 +1,5 @@
 {
-  "updated": "2019-04-26T17:01:16.878Z",
+  "updated": "2019-04-26T18:01:12.319Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -83,7 +83,7 @@
       "zone": "Troms og Finnmark",
       "municipality": "Harstad",
       "area": "Harstad",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Midt-Norge og Nordland",
@@ -155,7 +155,7 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Rana",
       "area": "Mo i Rana",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
