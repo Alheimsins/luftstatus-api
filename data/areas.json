@@ -1,5 +1,5 @@
 {
-  "updated": "2019-04-26T12:01:20.358Z",
+  "updated": "2019-04-26T13:01:20.577Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -71,7 +71,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Hamar",
       "area": "Hamar",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Troms og Finnmark",
@@ -107,7 +107,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Kristiansand",
       "area": "Kristiansand",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -170,12 +170,6 @@
       "color": "6ee86e"
     },
     {
-      "zone": "Midt-Norge og Nordland",
-      "municipality": "Sunndal",
-      "area": "Kårvatn",
-      "color": "ff9900"
-    },
-    {
       "zone": "Utenfor sonesystemet",
       "municipality": "Svalbard",
       "area": "Zeppelinfjellet",
@@ -191,7 +185,7 @@
       "zone": "Troms og Finnmark",
       "municipality": "Tromsø",
       "area": "Tromsø",
-      "color": "ff9900"
+      "color": "ff0000"
     },
     {
       "zone": "Trondheim",
@@ -203,7 +197,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Tønsberg",
       "area": "Tønsberg",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Midt-Norge og Nordland",
