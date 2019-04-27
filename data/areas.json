@@ -1,5 +1,5 @@
 {
-  "updated": "2019-04-27T07:01:49.516Z",
+  "updated": "2019-04-27T08:01:53.724Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -29,7 +29,7 @@
       "zone": "Stor-Oslo",
       "municipality": "Bærum",
       "area": "Bærum",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Stor-Oslo",
@@ -65,7 +65,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Halden",
       "area": "Prestebakke",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
