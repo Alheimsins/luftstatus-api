@@ -1,5 +1,5 @@
 {
-  "updated": "2019-04-27T11:01:58.341Z",
+  "updated": "2019-04-27T12:01:53.536Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -64,14 +64,14 @@
     {
       "zone": "Øst og Sørlandet",
       "municipality": "Halden",
-      "area": "Prestebakke",
+      "area": "Halden",
       "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
       "municipality": "Hamar",
       "area": "Hamar",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Troms og Finnmark",
@@ -137,7 +137,7 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Narvik",
       "area": "Narvik",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Stor-Oslo",
