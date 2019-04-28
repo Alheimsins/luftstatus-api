@@ -1,5 +1,5 @@
 {
-  "updated": "2019-04-28T20:01:16.286Z",
+  "updated": "2019-04-28T21:01:02.515Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -20,6 +20,12 @@
       "color": "6ee86e"
     },
     {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Brumunddal",
+      "area": "Brumunddal",
+      "color": "ff9900"
+    },
+    {
       "zone": "Stor-Oslo",
       "municipality": "Bærum",
       "area": "Bærum",
@@ -35,7 +41,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Elverum",
       "area": "Elverum",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -53,7 +59,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Grenland",
       "area": "Grenland",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -65,7 +71,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Hamar",
       "area": "Hamar",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Troms og Finnmark",
@@ -83,13 +89,13 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Hurdal",
       "area": "Hurdal",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
       "municipality": "Hønefoss",
       "area": "Hønefoss",
-      "color": "ff9900"
+      "color": "ff0000"
     },
     {
       "zone": "Vestlandet",
@@ -143,7 +149,7 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Rana",
       "area": "Mo i Rana",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -185,7 +191,7 @@
       "zone": "Troms og Finnmark",
       "municipality": "Tromsø",
       "area": "Tromsø",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Trondheim",
