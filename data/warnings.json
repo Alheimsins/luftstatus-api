@@ -1,1 +1,11 @@
-[]
+{
+  "veryHigh": [
+    {
+      "zone": "Troms og Finnmark",
+      "municipality": "Harstad",
+      "area": "Harstad",
+      "color": "990099"
+    }
+  ],
+  "high": []
+}
