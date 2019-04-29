@@ -6,6 +6,12 @@
       "municipality": "Harstad",
       "area": "Harstad",
       "color": "ff0000"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Lillehammer",
+      "area": "Lillehammer",
+      "color": "ff0000"
     }
   ]
 }
