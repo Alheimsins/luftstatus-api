@@ -1,5 +1,5 @@
 {
-  "updated": "2019-04-29T17:01:15.398Z",
+  "updated": "2019-04-29T18:01:12.251Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -38,6 +38,12 @@
       "color": "6ee86e"
     },
     {
+      "zone": "Utenfor sonesystemet",
+      "municipality": "Dronning Maud Land",
+      "area": "Troll",
+      "color": "6ee86e"
+    },
+    {
       "zone": "Øst og Sørlandet",
       "municipality": "Elverum",
       "area": "Elverum",
@@ -53,13 +59,13 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Gjøvik",
       "area": "Gjøvik",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
       "municipality": "Grenland",
       "area": "Grenland",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -95,7 +101,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Hønefoss",
       "area": "Hønefoss",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Vestlandet",
@@ -113,7 +119,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Lillehammer",
       "area": "Lillehammer",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -131,7 +137,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Moss",
       "area": "Moss",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Midt-Norge og Nordland",
@@ -158,16 +164,16 @@
       "color": "6ee86e"
     },
     {
-      "zone": "Stor-Oslo",
-      "municipality": "Skedsmo",
-      "area": "Lillestrøm",
-      "color": "6ee86e"
-    },
-    {
       "zone": "Vestlandet",
       "municipality": "Stavanger",
       "area": "Stavanger",
       "color": "6ee86e"
+    },
+    {
+      "zone": "Midt-Norge og Nordland",
+      "municipality": "Sunndal",
+      "area": "Kårvatn",
+      "color": "ff9900"
     },
     {
       "zone": "Utenfor sonesystemet",
@@ -185,7 +191,7 @@
       "zone": "Troms og Finnmark",
       "municipality": "Tromsø",
       "area": "Tromsø",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Trondheim",
