@@ -1,5 +1,5 @@
 {
-  "updated": "2019-04-29T13:01:04.341Z",
+  "updated": "2019-04-29T14:01:17.622Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -35,7 +35,7 @@
       "zone": "Stor-Oslo",
       "municipality": "Drammen",
       "area": "Drammen",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -155,6 +155,12 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Sarpsborg",
       "area": "Sarpsborg",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Stor-Oslo",
+      "municipality": "Skedsmo",
+      "area": "Lillestrøm",
       "color": "6ee86e"
     },
     {
