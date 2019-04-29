@@ -1,5 +1,5 @@
 {
-  "updated": "2019-04-29T05:01:22.922Z",
+  "updated": "2019-04-29T06:01:18.193Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -83,7 +83,7 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Hemnes",
       "area": "Tustervatn",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -143,7 +143,7 @@
       "zone": "Stor-Oslo",
       "municipality": "Oslo",
       "area": "Oslo",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Midt-Norge og Nordland",
