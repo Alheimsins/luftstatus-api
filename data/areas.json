@@ -1,17 +1,17 @@
 {
-  "updated": "2019-04-30T10:01:34.871Z",
+  "updated": "2019-04-30T11:01:34.497Z",
   "areas": [
     {
       "zone": "Bergen",
       "municipality": "Bergen",
       "area": "Bergen",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
       "municipality": "Birkenes",
       "area": "Birkenes",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Midt-Norge og Nordland",
@@ -29,7 +29,7 @@
       "zone": "Stor-Oslo",
       "municipality": "Bærum",
       "area": "Bærum",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Stor-Oslo",
@@ -71,7 +71,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Hamar",
       "area": "Hamar",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Troms og Finnmark",
@@ -191,7 +191,7 @@
       "zone": "Trondheim",
       "municipality": "Trondheim",
       "area": "Trondheim",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
