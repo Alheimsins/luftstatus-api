@@ -1,5 +1,5 @@
 {
-  "updated": "2019-04-30T03:01:16.165Z",
+  "updated": "2019-04-30T04:01:27.141Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -65,7 +65,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Halden",
       "area": "Halden",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -83,7 +83,7 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Hemnes",
       "area": "Tustervatn",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
