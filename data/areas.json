@@ -1,11 +1,11 @@
 {
-  "updated": "2019-04-30T11:01:34.497Z",
+  "updated": "2019-04-30T12:01:28.470Z",
   "areas": [
     {
       "zone": "Bergen",
       "municipality": "Bergen",
       "area": "Bergen",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -23,7 +23,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Brumunddal",
       "area": "Brumunddal",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Stor-Oslo",
@@ -65,7 +65,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Halden",
       "area": "Halden",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -143,7 +143,7 @@
       "zone": "Stor-Oslo",
       "municipality": "Oslo",
       "area": "Oslo",
-      "color": "6ee86e"
+      "color": "ff0000"
     },
     {
       "zone": "Midt-Norge og Nordland",
