@@ -1,11 +1,11 @@
 {
-  "updated": "2019-05-01T11:01:25.232Z",
+  "updated": "2019-05-01T12:01:28.720Z",
   "areas": [
     {
       "zone": "Bergen",
       "municipality": "Bergen",
       "area": "Bergen",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -65,7 +65,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Halden",
       "area": "Halden",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -162,6 +162,12 @@
       "municipality": "Stavanger",
       "area": "Stavanger",
       "color": "6ee86e"
+    },
+    {
+      "zone": "Midt-Norge og Nordland",
+      "municipality": "Sunndal",
+      "area": "Kårvatn",
+      "color": "ff9900"
     },
     {
       "zone": "Utenfor sonesystemet",
