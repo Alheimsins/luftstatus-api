@@ -1,11 +1,11 @@
 {
-  "veryHigh": [
+  "veryHigh": [],
+  "high": [
     {
       "zone": "Stor-Oslo",
       "municipality": "Oslo",
       "area": "Oslo",
-      "color": "990099"
+      "color": "ff0000"
     }
-  ],
-  "high": []
+  ]
 }
