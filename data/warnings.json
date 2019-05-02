@@ -9,8 +9,14 @@
     },
     {
       "zone": "Øst og Sørlandet",
-      "municipality": "Lillehammer",
-      "area": "Lillehammer",
+      "municipality": "Gjøvik",
+      "area": "Gjøvik",
+      "color": "ff0000"
+    },
+    {
+      "zone": "Stor-Oslo",
+      "municipality": "Oslo",
+      "area": "Oslo",
       "color": "ff0000"
     }
   ]
