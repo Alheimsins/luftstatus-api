@@ -1,5 +1,5 @@
 {
-  "updated": "2019-05-05T21:01:31.613Z",
+  "updated": "2019-05-05T22:01:37.951Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -17,7 +17,7 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Bodø",
       "area": "Bodø",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -155,7 +155,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Sarpsborg",
       "area": "Sarpsborg",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Stor-Oslo",
