@@ -1,5 +1,5 @@
 {
-  "updated": "2019-05-07T13:01:11.863Z",
+  "updated": "2019-05-07T14:01:28.609Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -35,12 +35,6 @@
       "zone": "Stor-Oslo",
       "municipality": "Drammen",
       "area": "Drammen",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Utenfor sonesystemet",
-      "municipality": "Dronning Maud Land",
-      "area": "Troll",
       "color": "6ee86e"
     },
     {
@@ -131,7 +125,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Moss",
       "area": "Moss",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Midt-Norge og Nordland",
