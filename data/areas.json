@@ -1,5 +1,5 @@
 {
-  "updated": "2019-05-07T09:01:20.736Z",
+  "updated": "2019-05-07T10:01:10.793Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -53,7 +53,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Grenland",
       "area": "Grenland",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -92,12 +92,6 @@
       "color": "6ee86e"
     },
     {
-      "zone": "Vestlandet",
-      "municipality": "Karmøy",
-      "area": "Sandve",
-      "color": "6ee86e"
-    },
-    {
       "zone": "Øst og Sørlandet",
       "municipality": "Kristiansand",
       "area": "Kristiansand",
@@ -131,7 +125,7 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Narvik",
       "area": "Narvik",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Stor-Oslo",
@@ -161,12 +155,6 @@
       "zone": "Vestlandet",
       "municipality": "Stavanger",
       "area": "Stavanger",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Utenfor sonesystemet",
-      "municipality": "Svalbard",
-      "area": "Zeppelinfjellet",
       "color": "6ee86e"
     },
     {
