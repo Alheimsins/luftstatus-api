@@ -1,5 +1,5 @@
 {
-  "updated": "2019-05-07T16:01:16.374Z",
+  "updated": "2019-05-07T17:01:13.121Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -131,13 +131,13 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Moss",
       "area": "Moss",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Midt-Norge og Nordland",
       "municipality": "Narvik",
       "area": "Narvik",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Stor-Oslo",
