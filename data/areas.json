@@ -1,5 +1,5 @@
 {
-  "updated": "2019-05-10T12:01:20.639Z",
+  "updated": "2019-05-10T13:01:14.979Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -20,6 +20,12 @@
       "color": "6ee86e"
     },
     {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Brumunddal",
+      "area": "Brumunddal",
+      "color": "6ee86e"
+    },
+    {
       "zone": "Stor-Oslo",
       "municipality": "Bærum",
       "area": "Bærum",
@@ -30,6 +36,12 @@
       "municipality": "Drammen",
       "area": "Drammen",
       "color": "6ee86e"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Elverum",
+      "area": "Elverum",
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -65,7 +77,7 @@
       "zone": "Troms og Finnmark",
       "municipality": "Harstad",
       "area": "Harstad",
-      "color": "ff0000"
+      "color": "ff9900"
     },
     {
       "zone": "Midt-Norge og Nordland",
