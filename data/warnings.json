@@ -1,1 +1,11 @@
-[]
+{
+  "veryHigh": [],
+  "high": [
+    {
+      "zone": "Troms og Finnmark",
+      "municipality": "Tromsø",
+      "area": "Tromsø",
+      "color": "ff0000"
+    }
+  ]
+}

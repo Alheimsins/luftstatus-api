@@ -1,5 +1,5 @@
 {
-  "updated": "2019-05-10T21:01:47.042Z",
+  "updated": "2019-05-10T22:01:47.181Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -185,7 +185,7 @@
       "zone": "Troms og Finnmark",
       "municipality": "Tromsø",
       "area": "Tromsø",
-      "color": "ff9900"
+      "color": "ff0000"
     },
     {
       "zone": "Trondheim",
