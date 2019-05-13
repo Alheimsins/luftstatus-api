@@ -1,10 +1,16 @@
 {
-  "updated": "2019-05-13T12:03:45.200Z",
+  "updated": "2019-05-13T13:04:31.945Z",
   "areas": [
     {
       "zone": "Bergen",
       "municipality": "Bergen",
       "area": "Bergen",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Birkenes",
+      "area": "Birkenes",
       "color": "6ee86e"
     },
     {
