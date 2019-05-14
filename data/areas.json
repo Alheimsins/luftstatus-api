@@ -1,11 +1,11 @@
 {
-  "updated": "2019-05-14T07:01:08.588Z",
+  "updated": "2019-05-14T08:01:07.890Z",
   "areas": [
     {
       "zone": "Bergen",
       "municipality": "Bergen",
       "area": "Bergen",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -131,7 +131,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Moss",
       "area": "Moss",
-      "color": "6ee86e"
+      "color": "ff0000"
     },
     {
       "zone": "Midt-Norge og Nordland",
