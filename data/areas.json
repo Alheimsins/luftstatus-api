@@ -1,5 +1,5 @@
 {
-  "updated": "2019-05-14T13:01:54.217Z",
+  "updated": "2019-05-14T14:01:58.044Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -128,12 +128,6 @@
       "color": "6ee86e"
     },
     {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Moss",
-      "area": "Moss",
-      "color": "6ee86e"
-    },
-    {
       "zone": "Midt-Norge og Nordland",
       "municipality": "Narvik",
       "area": "Narvik",
@@ -173,7 +167,7 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Sunndal",
       "area": "Kårvatn",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Utenfor sonesystemet",
