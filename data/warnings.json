@@ -1,11 +1,11 @@
 {
-  "veryHigh": [
+  "veryHigh": [],
+  "high": [
     {
       "zone": "Øst og Sørlandet",
-      "municipality": "Kristiansand",
-      "area": "Kristiansand",
-      "color": "990099"
+      "municipality": "Moss",
+      "area": "Moss",
+      "color": "ff0000"
     }
-  ],
-  "high": []
+  ]
 }
