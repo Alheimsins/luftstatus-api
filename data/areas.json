@@ -1,5 +1,5 @@
 {
-  "updated": "2019-05-15T13:01:12.787Z",
+  "updated": "2019-05-15T14:01:09.875Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -23,7 +23,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Brumunddal",
       "area": "Brumunddal",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Stor-Oslo",
@@ -89,7 +89,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Hurdal",
       "area": "Hurdal",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -191,7 +191,7 @@
       "zone": "Troms og Finnmark",
       "municipality": "Tromsø",
       "area": "Tromsø",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Trondheim",
