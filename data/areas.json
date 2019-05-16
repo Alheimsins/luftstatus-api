@@ -1,5 +1,5 @@
 {
-  "updated": "2019-05-16T12:01:25.479Z",
+  "updated": "2019-05-16T13:01:45.404Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -23,7 +23,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Brumunddal",
       "area": "Brumunddal",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Stor-Oslo",
@@ -71,7 +71,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Hamar",
       "area": "Hamar",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Troms og Finnmark",
@@ -83,6 +83,12 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Hemnes",
       "area": "Tustervatn",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Hurdal",
+      "area": "Hurdal",
       "color": "6ee86e"
     },
     {
@@ -185,13 +191,13 @@
       "zone": "Troms og Finnmark",
       "municipality": "Tromsø",
       "area": "Tromsø",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Trondheim",
       "municipality": "Trondheim",
       "area": "Trondheim",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
