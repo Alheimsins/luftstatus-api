@@ -1,5 +1,5 @@
 {
-  "updated": "2019-05-17T20:01:47.056Z",
+  "updated": "2019-05-17T21:01:45.609Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -53,7 +53,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Grenland",
       "area": "Grenland",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -77,7 +77,7 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Hemnes",
       "area": "Tustervatn",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
