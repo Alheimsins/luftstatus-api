@@ -1,5 +1,5 @@
 {
-  "updated": "2019-05-18T19:01:22.118Z",
+  "updated": "2019-05-18T20:01:38.594Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -89,6 +89,12 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Hønefoss",
       "area": "Hønefoss",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Vestlandet",
+      "municipality": "Karmøy",
+      "area": "Sandve",
       "color": "6ee86e"
     },
     {
