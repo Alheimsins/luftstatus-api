@@ -1,5 +1,5 @@
 {
-  "updated": "2019-05-18T16:01:19.589Z",
+  "updated": "2019-05-18T17:01:22.254Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -58,7 +58,7 @@
     {
       "zone": "Øst og Sørlandet",
       "municipality": "Halden",
-      "area": "Halden",
+      "area": "Prestebakke",
       "color": "6ee86e"
     },
     {
@@ -162,12 +162,6 @@
       "municipality": "Stavanger",
       "area": "Stavanger",
       "color": "6ee86e"
-    },
-    {
-      "zone": "Midt-Norge og Nordland",
-      "municipality": "Sunndal",
-      "area": "Kårvatn",
-      "color": "ff9900"
     },
     {
       "zone": "Utenfor sonesystemet",
