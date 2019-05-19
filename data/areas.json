@@ -1,5 +1,5 @@
 {
-  "updated": "2019-05-19T22:01:22.814Z",
+  "updated": "2019-05-19T23:01:13.814Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -101,7 +101,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Kristiansand",
       "area": "Kristiansand",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -155,7 +155,7 @@
       "zone": "Stor-Oslo",
       "municipality": "Skedsmo",
       "area": "Lillestrøm",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Vestlandet",
