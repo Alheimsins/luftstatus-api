@@ -1,5 +1,5 @@
 {
-  "updated": "2019-05-19T12:01:46.251Z",
+  "updated": "2019-05-19T13:01:10.862Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -29,12 +29,6 @@
       "zone": "Stor-Oslo",
       "municipality": "Drammen",
       "area": "Drammen",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Utenfor sonesystemet",
-      "municipality": "Dronning Maud Land",
-      "area": "Troll",
       "color": "6ee86e"
     },
     {
@@ -161,7 +155,7 @@
       "zone": "Stor-Oslo",
       "municipality": "Skedsmo",
       "area": "Lillestrøm",
-      "color": "ff9900"
+      "color": "ff0000"
     },
     {
       "zone": "Vestlandet",
@@ -185,7 +179,7 @@
       "zone": "Troms og Finnmark",
       "municipality": "Sør-Varanger",
       "area": "Sør-Varanger",
-      "color": "ff0000"
+      "color": "6ee86e"
     },
     {
       "zone": "Troms og Finnmark",
