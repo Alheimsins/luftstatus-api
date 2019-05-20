@@ -1,5 +1,5 @@
 {
-  "updated": "2019-05-20T15:01:50.763Z",
+  "updated": "2019-05-20T16:02:06.120Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -156,6 +156,12 @@
       "municipality": "Sarpsborg",
       "area": "Sarpsborg",
       "color": "6ee86e"
+    },
+    {
+      "zone": "Stor-Oslo",
+      "municipality": "Skedsmo",
+      "area": "Lillestrøm",
+      "color": "ff0000"
     },
     {
       "zone": "Vestlandet",
