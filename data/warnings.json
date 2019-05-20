@@ -2,6 +2,12 @@
   "veryHigh": [],
   "high": [
     {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Halden",
+      "area": "Halden",
+      "color": "ff0000"
+    },
+    {
       "zone": "Stor-Oslo",
       "municipality": "Skedsmo",
       "area": "Lillestrøm",
