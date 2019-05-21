@@ -1,5 +1,5 @@
 {
-  "updated": "2019-05-21T10:01:22.472Z",
+  "updated": "2019-05-21T11:01:26.452Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -155,7 +155,7 @@
       "zone": "Stor-Oslo",
       "municipality": "Skedsmo",
       "area": "Lillestrøm",
-      "color": "ff0000"
+      "color": "6ee86e"
     },
     {
       "zone": "Vestlandet",
@@ -185,7 +185,7 @@
       "zone": "Troms og Finnmark",
       "municipality": "Tromsø",
       "area": "Tromsø",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Trondheim",
