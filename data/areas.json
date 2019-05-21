@@ -1,5 +1,5 @@
 {
-  "updated": "2019-05-21T05:01:47.102Z",
+  "updated": "2019-05-21T06:01:47.679Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -59,7 +59,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Halden",
       "area": "Halden",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -155,7 +155,7 @@
       "zone": "Stor-Oslo",
       "municipality": "Skedsmo",
       "area": "Lillestrøm",
-      "color": "ff0000"
+      "color": "6ee86e"
     },
     {
       "zone": "Vestlandet",
