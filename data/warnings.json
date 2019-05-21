@@ -6,6 +6,12 @@
       "municipality": "Oslo",
       "area": "Oslo",
       "color": "ff0000"
+    },
+    {
+      "zone": "Stor-Oslo",
+      "municipality": "Skedsmo",
+      "area": "Lillestrøm",
+      "color": "ff0000"
     }
   ]
 }

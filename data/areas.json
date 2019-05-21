@@ -1,5 +1,5 @@
 {
-  "updated": "2019-05-21T06:01:47.679Z",
+  "updated": "2019-05-21T07:01:51.387Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -17,6 +17,12 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Bodø",
       "area": "Bodø",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Brumunddal",
+      "area": "Brumunddal",
       "color": "6ee86e"
     },
     {
@@ -131,7 +137,7 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Narvik",
       "area": "Narvik",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Stor-Oslo",
@@ -155,7 +161,7 @@
       "zone": "Stor-Oslo",
       "municipality": "Skedsmo",
       "area": "Lillestrøm",
-      "color": "6ee86e"
+      "color": "ff0000"
     },
     {
       "zone": "Vestlandet",
