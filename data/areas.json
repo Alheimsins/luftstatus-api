@@ -1,5 +1,5 @@
 {
-  "updated": "2019-05-22T12:02:03.657Z",
+  "updated": "2019-05-22T14:01:37.840Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -18,12 +18,6 @@
       "municipality": "Bodø",
       "area": "Bodø",
       "color": "6ee86e"
-    },
-    {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Brumunddal",
-      "area": "Brumunddal",
-      "color": "ff9900"
     },
     {
       "zone": "Stor-Oslo",
@@ -95,6 +89,12 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Hønefoss",
       "area": "Hønefoss",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Vestlandet",
+      "municipality": "Karmøy",
+      "area": "Sandve",
       "color": "6ee86e"
     },
     {
