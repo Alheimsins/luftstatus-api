@@ -1,5 +1,5 @@
 {
-  "updated": "2019-05-23T18:01:27.398Z",
+  "updated": "2019-05-23T19:01:31.078Z",
   "areas": [
     {
       "zone": "Stor-Oslo",
@@ -13,9 +13,9 @@
           "station": "Nedre Storgate",
           "eoi": "NO0016A",
           "component": "PM10",
-          "fromTime": "2019-05-23T17:00:00+01:00",
-          "toTime": "2019-05-23T18:00:00+01:00",
-          "value": 9.2,
+          "fromTime": "2019-05-23T18:00:00+01:00",
+          "toTime": "2019-05-23T19:00:00+01:00",
+          "value": 10.1,
           "unit": "µg/m³",
           "latitude": 59.74333,
           "longitude": 10.20595,
@@ -25,9 +25,9 @@
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-05-23T17:00:00+01:00",
-              "toTime": "2019-05-23T18:00:00+01:00",
-              "value": 9.2,
+              "fromTime": "2019-05-23T18:00:00+01:00",
+              "toTime": "2019-05-23T19:00:00+01:00",
+              "value": 10.1,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Nedre Storgate"
@@ -49,9 +49,9 @@
           "station": "Torvet",
           "eoi": "NO0089A",
           "component": "PM10",
-          "fromTime": "2019-05-23T18:00:00+01:00",
-          "toTime": "2019-05-23T19:00:00+01:00",
-          "value": 5.5,
+          "fromTime": "2019-05-23T19:00:00+01:00",
+          "toTime": "2019-05-23T20:00:00+01:00",
+          "value": 5.1,
           "unit": "µg/m³",
           "latitude": 63.43038,
           "longitude": 10.39355,
@@ -61,27 +61,27 @@
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-05-23T18:00:00+01:00",
-              "toTime": "2019-05-23T19:00:00+01:00",
-              "value": 5.5,
+              "fromTime": "2019-05-23T19:00:00+01:00",
+              "toTime": "2019-05-23T20:00:00+01:00",
+              "value": 5.1,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Torvet"
             },
             {
               "component": "PM2.5",
-              "fromTime": "2019-05-23T18:00:00+01:00",
-              "toTime": "2019-05-23T19:00:00+01:00",
-              "value": 5.2,
+              "fromTime": "2019-05-23T19:00:00+01:00",
+              "toTime": "2019-05-23T20:00:00+01:00",
+              "value": 4.7,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Torvet"
             },
             {
               "component": "NO2",
-              "fromTime": "2019-05-23T18:00:00+01:00",
-              "toTime": "2019-05-23T19:00:00+01:00",
-              "value": 11.7,
+              "fromTime": "2019-05-23T19:00:00+01:00",
+              "toTime": "2019-05-23T20:00:00+01:00",
+              "value": 12.9,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Torvet"
@@ -114,9 +114,9 @@
       "station": "Nedre Storgate",
       "eoi": "NO0016A",
       "component": "PM10",
-      "fromTime": "2019-05-23T17:00:00+01:00",
-      "toTime": "2019-05-23T18:00:00+01:00",
-      "value": 9.2,
+      "fromTime": "2019-05-23T18:00:00+01:00",
+      "toTime": "2019-05-23T19:00:00+01:00",
+      "value": 10.1,
       "unit": "µg/m³",
       "latitude": 59.74333,
       "longitude": 10.20595,
@@ -126,9 +126,9 @@
       "data": [
         {
           "component": "PM10",
-          "fromTime": "2019-05-23T17:00:00+01:00",
-          "toTime": "2019-05-23T18:00:00+01:00",
-          "value": 9.2,
+          "fromTime": "2019-05-23T18:00:00+01:00",
+          "toTime": "2019-05-23T19:00:00+01:00",
+          "value": 10.1,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Nedre Storgate"
@@ -142,9 +142,9 @@
       "station": "Torvet",
       "eoi": "NO0089A",
       "component": "PM10",
-      "fromTime": "2019-05-23T18:00:00+01:00",
-      "toTime": "2019-05-23T19:00:00+01:00",
-      "value": 5.5,
+      "fromTime": "2019-05-23T19:00:00+01:00",
+      "toTime": "2019-05-23T20:00:00+01:00",
+      "value": 5.1,
       "unit": "µg/m³",
       "latitude": 63.43038,
       "longitude": 10.39355,
@@ -154,27 +154,27 @@
       "data": [
         {
           "component": "PM10",
-          "fromTime": "2019-05-23T18:00:00+01:00",
-          "toTime": "2019-05-23T19:00:00+01:00",
-          "value": 5.5,
+          "fromTime": "2019-05-23T19:00:00+01:00",
+          "toTime": "2019-05-23T20:00:00+01:00",
+          "value": 5.1,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Torvet"
         },
         {
           "component": "PM2.5",
-          "fromTime": "2019-05-23T18:00:00+01:00",
-          "toTime": "2019-05-23T19:00:00+01:00",
-          "value": 5.2,
+          "fromTime": "2019-05-23T19:00:00+01:00",
+          "toTime": "2019-05-23T20:00:00+01:00",
+          "value": 4.7,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Torvet"
         },
         {
           "component": "NO2",
-          "fromTime": "2019-05-23T18:00:00+01:00",
-          "toTime": "2019-05-23T19:00:00+01:00",
-          "value": 11.7,
+          "fromTime": "2019-05-23T19:00:00+01:00",
+          "toTime": "2019-05-23T20:00:00+01:00",
+          "value": 12.9,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Torvet"
