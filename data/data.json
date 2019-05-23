@@ -1,6 +1,185 @@
 {
-  "updated": "2019-05-23T17:01:25.202Z",
-  "areas": [],
-  "repackedAreas": [],
-  "stations": []
+  "updated": "2019-05-23T18:01:27.398Z",
+  "areas": [
+    {
+      "zone": "Stor-Oslo",
+      "municipality": "Drammen",
+      "area": "Drammen",
+      "stations": [
+        {
+          "zone": "Stor-Oslo",
+          "municipality": "Drammen",
+          "area": "Drammen",
+          "station": "Nedre Storgate",
+          "eoi": "NO0016A",
+          "component": "PM10",
+          "fromTime": "2019-05-23T17:00:00+01:00",
+          "toTime": "2019-05-23T18:00:00+01:00",
+          "value": 9.2,
+          "unit": "µg/m³",
+          "latitude": 59.74333,
+          "longitude": 10.20595,
+          "timestep": 3600,
+          "index": 1,
+          "color": "6ee86e",
+          "data": [
+            {
+              "component": "PM10",
+              "fromTime": "2019-05-23T17:00:00+01:00",
+              "toTime": "2019-05-23T18:00:00+01:00",
+              "value": 9.2,
+              "unit": "µg/m³",
+              "color": "6ee86e",
+              "station": "Nedre Storgate"
+            }
+          ]
+        }
+      ],
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Trondheim",
+      "municipality": "Trondheim",
+      "area": "Trondheim",
+      "stations": [
+        {
+          "zone": "Trondheim",
+          "municipality": "Trondheim",
+          "area": "Trondheim",
+          "station": "Torvet",
+          "eoi": "NO0089A",
+          "component": "PM10",
+          "fromTime": "2019-05-23T18:00:00+01:00",
+          "toTime": "2019-05-23T19:00:00+01:00",
+          "value": 5.5,
+          "unit": "µg/m³",
+          "latitude": 63.43038,
+          "longitude": 10.39355,
+          "timestep": 3600,
+          "index": 1,
+          "color": "6ee86e",
+          "data": [
+            {
+              "component": "PM10",
+              "fromTime": "2019-05-23T18:00:00+01:00",
+              "toTime": "2019-05-23T19:00:00+01:00",
+              "value": 5.5,
+              "unit": "µg/m³",
+              "color": "6ee86e",
+              "station": "Torvet"
+            },
+            {
+              "component": "PM2.5",
+              "fromTime": "2019-05-23T18:00:00+01:00",
+              "toTime": "2019-05-23T19:00:00+01:00",
+              "value": 5.2,
+              "unit": "µg/m³",
+              "color": "6ee86e",
+              "station": "Torvet"
+            },
+            {
+              "component": "NO2",
+              "fromTime": "2019-05-23T18:00:00+01:00",
+              "toTime": "2019-05-23T19:00:00+01:00",
+              "value": 11.7,
+              "unit": "µg/m³",
+              "color": "6ee86e",
+              "station": "Torvet"
+            }
+          ]
+        }
+      ],
+      "color": "6ee86e"
+    }
+  ],
+  "repackedAreas": [
+    {
+      "zone": "Stor-Oslo",
+      "municipality": "Drammen",
+      "area": "Drammen",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Trondheim",
+      "municipality": "Trondheim",
+      "area": "Trondheim",
+      "color": "6ee86e"
+    }
+  ],
+  "stations": [
+    {
+      "zone": "Stor-Oslo",
+      "municipality": "Drammen",
+      "area": "Drammen",
+      "station": "Nedre Storgate",
+      "eoi": "NO0016A",
+      "component": "PM10",
+      "fromTime": "2019-05-23T17:00:00+01:00",
+      "toTime": "2019-05-23T18:00:00+01:00",
+      "value": 9.2,
+      "unit": "µg/m³",
+      "latitude": 59.74333,
+      "longitude": 10.20595,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "PM10",
+          "fromTime": "2019-05-23T17:00:00+01:00",
+          "toTime": "2019-05-23T18:00:00+01:00",
+          "value": 9.2,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Nedre Storgate"
+        }
+      ]
+    },
+    {
+      "zone": "Trondheim",
+      "municipality": "Trondheim",
+      "area": "Trondheim",
+      "station": "Torvet",
+      "eoi": "NO0089A",
+      "component": "PM10",
+      "fromTime": "2019-05-23T18:00:00+01:00",
+      "toTime": "2019-05-23T19:00:00+01:00",
+      "value": 5.5,
+      "unit": "µg/m³",
+      "latitude": 63.43038,
+      "longitude": 10.39355,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "PM10",
+          "fromTime": "2019-05-23T18:00:00+01:00",
+          "toTime": "2019-05-23T19:00:00+01:00",
+          "value": 5.5,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Torvet"
+        },
+        {
+          "component": "PM2.5",
+          "fromTime": "2019-05-23T18:00:00+01:00",
+          "toTime": "2019-05-23T19:00:00+01:00",
+          "value": 5.2,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Torvet"
+        },
+        {
+          "component": "NO2",
+          "fromTime": "2019-05-23T18:00:00+01:00",
+          "toTime": "2019-05-23T19:00:00+01:00",
+          "value": 11.7,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Torvet"
+        }
+      ]
+    }
+  ]
 }

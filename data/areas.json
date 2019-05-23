@@ -1,4 +1,17 @@
 {
-  "updated": "2019-05-23T17:01:25.202Z",
-  "areas": []
+  "updated": "2019-05-23T18:01:27.398Z",
+  "areas": [
+    {
+      "zone": "Stor-Oslo",
+      "municipality": "Drammen",
+      "area": "Drammen",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Trondheim",
+      "municipality": "Trondheim",
+      "area": "Trondheim",
+      "color": "6ee86e"
+    }
+  ]
 }
