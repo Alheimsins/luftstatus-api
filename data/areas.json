@@ -1,5 +1,5 @@
 {
-  "updated": "2019-05-24T15:01:56.802Z",
+  "updated": "2019-05-24T16:02:00.462Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -87,6 +87,12 @@
     },
     {
       "zone": "Øst og Sørlandet",
+      "municipality": "Hurdal",
+      "area": "Hurdal",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Øst og Sørlandet",
       "municipality": "Hønefoss",
       "area": "Hønefoss",
       "color": "6ee86e"
@@ -161,6 +167,12 @@
       "zone": "Vestlandet",
       "municipality": "Stavanger",
       "area": "Stavanger",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Midt-Norge og Nordland",
+      "municipality": "Sunndal",
+      "area": "Kårvatn",
       "color": "6ee86e"
     },
     {
