@@ -1,5 +1,5 @@
 {
-  "updated": "2019-05-24T18:02:00.962Z",
+  "updated": "2019-05-24T19:02:01.728Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -167,6 +167,12 @@
       "zone": "Vestlandet",
       "municipality": "Stavanger",
       "area": "Stavanger",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Midt-Norge og Nordland",
+      "municipality": "Sunndal",
+      "area": "Kårvatn",
       "color": "6ee86e"
     },
     {
