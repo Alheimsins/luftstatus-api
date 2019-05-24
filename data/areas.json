@@ -1,5 +1,5 @@
 {
-  "updated": "2019-05-24T06:01:42.023Z",
+  "updated": "2019-05-24T07:01:44.688Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -8,9 +8,21 @@
       "color": "6ee86e"
     },
     {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Birkenes",
+      "area": "Birkenes",
+      "color": "6ee86e"
+    },
+    {
       "zone": "Midt-Norge og Nordland",
       "municipality": "Bodø",
       "area": "Bodø",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Brumunddal",
+      "area": "Brumunddal",
       "color": "6ee86e"
     },
     {
@@ -143,7 +155,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Sarpsborg",
       "area": "Sarpsborg",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Stor-Oslo",
@@ -155,6 +167,12 @@
       "zone": "Vestlandet",
       "municipality": "Stavanger",
       "area": "Stavanger",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Midt-Norge og Nordland",
+      "municipality": "Sunndal",
+      "area": "Kårvatn",
       "color": "6ee86e"
     },
     {
