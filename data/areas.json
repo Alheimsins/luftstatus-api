@@ -1,5 +1,5 @@
 {
-  "updated": "2019-05-25T00:01:17.157Z",
+  "updated": "2019-05-25T01:01:29.938Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -64,7 +64,7 @@
     {
       "zone": "Øst og Sørlandet",
       "municipality": "Halden",
-      "area": "Halden",
+      "area": "Prestebakke",
       "color": "6ee86e"
     },
     {
@@ -119,7 +119,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Lillesand",
       "area": "Lillesand",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
