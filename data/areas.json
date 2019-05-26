@@ -1,5 +1,5 @@
 {
-  "updated": "2019-05-26T06:01:21.555Z",
+  "updated": "2019-05-26T07:02:02.185Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -98,6 +98,12 @@
       "color": "6ee86e"
     },
     {
+      "zone": "Øst og Sørlandet",
+      "municipality": "H��nefoss",
+      "area": "H��nefoss",
+      "color": "6ee86e"
+    },
+    {
       "zone": "Vestlandet",
       "municipality": "Karmøy",
       "area": "Sandve",
@@ -167,12 +173,6 @@
       "zone": "Vestlandet",
       "municipality": "Stavanger",
       "area": "Stavanger",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Midt-Norge og Nordland",
-      "municipality": "Sunndal",
-      "area": "Kårvatn",
       "color": "6ee86e"
     },
     {
