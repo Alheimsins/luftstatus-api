@@ -1,17 +1,1 @@
-{
-  "veryHigh": [],
-  "high": [
-    {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Brumunddal",
-      "area": "Brumunddal",
-      "color": "ff0000"
-    },
-    {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Moss",
-      "area": "Moss",
-      "color": "ff0000"
-    }
-  ]
-}
+[]
