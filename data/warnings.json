@@ -1,11 +1,11 @@
 {
-  "veryHigh": [
+  "veryHigh": [],
+  "high": [
     {
-      "zone": "Troms og Finnmark",
-      "municipality": "Sør-Varanger",
-      "area": "Sør-Varanger",
-      "color": "990099"
+      "zone": "Øst og Sørlandet",
+      "municipality": "Moss",
+      "area": "Moss",
+      "color": "ff0000"
     }
-  ],
-  "high": []
+  ]
 }
