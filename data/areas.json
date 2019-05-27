@@ -1,5 +1,5 @@
 {
-  "updated": "2019-05-27T08:02:15.105Z",
+  "updated": "2019-05-27T09:01:34.347Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -119,7 +119,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Lillesand",
       "area": "Lillesand",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -131,7 +131,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Moss",
       "area": "Moss",
-      "color": "6ee86e"
+      "color": "ff0000"
     },
     {
       "zone": "Midt-Norge og Nordland",
