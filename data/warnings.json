@@ -1,1 +1,11 @@
-[]
+{
+  "veryHigh": [
+    {
+      "zone": "Troms og Finnmark",
+      "municipality": "Sør-Varanger",
+      "area": "Sør-Varanger",
+      "color": "990099"
+    }
+  ],
+  "high": []
+}
