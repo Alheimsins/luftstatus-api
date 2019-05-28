@@ -1,5 +1,5 @@
 {
-  "updated": "2019-05-28T17:01:11.934Z",
+  "updated": "2019-05-28T18:01:12.638Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -11,12 +11,18 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Birkenes",
       "area": "Birkenes",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Midt-Norge og Nordland",
       "municipality": "Bodø",
       "area": "Bodø",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Brumunddal",
+      "area": "Brumunddal",
       "color": "6ee86e"
     },
     {
