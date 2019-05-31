@@ -1,5 +1,5 @@
 {
-  "updated": "2019-05-31T08:01:09.074Z",
+  "updated": "2019-05-31T09:01:21.040Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -83,12 +83,6 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Hemnes",
       "area": "Tustervatn",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Hurdal",
-      "area": "Hurdal",
       "color": "6ee86e"
     },
     {
