@@ -1,5 +1,5 @@
 {
-  "updated": "2019-05-31T11:01:41.350Z",
+  "updated": "2019-05-31T12:01:43.507Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -98,12 +98,6 @@
       "color": "6ee86e"
     },
     {
-      "zone": "Vestlandet",
-      "municipality": "Karmøy",
-      "area": "Sandve",
-      "color": "6ee86e"
-    },
-    {
       "zone": "Øst og Sørlandet",
       "municipality": "Kristiansand",
       "area": "Kristiansand",
@@ -167,6 +161,12 @@
       "zone": "Vestlandet",
       "municipality": "Stavanger",
       "area": "Stavanger",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Midt-Norge og Nordland",
+      "municipality": "Sunndal",
+      "area": "Kårvatn",
       "color": "6ee86e"
     },
     {
