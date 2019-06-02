@@ -1,5 +1,5 @@
 {
-  "updated": "2019-06-02T03:01:10.305Z",
+  "updated": "2019-06-02T04:01:18.879Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -155,12 +155,18 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Sarpsborg",
       "area": "Sarpsborg",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Vestlandet",
       "municipality": "Stavanger",
       "area": "Stavanger",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Midt-Norge og Nordland",
+      "municipality": "Sunndal",
+      "area": "Kårvatn",
       "color": "6ee86e"
     },
     {
