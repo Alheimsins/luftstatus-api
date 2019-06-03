@@ -1,5 +1,5 @@
 {
-  "updated": "2019-06-03T00:01:27.669Z",
+  "updated": "2019-06-03T01:01:16.104Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -17,6 +17,12 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Bodø",
       "area": "Bodø",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Øst og S��rlandet",
+      "municipality": "Brumunddal",
+      "area": "Brumunddal",
       "color": "6ee86e"
     },
     {
@@ -64,7 +70,7 @@
     {
       "zone": "Øst og Sørlandet",
       "municipality": "Halden",
-      "area": "Prestebakke",
+      "area": "Halden",
       "color": "6ee86e"
     },
     {
