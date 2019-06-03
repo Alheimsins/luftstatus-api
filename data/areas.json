@@ -1,5 +1,5 @@
 {
-  "updated": "2019-06-03T13:01:40.311Z",
+  "updated": "2019-06-03T14:01:48.156Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -143,7 +143,7 @@
       "zone": "Stor-Oslo",
       "municipality": "Oslo",
       "area": "Oslo",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Midt-Norge og Nordland",
