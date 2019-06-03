@@ -1,5 +1,5 @@
 {
-  "updated": "2019-06-03T09:02:14.632Z",
+  "updated": "2019-06-03T10:04:14.781Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -107,7 +107,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Kristiansand",
       "area": "Kristiansand",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -179,7 +179,7 @@
       "zone": "Troms og Finnmark",
       "municipality": "Sør-Varanger",
       "area": "Sør-Varanger",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Troms og Finnmark",
