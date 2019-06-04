@@ -1,5 +1,5 @@
 {
-  "updated": "2019-06-04T11:01:23.633Z",
+  "updated": "2019-06-04T12:01:26.779Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -77,12 +77,6 @@
       "zone": "Troms og Finnmark",
       "municipality": "Harstad",
       "area": "Harstad",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Midt-Norge og Nordland",
-      "municipality": "Hemnes",
-      "area": "Tustervatn",
       "color": "6ee86e"
     },
     {
