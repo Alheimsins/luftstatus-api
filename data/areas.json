@@ -1,5 +1,5 @@
 {
-  "updated": "2019-06-04T15:02:15.108Z",
+  "updated": "2019-06-04T16:01:39.614Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -158,15 +158,15 @@
       "color": "6ee86e"
     },
     {
-      "zone": "Vestlandet",
-      "municipality": "Stavanger",
-      "area": "Stavanger",
+      "zone": "Stor-Oslo",
+      "municipality": "Skedsmo",
+      "area": "Lillestrøm",
       "color": "6ee86e"
     },
     {
-      "zone": "Midt-Norge og Nordland",
-      "municipality": "Sunndal",
-      "area": "Kårvatn",
+      "zone": "Vestlandet",
+      "municipality": "Stavanger",
+      "area": "Stavanger",
       "color": "6ee86e"
     },
     {
