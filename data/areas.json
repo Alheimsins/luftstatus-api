@@ -1,5 +1,5 @@
 {
-  "updated": "2019-06-04T09:04:13.162Z",
+  "updated": "2019-06-04T10:04:01.448Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -59,7 +59,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Grenland",
       "area": "Grenland",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -131,7 +131,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Moss",
       "area": "Moss",
-      "color": "ff9900"
+      "color": "ff0000"
     },
     {
       "zone": "Midt-Norge og Nordland",
