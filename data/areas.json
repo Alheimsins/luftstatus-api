@@ -1,5 +1,5 @@
 {
-  "updated": "2019-06-04T16:01:39.614Z",
+  "updated": "2019-06-04T17:01:37.331Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -131,7 +131,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Moss",
       "area": "Moss",
-      "color": "ff9900"
+      "color": "ff0000"
     },
     {
       "zone": "Midt-Norge og Nordland",
@@ -167,6 +167,12 @@
       "zone": "Vestlandet",
       "municipality": "Stavanger",
       "area": "Stavanger",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Midt-Norge og Nordland",
+      "municipality": "Sunndal",
+      "area": "Kårvatn",
       "color": "6ee86e"
     },
     {
