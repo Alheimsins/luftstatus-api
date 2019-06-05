@@ -1,5 +1,5 @@
 {
-  "updated": "2019-06-05T16:02:04.752Z",
+  "updated": "2019-06-05T17:02:17.213Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -23,7 +23,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Brumunddal",
       "area": "Brumunddal",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Stor-Oslo",
@@ -35,12 +35,6 @@
       "zone": "Stor-Oslo",
       "municipality": "Drammen",
       "area": "Drammen",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Utenfor sonesystemet",
-      "municipality": "Dronning Maud Land",
-      "area": "Troll",
       "color": "6ee86e"
     },
     {
@@ -137,7 +131,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Moss",
       "area": "Moss",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Midt-Norge og Nordland",
