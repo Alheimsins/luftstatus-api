@@ -1,5 +1,5 @@
 {
-  "updated": "2019-06-06T20:02:16.874Z",
+  "updated": "2019-06-06T21:01:21.446Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -11,7 +11,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Birkenes",
       "area": "Birkenes",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Midt-Norge og Nordland",
@@ -38,6 +38,12 @@
       "color": "6ee86e"
     },
     {
+      "zone": "Utenfor sonesystemet",
+      "municipality": "Dronning Maud Land",
+      "area": "Troll",
+      "color": "6ee86e"
+    },
+    {
       "zone": "Øst og Sørlandet",
       "municipality": "Elverum",
       "area": "Elverum",
@@ -58,7 +64,7 @@
     {
       "zone": "Øst og Sørlandet",
       "municipality": "Halden",
-      "area": "Halden",
+      "area": "Prestebakke",
       "color": "6ee86e"
     },
     {
