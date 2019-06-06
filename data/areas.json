@@ -1,5 +1,5 @@
 {
-  "updated": "2019-06-06T22:01:24.254Z",
+  "updated": "2019-06-06T23:01:20.802Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -156,6 +156,12 @@
       "municipality": "Stavanger",
       "area": "Stavanger",
       "color": "6ee86e"
+    },
+    {
+      "zone": "Midt-Norge og Nordland",
+      "municipality": "Sunndal",
+      "area": "Kårvatn",
+      "color": "ff9900"
     },
     {
       "zone": "Utenfor sonesystemet",
