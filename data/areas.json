@@ -1,16 +1,10 @@
 {
-  "updated": "2019-06-07T00:01:17.413Z",
+  "updated": "2019-06-07T01:01:13.647Z",
   "areas": [
     {
       "zone": "Bergen",
       "municipality": "Bergen",
       "area": "Bergen",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Birkenes",
-      "area": "Birkenes",
       "color": "6ee86e"
     },
     {
@@ -77,6 +71,12 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Hemnes",
       "area": "Tustervatn",
+      "color": "ff9900"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Hurdal",
+      "area": "Hurdal",
       "color": "6ee86e"
     },
     {
