@@ -1,5 +1,5 @@
 {
-  "updated": "2019-06-10T07:01:15.802Z",
+  "updated": "2019-06-10T08:01:13.533Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -179,12 +179,6 @@
       "zone": "Utenfor sonesystemet",
       "municipality": "Svalbard",
       "area": "Zeppelinfjellet",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Troms og Finnmark",
-      "municipality": "Sør-Varanger",
-      "area": "Sør-Varanger",
       "color": "6ee86e"
     },
     {
