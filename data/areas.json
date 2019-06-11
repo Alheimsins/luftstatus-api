@@ -1,5 +1,5 @@
 {
-  "updated": "2019-06-11T17:01:13.446Z",
+  "updated": "2019-06-11T18:01:09.089Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -17,12 +17,6 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Bodø",
       "area": "Bodø",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Brumunddal",
-      "area": "Brumunddal",
       "color": "6ee86e"
     },
     {
@@ -208,6 +202,12 @@
     {
       "zone": "Midt-Norge og Nordland",
       "municipality": "Ålesund",
+      "area": "Ålesund",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Midt-Norge og Nordland",
+      "municipality": "��lesund",
       "area": "Ålesund",
       "color": "6ee86e"
     }
