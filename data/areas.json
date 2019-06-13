@@ -1,5 +1,5 @@
 {
-  "updated": "2019-06-13T17:01:19.538Z",
+  "updated": "2019-06-13T18:01:26.323Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -95,7 +95,7 @@
       "zone": "Vestlandet",
       "municipality": "Karmøy",
       "area": "Sandve",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -161,6 +161,12 @@
       "zone": "Vestlandet",
       "municipality": "Stavanger",
       "area": "Stavanger",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Midt-Norge og Nordland",
+      "municipality": "Sunndal",
+      "area": "Kårvatn",
       "color": "6ee86e"
     },
     {
