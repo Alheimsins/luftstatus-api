@@ -1,5 +1,5 @@
 {
-  "updated": "2019-06-13T15:02:01.684Z",
+  "updated": "2019-06-13T16:01:09.211Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -86,10 +86,16 @@
       "color": "6ee86e"
     },
     {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Hurdal",
+      "area": "Hurdal",
+      "color": "6ee86e"
+    },
+    {
       "zone": "Vestlandet",
       "municipality": "Karmøy",
       "area": "Sandve",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -143,7 +149,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Sarpsborg",
       "area": "Sarpsborg",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Stor-Oslo",
