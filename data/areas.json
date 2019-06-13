@@ -1,5 +1,5 @@
 {
-  "updated": "2019-06-13T20:03:55.268Z",
+  "updated": "2019-06-13T21:03:44.173Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -11,7 +11,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Birkenes",
       "area": "Birkenes",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Midt-Norge og Nordland",
@@ -161,6 +161,12 @@
       "zone": "Vestlandet",
       "municipality": "Stavanger",
       "area": "Stavanger",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Midt-Norge og Nordland",
+      "municipality": "Sunndal",
+      "area": "Kårvatn",
       "color": "6ee86e"
     },
     {
