@@ -1,5 +1,5 @@
 {
-  "updated": "2019-06-14T02:01:31.129Z",
+  "updated": "2019-06-14T03:01:40.259Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -118,12 +118,6 @@
     {
       "zone": "Øst og Sørlandet",
       "municipality": "Lørenskog",
-      "area": "Lørenskog",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Øst og Sørlandet",
-      "municipality": "L��renskog",
       "area": "Lørenskog",
       "color": "6ee86e"
     },
