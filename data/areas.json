@@ -1,17 +1,11 @@
 {
-  "updated": "2019-06-14T19:01:46.323Z",
+  "updated": "2019-06-14T20:02:24.764Z",
   "areas": [
     {
       "zone": "Bergen",
       "municipality": "Bergen",
       "area": "Bergen",
       "color": "6ee86e"
-    },
-    {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Birkenes",
-      "area": "Birkenes",
-      "color": "ff9900"
     },
     {
       "zone": "Midt-Norge og Nordland",
@@ -65,7 +59,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Halden",
       "area": "Halden",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -161,12 +155,6 @@
       "zone": "Vestlandet",
       "municipality": "Stavanger",
       "area": "Stavanger",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Midt-Norge og Nordland",
-      "municipality": "Sunndal",
-      "area": "Kårvatn",
       "color": "6ee86e"
     },
     {
