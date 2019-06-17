@@ -1,5 +1,5 @@
 {
-  "updated": "2019-06-17T09:01:30.731Z",
+  "updated": "2019-06-17T10:01:37.865Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -11,12 +11,6 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Bodø",
       "area": "Bodø",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Brumunddal",
-      "area": "Brumunddal",
       "color": "6ee86e"
     },
     {
@@ -101,6 +95,12 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Lillehammer",
       "area": "Lillehammer",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Lillesand",
+      "area": "Lillesand",
       "color": "6ee86e"
     },
     {
