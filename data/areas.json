@@ -1,5 +1,5 @@
 {
-  "updated": "2019-06-17T08:02:42.821Z",
+  "updated": "2019-06-17T09:01:30.731Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -105,12 +105,6 @@
     },
     {
       "zone": "Øst og Sørlandet",
-      "municipality": "Lillesand",
-      "area": "Lillesand",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Øst og Sørlandet",
       "municipality": "Lørenskog",
       "area": "Lørenskog",
       "color": "6ee86e"
@@ -155,6 +149,12 @@
       "zone": "Vestlandet",
       "municipality": "Stavanger",
       "area": "Stavanger",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Midt-Norge og Nordland",
+      "municipality": "Sunndal",
+      "area": "Kårvatn",
       "color": "6ee86e"
     },
     {
