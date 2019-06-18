@@ -1,5 +1,5 @@
 {
-  "updated": "2019-06-18T08:02:01.798Z",
+  "updated": "2019-06-18T09:01:58.648Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -164,6 +164,12 @@
       "color": "6ee86e"
     },
     {
+      "zone": "Midt-Norge og Nordland",
+      "municipality": "Sunndal",
+      "area": "Kårvatn",
+      "color": "6ee86e"
+    },
+    {
       "zone": "Utenfor sonesystemet",
       "municipality": "Svalbard",
       "area": "Zeppelinfjellet",
@@ -179,7 +185,7 @@
       "zone": "Troms og Finnmark",
       "municipality": "Tromsø",
       "area": "Tromsø",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Trondheim",
