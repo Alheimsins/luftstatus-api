@@ -1,17 +1,10 @@
 {
-  "veryHigh": [
+  "veryHigh": [],
+  "high": [
     {
       "zone": "Stor-Oslo",
       "municipality": "Oslo",
       "area": "Oslo",
-      "color": "990099"
-    }
-  ],
-  "high": [
-    {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Gjøvik",
-      "area": "Gjøvik",
       "color": "ff0000"
     }
   ]
