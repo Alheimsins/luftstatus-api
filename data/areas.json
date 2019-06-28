@@ -1,10 +1,16 @@
 {
-  "updated": "2019-06-19T11:01:54.885Z",
+  "updated": "2019-06-28T15:01:23.827Z",
   "areas": [
     {
       "zone": "Bergen",
       "municipality": "Bergen",
       "area": "Bergen",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Birkenes",
+      "area": "Birkenes",
       "color": "6ee86e"
     },
     {
@@ -58,7 +64,7 @@
     {
       "zone": "Øst og Sørlandet",
       "municipality": "Halden",
-      "area": "Halden",
+      "area": "Prestebakke",
       "color": "6ee86e"
     },
     {
