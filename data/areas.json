@@ -1,5 +1,5 @@
 {
-  "updated": "2019-07-01T14:01:39.594Z",
+  "updated": "2019-07-01T15:01:49.578Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -17,6 +17,12 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Bodø",
       "area": "Bodø",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Brumunddal",
+      "area": "Brumunddal",
       "color": "6ee86e"
     },
     {
@@ -53,12 +59,6 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Grenland",
       "area": "Grenland",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Halden",
-      "area": "Prestebakke",
       "color": "6ee86e"
     },
     {
@@ -155,12 +155,6 @@
       "zone": "Vestlandet",
       "municipality": "Stavanger",
       "area": "Stavanger",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Midt-Norge og Nordland",
-      "municipality": "Sunndal",
-      "area": "Kårvatn",
       "color": "6ee86e"
     },
     {
