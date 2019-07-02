@@ -1,5 +1,5 @@
 {
-  "updated": "2019-07-02T12:01:14.734Z",
+  "updated": "2019-07-02T13:01:10.332Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -164,12 +164,6 @@
       "color": "6ee86e"
     },
     {
-      "zone": "Midt-Norge og Nordland",
-      "municipality": "Sunndal",
-      "area": "Kårvatn",
-      "color": "6ee86e"
-    },
-    {
       "zone": "Utenfor sonesystemet",
       "municipality": "Svalbard",
       "area": "Zeppelinfjellet",
@@ -194,8 +188,20 @@
       "color": "6ee86e"
     },
     {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Tønsberg",
+      "area": "Tønsberg",
+      "color": "6ee86e"
+    },
+    {
       "zone": "Midt-Norge og Nordland",
       "municipality": "Ålesund",
+      "area": "Ålesund",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Midt-Norge og Nordland",
+      "municipality": "��lesund",
       "area": "Ålesund",
       "color": "6ee86e"
     }
