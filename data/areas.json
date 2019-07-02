@@ -1,5 +1,5 @@
 {
-  "updated": "2019-07-02T09:01:27.128Z",
+  "updated": "2019-07-02T10:01:36.417Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -11,12 +11,6 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Birkenes",
       "area": "Birkenes",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Midt-Norge og Nordland",
-      "municipality": "Bodø",
-      "area": "Bodø",
       "color": "6ee86e"
     },
     {
@@ -51,12 +45,6 @@
     },
     {
       "zone": "Øst og Sørlandet",
-      "municipality": "Gjøvik",
-      "area": "Gjøvik",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Øst og Sørlandet",
       "municipality": "Grenland",
       "area": "Grenland",
       "color": "6ee86e"
@@ -83,12 +71,6 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Hemnes",
       "area": "Tustervatn",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Hurdal",
-      "area": "Hurdal",
       "color": "6ee86e"
     },
     {
@@ -125,12 +107,6 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Moss",
       "area": "Moss",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Midt-Norge og Nordland",
-      "municipality": "Narvik",
-      "area": "Narvik",
       "color": "6ee86e"
     },
     {
