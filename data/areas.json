@@ -1,5 +1,5 @@
 {
-  "updated": "2019-07-03T14:01:42.846Z",
+  "updated": "2019-07-03T15:01:35.376Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -20,10 +20,16 @@
       "color": "6ee86e"
     },
     {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Brumunddal",
+      "area": "Brumunddal",
+      "color": "6ee86e"
+    },
+    {
       "zone": "Stor-Oslo",
       "municipality": "Bærum",
       "area": "Bærum",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Stor-Oslo",
