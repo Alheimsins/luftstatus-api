@@ -1,5 +1,5 @@
 {
-  "updated": "2019-07-04T11:01:15.023Z",
+  "updated": "2019-07-04T12:01:12.904Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -35,6 +35,12 @@
       "zone": "Stor-Oslo",
       "municipality": "Drammen",
       "area": "Drammen",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Utenfor sonesystemet",
+      "municipality": "Dronning Maud Land",
+      "area": "Troll",
       "color": "6ee86e"
     },
     {
