@@ -1,5 +1,5 @@
 {
-  "updated": "2019-07-05T06:01:17.494Z",
+  "updated": "2019-07-05T08:01:17.524Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -38,6 +38,12 @@
       "color": "6ee86e"
     },
     {
+      "zone": "Utenfor sonesystemet",
+      "municipality": "Dronning Maud Land",
+      "area": "Troll",
+      "color": "6ee86e"
+    },
+    {
       "zone": "Øst og Sørlandet",
       "municipality": "Elverum",
       "area": "Elverum",
@@ -59,7 +65,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Grenland",
       "area": "Grenland",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -161,6 +167,12 @@
       "zone": "Vestlandet",
       "municipality": "Stavanger",
       "area": "Stavanger",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Midt-Norge og Nordland",
+      "municipality": "Sunndal",
+      "area": "Kårvatn",
       "color": "6ee86e"
     },
     {
