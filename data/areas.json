@@ -1,5 +1,5 @@
 {
-  "updated": "2019-07-06T15:01:43.597Z",
+  "updated": "2019-07-06T16:01:36.165Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -161,6 +161,12 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Sunndal",
       "area": "Kårvatn",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Utenfor sonesystemet",
+      "municipality": "Svalbard",
+      "area": "Zeppelinfjellet",
       "color": "6ee86e"
     },
     {
