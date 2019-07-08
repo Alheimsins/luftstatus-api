@@ -1,5 +1,5 @@
 {
-  "updated": "2019-07-08T07:01:09.937Z",
+  "updated": "2019-07-08T08:01:14.973Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -107,12 +107,6 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Lillehammer",
       "area": "Lillehammer",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Lillesand",
-      "area": "Lillesand",
       "color": "6ee86e"
     },
     {
