@@ -1,5 +1,5 @@
 {
-  "updated": "2019-07-10T22:01:15.431Z",
+  "updated": "2019-07-10T23:01:13.623Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -59,6 +59,18 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Grenland",
       "area": "Grenland",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Halden",
+      "area": "Prestebakke",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Hamar",
+      "area": "Hamar",
       "color": "6ee86e"
     },
     {
@@ -128,6 +140,12 @@
       "color": "6ee86e"
     },
     {
+      "zone": "Midt-Norge og Nordland",
+      "municipality": "Rana",
+      "area": "Mo i Rana",
+      "color": "6ee86e"
+    },
+    {
       "zone": "Øst og Sørlandet",
       "municipality": "Sarpsborg",
       "area": "Sarpsborg",
@@ -143,12 +161,6 @@
       "zone": "Vestlandet",
       "municipality": "Stavanger",
       "area": "Stavanger",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Midt-Norge og Nordland",
-      "municipality": "Sunndal",
-      "area": "Kårvatn",
       "color": "6ee86e"
     },
     {
