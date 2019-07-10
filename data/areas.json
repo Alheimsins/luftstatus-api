@@ -1,5 +1,5 @@
 {
-  "updated": "2019-07-10T19:01:58.288Z",
+  "updated": "2019-07-10T20:01:28.105Z",
   "areas": [
     {
       "zone": "Øst og Sørlandet",
@@ -14,12 +14,6 @@
       "color": "6ee86e"
     },
     {
-      "zone": "Utenfor sonesystemet",
-      "municipality": "Dronning Maud Land",
-      "area": "Troll",
-      "color": "6ee86e"
-    },
-    {
       "zone": "Midt-Norge og Nordland",
       "municipality": "Sunndal",
       "area": "Kårvatn",
@@ -29,12 +23,6 @@
       "zone": "Utenfor sonesystemet",
       "municipality": "Svalbard",
       "area": "Zeppelinfjellet",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Trondheim",
-      "municipality": "Trondheim",
-      "area": "Trondheim",
       "color": "6ee86e"
     }
   ]

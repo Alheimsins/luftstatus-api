@@ -1,5 +1,5 @@
 {
-  "updated": "2019-07-10T19:01:58.288Z",
+  "updated": "2019-07-10T20:01:28.105Z",
   "stations": [
     {
       "zone": "Stor-Oslo",
@@ -8,9 +8,9 @@
       "station": "Nedre Storgate",
       "eoi": "NO0016A",
       "component": "PM10",
-      "fromTime": "2019-07-10T18:00:00+01:00",
-      "toTime": "2019-07-10T19:00:00+01:00",
-      "value": 8.3,
+      "fromTime": "2019-07-10T19:00:00+01:00",
+      "toTime": "2019-07-10T20:00:00+01:00",
+      "value": 14,
       "unit": "µg/m³",
       "latitude": 59.74333,
       "longitude": 10.20595,
@@ -20,58 +20,12 @@
       "data": [
         {
           "component": "PM10",
-          "fromTime": "2019-07-10T18:00:00+01:00",
-          "toTime": "2019-07-10T19:00:00+01:00",
-          "value": 8.3,
+          "fromTime": "2019-07-10T19:00:00+01:00",
+          "toTime": "2019-07-10T20:00:00+01:00",
+          "value": 14,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Nedre Storgate"
-        }
-      ]
-    },
-    {
-      "zone": "Trondheim",
-      "municipality": "Trondheim",
-      "area": "Trondheim",
-      "station": "Torvet",
-      "eoi": "NO0089A",
-      "component": "PM10",
-      "fromTime": "2019-07-10T17:00:00+01:00",
-      "toTime": "2019-07-10T18:00:00+01:00",
-      "value": 9.8,
-      "unit": "µg/m³",
-      "latitude": 63.43038,
-      "longitude": 10.39355,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "PM10",
-          "fromTime": "2019-07-10T17:00:00+01:00",
-          "toTime": "2019-07-10T18:00:00+01:00",
-          "value": 9.8,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Torvet"
-        },
-        {
-          "component": "PM2.5",
-          "fromTime": "2019-07-10T17:00:00+01:00",
-          "toTime": "2019-07-10T18:00:00+01:00",
-          "value": 7.7,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Torvet"
-        },
-        {
-          "component": "NO2",
-          "fromTime": "2019-07-10T17:00:00+01:00",
-          "toTime": "2019-07-10T18:00:00+01:00",
-          "value": 7.6,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Torvet"
         }
       ]
     },
@@ -82,9 +36,9 @@
       "station": "Zeppelinfjellet",
       "eoi": "NO0042R",
       "component": "O3",
-      "fromTime": "2019-07-10T18:00:00+01:00",
-      "toTime": "2019-07-10T19:00:00+01:00",
-      "value": 45,
+      "fromTime": "2019-07-10T19:00:00+01:00",
+      "toTime": "2019-07-10T20:00:00+01:00",
+      "value": 45.8,
       "unit": "µg/m³",
       "latitude": 78.90669,
       "longitude": 11.88899,
@@ -94,40 +48,12 @@
       "data": [
         {
           "component": "O3",
-          "fromTime": "2019-07-10T18:00:00+01:00",
-          "toTime": "2019-07-10T19:00:00+01:00",
-          "value": 45,
+          "fromTime": "2019-07-10T19:00:00+01:00",
+          "toTime": "2019-07-10T20:00:00+01:00",
+          "value": 45.8,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Zeppelinfjellet"
-        }
-      ]
-    },
-    {
-      "zone": "Utenfor sonesystemet",
-      "municipality": "Dronning Maud Land",
-      "area": "Troll",
-      "station": "Trollhaugen",
-      "eoi": null,
-      "component": "O3",
-      "fromTime": "2019-07-10T17:00:00+01:00",
-      "toTime": "2019-07-10T18:00:00+01:00",
-      "value": 67.8,
-      "unit": "µg/m³",
-      "latitude": -72.0117,
-      "longitude": 2.5351,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "O3",
-          "fromTime": "2019-07-10T17:00:00+01:00",
-          "toTime": "2019-07-10T18:00:00+01:00",
-          "value": 67.8,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Trollhaugen"
         }
       ]
     },
@@ -138,9 +64,9 @@
       "station": "Kårvatn",
       "eoi": "NO0039R",
       "component": "O3",
-      "fromTime": "2019-07-10T18:00:00+01:00",
-      "toTime": "2019-07-10T19:00:00+01:00",
-      "value": 46.6,
+      "fromTime": "2019-07-10T19:00:00+01:00",
+      "toTime": "2019-07-10T20:00:00+01:00",
+      "value": 45,
       "unit": "µg/m³",
       "latitude": 62.78246,
       "longitude": 8.87658,
@@ -150,9 +76,9 @@
       "data": [
         {
           "component": "O3",
-          "fromTime": "2019-07-10T18:00:00+01:00",
-          "toTime": "2019-07-10T19:00:00+01:00",
-          "value": 46.6,
+          "fromTime": "2019-07-10T19:00:00+01:00",
+          "toTime": "2019-07-10T20:00:00+01:00",
+          "value": 45,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Kårvatn"
@@ -166,9 +92,9 @@
       "station": "Birkenesobservatoriet",
       "eoi": "NO0002R",
       "component": "O3",
-      "fromTime": "2019-07-10T18:00:00+01:00",
-      "toTime": "2019-07-10T19:00:00+01:00",
-      "value": 69.438,
+      "fromTime": "2019-07-10T19:00:00+01:00",
+      "toTime": "2019-07-10T20:00:00+01:00",
+      "value": 70.638,
       "unit": "µg/m³",
       "latitude": 58.38846,
       "longitude": 8.2519,
@@ -178,9 +104,9 @@
       "data": [
         {
           "component": "O3",
-          "fromTime": "2019-07-10T18:00:00+01:00",
-          "toTime": "2019-07-10T19:00:00+01:00",
-          "value": 69.438,
+          "fromTime": "2019-07-10T19:00:00+01:00",
+          "toTime": "2019-07-10T20:00:00+01:00",
+          "value": 70.638,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Birkenesobservatoriet"
