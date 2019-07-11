@@ -1,5 +1,5 @@
 {
-  "updated": "2019-07-11T08:01:30.838Z",
+  "updated": "2019-07-11T09:01:16.364Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -20,12 +20,6 @@
       "color": "6ee86e"
     },
     {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Brumunddal",
-      "area": "Brumunddal",
-      "color": "6ee86e"
-    },
-    {
       "zone": "Stor-Oslo",
       "municipality": "Bærum",
       "area": "Bærum",
@@ -35,12 +29,6 @@
       "zone": "Stor-Oslo",
       "municipality": "Drammen",
       "area": "Drammen",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Utenfor sonesystemet",
-      "municipality": "Dronning Maud Land",
-      "area": "Troll",
       "color": "6ee86e"
     },
     {
@@ -137,7 +125,7 @@
       "zone": "Stor-Oslo",
       "municipality": "Oslo",
       "area": "Oslo",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Midt-Norge og Nordland",
@@ -161,12 +149,6 @@
       "zone": "Vestlandet",
       "municipality": "Stavanger",
       "area": "Stavanger",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Midt-Norge og Nordland",
-      "municipality": "Sunndal",
-      "area": "Kårvatn",
       "color": "6ee86e"
     },
     {
