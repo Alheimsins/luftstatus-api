@@ -1,5 +1,5 @@
 {
-  "updated": "2019-07-11T03:01:13.521Z",
+  "updated": "2019-07-11T04:01:19.557Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -45,8 +45,26 @@
     },
     {
       "zone": "Øst og Sørlandet",
+      "municipality": "Fredrikstad",
+      "area": "Fredrikstad",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Gjøvik",
+      "area": "Gjøvik",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Øst og Sørlandet",
       "municipality": "Grenland",
       "area": "Grenland",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Halden",
+      "area": "Prestebakke",
       "color": "6ee86e"
     },
     {
@@ -71,6 +89,12 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Hurdal",
       "area": "Hurdal",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Vestlandet",
+      "municipality": "Karmøy",
+      "area": "Sandve",
       "color": "6ee86e"
     },
     {
@@ -107,6 +131,12 @@
       "zone": "Stor-Oslo",
       "municipality": "Oslo",
       "area": "Oslo",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Midt-Norge og Nordland",
+      "municipality": "Rana",
+      "area": "Mo i Rana",
       "color": "6ee86e"
     },
     {
