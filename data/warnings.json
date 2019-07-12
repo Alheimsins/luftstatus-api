@@ -1,1 +1,11 @@
-[]
+{
+  "veryHigh": [],
+  "high": [
+    {
+      "zone": "Stor-Oslo",
+      "municipality": "Oslo",
+      "area": "Oslo",
+      "color": "ff0000"
+    }
+  ]
+}
