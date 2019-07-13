@@ -1,5 +1,5 @@
 {
-  "updated": "2019-07-13T17:01:16.789Z",
+  "updated": "2019-07-13T18:01:18.745Z",
   "stations": [
     {
       "zone": "Stor-Oslo",
@@ -8,9 +8,9 @@
       "station": "Nedre Storgate",
       "eoi": "NO0016A",
       "component": "PM10",
-      "fromTime": "2019-07-13T16:00:00+01:00",
-      "toTime": "2019-07-13T17:00:00+01:00",
-      "value": 11.9,
+      "fromTime": "2019-07-13T17:00:00+01:00",
+      "toTime": "2019-07-13T18:00:00+01:00",
+      "value": 15.1,
       "unit": "µg/m³",
       "latitude": 59.74333,
       "longitude": 10.20595,
@@ -20,12 +20,40 @@
       "data": [
         {
           "component": "PM10",
-          "fromTime": "2019-07-13T16:00:00+01:00",
-          "toTime": "2019-07-13T17:00:00+01:00",
-          "value": 11.9,
+          "fromTime": "2019-07-13T17:00:00+01:00",
+          "toTime": "2019-07-13T18:00:00+01:00",
+          "value": 15.1,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Nedre Storgate"
+        }
+      ]
+    },
+    {
+      "zone": "Utenfor sonesystemet",
+      "municipality": "Svalbard",
+      "area": "Zeppelinfjellet",
+      "station": "Zeppelinfjellet",
+      "eoi": "NO0042R",
+      "component": "O3",
+      "fromTime": "2019-07-13T17:00:00+01:00",
+      "toTime": "2019-07-13T18:00:00+01:00",
+      "value": 46.6,
+      "unit": "µg/m³",
+      "latitude": 78.90669,
+      "longitude": 11.88899,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "O3",
+          "fromTime": "2019-07-13T17:00:00+01:00",
+          "toTime": "2019-07-13T18:00:00+01:00",
+          "value": 46.6,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Zeppelinfjellet"
         }
       ]
     },
@@ -36,9 +64,9 @@
       "station": "Birkenesobservatoriet",
       "eoi": "NO0002R",
       "component": "O3",
-      "fromTime": "2019-07-13T16:00:00+01:00",
-      "toTime": "2019-07-13T17:00:00+01:00",
-      "value": 74.838,
+      "fromTime": "2019-07-13T17:00:00+01:00",
+      "toTime": "2019-07-13T18:00:00+01:00",
+      "value": 87.438,
       "unit": "µg/m³",
       "latitude": 58.38846,
       "longitude": 8.2519,
@@ -48,9 +76,9 @@
       "data": [
         {
           "component": "O3",
-          "fromTime": "2019-07-13T16:00:00+01:00",
-          "toTime": "2019-07-13T17:00:00+01:00",
-          "value": 74.838,
+          "fromTime": "2019-07-13T17:00:00+01:00",
+          "toTime": "2019-07-13T18:00:00+01:00",
+          "value": 87.438,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Birkenesobservatoriet"
@@ -64,9 +92,9 @@
       "station": "Kårvatn",
       "eoi": "NO0039R",
       "component": "O3",
-      "fromTime": "2019-07-13T16:00:00+01:00",
-      "toTime": "2019-07-13T17:00:00+01:00",
-      "value": 60.4,
+      "fromTime": "2019-07-13T17:00:00+01:00",
+      "toTime": "2019-07-13T18:00:00+01:00",
+      "value": 60,
       "unit": "µg/m³",
       "latitude": 62.78246,
       "longitude": 8.87658,
@@ -76,40 +104,12 @@
       "data": [
         {
           "component": "O3",
-          "fromTime": "2019-07-13T16:00:00+01:00",
-          "toTime": "2019-07-13T17:00:00+01:00",
-          "value": 60.4,
+          "fromTime": "2019-07-13T17:00:00+01:00",
+          "toTime": "2019-07-13T18:00:00+01:00",
+          "value": 60,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Kårvatn"
-        }
-      ]
-    },
-    {
-      "zone": "Utenfor sonesystemet",
-      "municipality": "Svalbard",
-      "area": "Zeppelinfjellet",
-      "station": "Zeppelinfjellet",
-      "eoi": "NO0042R",
-      "component": "O3",
-      "fromTime": "2019-07-13T16:00:00+01:00",
-      "toTime": "2019-07-13T17:00:00+01:00",
-      "value": 50.8,
-      "unit": "µg/m³",
-      "latitude": 78.90669,
-      "longitude": 11.88899,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "O3",
-          "fromTime": "2019-07-13T16:00:00+01:00",
-          "toTime": "2019-07-13T17:00:00+01:00",
-          "value": 50.8,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Zeppelinfjellet"
         }
       ]
     }
