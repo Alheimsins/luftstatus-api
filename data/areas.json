@@ -1,10 +1,28 @@
 {
-  "updated": "2019-07-13T19:01:19.240Z",
+  "updated": "2019-07-13T20:01:14.078Z",
   "areas": [
+    {
+      "zone": "Bergen",
+      "municipality": "Bergen",
+      "area": "Bergen",
+      "color": "6ee86e"
+    },
     {
       "zone": "Øst og Sørlandet",
       "municipality": "Birkenes",
       "area": "Birkenes",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Midt-Norge og Nordland",
+      "municipality": "Bodø",
+      "area": "Bodø",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Stor-Oslo",
+      "municipality": "Bærum",
+      "area": "Bærum",
       "color": "6ee86e"
     },
     {
@@ -14,21 +32,153 @@
       "color": "6ee86e"
     },
     {
-      "zone": "Utenfor sonesystemet",
-      "municipality": "Dronning Maud Land",
-      "area": "Troll",
+      "zone": "Øst og Sørlandet",
+      "municipality": "Fredrikstad",
+      "area": "Fredrikstad",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Gjøvik",
+      "area": "Gjøvik",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Grenland",
+      "area": "Grenland",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Halden",
+      "area": "Prestebakke",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Hamar",
+      "area": "Hamar",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Troms og Finnmark",
+      "municipality": "Harstad",
+      "area": "Harstad",
       "color": "6ee86e"
     },
     {
       "zone": "Midt-Norge og Nordland",
-      "municipality": "Sunndal",
-      "area": "Kårvatn",
+      "municipality": "Hemnes",
+      "area": "Tustervatn",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Hurdal",
+      "area": "Hurdal",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Vestlandet",
+      "municipality": "Karmøy",
+      "area": "Sandve",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Kristiansand",
+      "area": "Kristiansand",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Lillehammer",
+      "area": "Lillehammer",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Lillesand",
+      "area": "Lillesand",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Moss",
+      "area": "Moss",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Midt-Norge og Nordland",
+      "municipality": "Narvik",
+      "area": "Narvik",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Stor-Oslo",
+      "municipality": "Oslo",
+      "area": "Oslo",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Midt-Norge og Nordland",
+      "municipality": "Rana",
+      "area": "Mo i Rana",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Sarpsborg",
+      "area": "Sarpsborg",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Stor-Oslo",
+      "municipality": "Skedsmo",
+      "area": "Lillestrøm",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Vestlandet",
+      "municipality": "Stavanger",
+      "area": "Stavanger",
       "color": "6ee86e"
     },
     {
       "zone": "Utenfor sonesystemet",
       "municipality": "Svalbard",
       "area": "Zeppelinfjellet",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Troms og Finnmark",
+      "municipality": "Sør-Varanger",
+      "area": "Sør-Varanger",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Troms og Finnmark",
+      "municipality": "Tromsø",
+      "area": "Tromsø",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Trondheim",
+      "municipality": "Trondheim",
+      "area": "Trondheim",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Tønsberg",
+      "area": "Tønsberg",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Midt-Norge og Nordland",
+      "municipality": "Ålesund",
+      "area": "Ålesund",
       "color": "6ee86e"
     }
   ]
