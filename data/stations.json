@@ -1,5 +1,5 @@
 {
-  "updated": "2019-07-13T11:01:15.269Z",
+  "updated": "2019-07-13T12:01:19.618Z",
   "stations": [
     {
       "zone": "Stor-Oslo",
@@ -8,9 +8,9 @@
       "station": "Nedre Storgate",
       "eoi": "NO0016A",
       "component": "PM10",
-      "fromTime": "2019-07-13T10:00:00+01:00",
-      "toTime": "2019-07-13T11:00:00+01:00",
-      "value": 11.4,
+      "fromTime": "2019-07-13T11:00:00+01:00",
+      "toTime": "2019-07-13T12:00:00+01:00",
+      "value": 10.8,
       "unit": "µg/m³",
       "latitude": 59.74333,
       "longitude": 10.20595,
@@ -20,96 +20,12 @@
       "data": [
         {
           "component": "PM10",
-          "fromTime": "2019-07-13T10:00:00+01:00",
-          "toTime": "2019-07-13T11:00:00+01:00",
-          "value": 11.4,
+          "fromTime": "2019-07-13T11:00:00+01:00",
+          "toTime": "2019-07-13T12:00:00+01:00",
+          "value": 10.8,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Nedre Storgate"
-        }
-      ]
-    },
-    {
-      "zone": "Utenfor sonesystemet",
-      "municipality": "Svalbard",
-      "area": "Zeppelinfjellet",
-      "station": "Zeppelinfjellet",
-      "eoi": "NO0042R",
-      "component": "O3",
-      "fromTime": "2019-07-13T10:00:00+01:00",
-      "toTime": "2019-07-13T11:00:00+01:00",
-      "value": 51.4,
-      "unit": "µg/m³",
-      "latitude": 78.90669,
-      "longitude": 11.88899,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "O3",
-          "fromTime": "2019-07-13T10:00:00+01:00",
-          "toTime": "2019-07-13T11:00:00+01:00",
-          "value": 51.4,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Zeppelinfjellet"
-        }
-      ]
-    },
-    {
-      "zone": "Midt-Norge og Nordland",
-      "municipality": "Sunndal",
-      "area": "Kårvatn",
-      "station": "Kårvatn",
-      "eoi": "NO0039R",
-      "component": "O3",
-      "fromTime": "2019-07-13T10:00:00+01:00",
-      "toTime": "2019-07-13T11:00:00+01:00",
-      "value": 50,
-      "unit": "µg/m³",
-      "latitude": 62.78246,
-      "longitude": 8.87658,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "O3",
-          "fromTime": "2019-07-13T10:00:00+01:00",
-          "toTime": "2019-07-13T11:00:00+01:00",
-          "value": 50,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Kårvatn"
-        }
-      ]
-    },
-    {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Birkenes",
-      "area": "Birkenes",
-      "station": "Birkenesobservatoriet",
-      "eoi": "NO0002R",
-      "component": "O3",
-      "fromTime": "2019-07-13T10:00:00+01:00",
-      "toTime": "2019-07-13T11:00:00+01:00",
-      "value": 67.238,
-      "unit": "µg/m³",
-      "latitude": 58.38846,
-      "longitude": 8.2519,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "O3",
-          "fromTime": "2019-07-13T10:00:00+01:00",
-          "toTime": "2019-07-13T11:00:00+01:00",
-          "value": 67.238,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Birkenesobservatoriet"
         }
       ]
     }

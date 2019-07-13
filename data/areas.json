@@ -1,28 +1,10 @@
 {
-  "updated": "2019-07-13T11:01:15.269Z",
+  "updated": "2019-07-13T12:01:19.618Z",
   "areas": [
-    {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Birkenes",
-      "area": "Birkenes",
-      "color": "6ee86e"
-    },
     {
       "zone": "Stor-Oslo",
       "municipality": "Drammen",
       "area": "Drammen",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Midt-Norge og Nordland",
-      "municipality": "Sunndal",
-      "area": "Kårvatn",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Utenfor sonesystemet",
-      "municipality": "Svalbard",
-      "area": "Zeppelinfjellet",
       "color": "6ee86e"
     }
   ]
