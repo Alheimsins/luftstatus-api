@@ -1,5 +1,5 @@
 {
-  "updated": "2019-07-13T18:01:18.745Z",
+  "updated": "2019-07-13T19:01:19.240Z",
   "areas": [
     {
       "zone": "Øst og Sørlandet",
@@ -13,9 +13,9 @@
           "station": "Birkenesobservatoriet",
           "eoi": "NO0002R",
           "component": "O3",
-          "fromTime": "2019-07-13T17:00:00+01:00",
-          "toTime": "2019-07-13T18:00:00+01:00",
-          "value": 87.438,
+          "fromTime": "2019-07-13T18:00:00+01:00",
+          "toTime": "2019-07-13T19:00:00+01:00",
+          "value": 71.838,
           "unit": "µg/m³",
           "latitude": 58.38846,
           "longitude": 8.2519,
@@ -25,9 +25,9 @@
           "data": [
             {
               "component": "O3",
-              "fromTime": "2019-07-13T17:00:00+01:00",
-              "toTime": "2019-07-13T18:00:00+01:00",
-              "value": 87.438,
+              "fromTime": "2019-07-13T18:00:00+01:00",
+              "toTime": "2019-07-13T19:00:00+01:00",
+              "value": 71.838,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Birkenesobservatoriet"
@@ -49,9 +49,9 @@
           "station": "Nedre Storgate",
           "eoi": "NO0016A",
           "component": "PM10",
-          "fromTime": "2019-07-13T17:00:00+01:00",
-          "toTime": "2019-07-13T18:00:00+01:00",
-          "value": 15.1,
+          "fromTime": "2019-07-13T18:00:00+01:00",
+          "toTime": "2019-07-13T19:00:00+01:00",
+          "value": 21.9,
           "unit": "µg/m³",
           "latitude": 59.74333,
           "longitude": 10.20595,
@@ -61,12 +61,48 @@
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-07-13T17:00:00+01:00",
-              "toTime": "2019-07-13T18:00:00+01:00",
-              "value": 15.1,
+              "fromTime": "2019-07-13T18:00:00+01:00",
+              "toTime": "2019-07-13T19:00:00+01:00",
+              "value": 21.9,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Nedre Storgate"
+            }
+          ]
+        }
+      ],
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Utenfor sonesystemet",
+      "municipality": "Dronning Maud Land",
+      "area": "Troll",
+      "stations": [
+        {
+          "zone": "Utenfor sonesystemet",
+          "municipality": "Dronning Maud Land",
+          "area": "Troll",
+          "station": "Trollhaugen",
+          "eoi": null,
+          "component": "O3",
+          "fromTime": "2019-07-13T17:00:00+01:00",
+          "toTime": "2019-07-13T18:00:00+01:00",
+          "value": 67.4,
+          "unit": "µg/m³",
+          "latitude": -72.0117,
+          "longitude": 2.5351,
+          "timestep": 3600,
+          "index": 1,
+          "color": "6ee86e",
+          "data": [
+            {
+              "component": "O3",
+              "fromTime": "2019-07-13T17:00:00+01:00",
+              "toTime": "2019-07-13T18:00:00+01:00",
+              "value": 67.4,
+              "unit": "µg/m³",
+              "color": "6ee86e",
+              "station": "Trollhaugen"
             }
           ]
         }
@@ -85,9 +121,9 @@
           "station": "Kårvatn",
           "eoi": "NO0039R",
           "component": "O3",
-          "fromTime": "2019-07-13T17:00:00+01:00",
-          "toTime": "2019-07-13T18:00:00+01:00",
-          "value": 60,
+          "fromTime": "2019-07-13T18:00:00+01:00",
+          "toTime": "2019-07-13T19:00:00+01:00",
+          "value": 57.4,
           "unit": "µg/m³",
           "latitude": 62.78246,
           "longitude": 8.87658,
@@ -97,9 +133,9 @@
           "data": [
             {
               "component": "O3",
-              "fromTime": "2019-07-13T17:00:00+01:00",
-              "toTime": "2019-07-13T18:00:00+01:00",
-              "value": 60,
+              "fromTime": "2019-07-13T18:00:00+01:00",
+              "toTime": "2019-07-13T19:00:00+01:00",
+              "value": 57.4,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Kårvatn"
@@ -121,9 +157,9 @@
           "station": "Zeppelinfjellet",
           "eoi": "NO0042R",
           "component": "O3",
-          "fromTime": "2019-07-13T17:00:00+01:00",
-          "toTime": "2019-07-13T18:00:00+01:00",
-          "value": 46.6,
+          "fromTime": "2019-07-13T18:00:00+01:00",
+          "toTime": "2019-07-13T19:00:00+01:00",
+          "value": 45.2,
           "unit": "µg/m³",
           "latitude": 78.90669,
           "longitude": 11.88899,
@@ -133,9 +169,9 @@
           "data": [
             {
               "component": "O3",
-              "fromTime": "2019-07-13T17:00:00+01:00",
-              "toTime": "2019-07-13T18:00:00+01:00",
-              "value": 46.6,
+              "fromTime": "2019-07-13T18:00:00+01:00",
+              "toTime": "2019-07-13T19:00:00+01:00",
+              "value": 45.2,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Zeppelinfjellet"
@@ -160,6 +196,12 @@
       "color": "6ee86e"
     },
     {
+      "zone": "Utenfor sonesystemet",
+      "municipality": "Dronning Maud Land",
+      "area": "Troll",
+      "color": "6ee86e"
+    },
+    {
       "zone": "Midt-Norge og Nordland",
       "municipality": "Sunndal",
       "area": "Kårvatn",
@@ -180,9 +222,9 @@
       "station": "Nedre Storgate",
       "eoi": "NO0016A",
       "component": "PM10",
-      "fromTime": "2019-07-13T17:00:00+01:00",
-      "toTime": "2019-07-13T18:00:00+01:00",
-      "value": 15.1,
+      "fromTime": "2019-07-13T18:00:00+01:00",
+      "toTime": "2019-07-13T19:00:00+01:00",
+      "value": 21.9,
       "unit": "µg/m³",
       "latitude": 59.74333,
       "longitude": 10.20595,
@@ -192,9 +234,9 @@
       "data": [
         {
           "component": "PM10",
-          "fromTime": "2019-07-13T17:00:00+01:00",
-          "toTime": "2019-07-13T18:00:00+01:00",
-          "value": 15.1,
+          "fromTime": "2019-07-13T18:00:00+01:00",
+          "toTime": "2019-07-13T19:00:00+01:00",
+          "value": 21.9,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Nedre Storgate"
@@ -208,9 +250,9 @@
       "station": "Zeppelinfjellet",
       "eoi": "NO0042R",
       "component": "O3",
-      "fromTime": "2019-07-13T17:00:00+01:00",
-      "toTime": "2019-07-13T18:00:00+01:00",
-      "value": 46.6,
+      "fromTime": "2019-07-13T18:00:00+01:00",
+      "toTime": "2019-07-13T19:00:00+01:00",
+      "value": 45.2,
       "unit": "µg/m³",
       "latitude": 78.90669,
       "longitude": 11.88899,
@@ -220,40 +262,12 @@
       "data": [
         {
           "component": "O3",
-          "fromTime": "2019-07-13T17:00:00+01:00",
-          "toTime": "2019-07-13T18:00:00+01:00",
-          "value": 46.6,
+          "fromTime": "2019-07-13T18:00:00+01:00",
+          "toTime": "2019-07-13T19:00:00+01:00",
+          "value": 45.2,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Zeppelinfjellet"
-        }
-      ]
-    },
-    {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Birkenes",
-      "area": "Birkenes",
-      "station": "Birkenesobservatoriet",
-      "eoi": "NO0002R",
-      "component": "O3",
-      "fromTime": "2019-07-13T17:00:00+01:00",
-      "toTime": "2019-07-13T18:00:00+01:00",
-      "value": 87.438,
-      "unit": "µg/m³",
-      "latitude": 58.38846,
-      "longitude": 8.2519,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "O3",
-          "fromTime": "2019-07-13T17:00:00+01:00",
-          "toTime": "2019-07-13T18:00:00+01:00",
-          "value": 87.438,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Birkenesobservatoriet"
         }
       ]
     },
@@ -264,9 +278,9 @@
       "station": "Kårvatn",
       "eoi": "NO0039R",
       "component": "O3",
-      "fromTime": "2019-07-13T17:00:00+01:00",
-      "toTime": "2019-07-13T18:00:00+01:00",
-      "value": 60,
+      "fromTime": "2019-07-13T18:00:00+01:00",
+      "toTime": "2019-07-13T19:00:00+01:00",
+      "value": 57.4,
       "unit": "µg/m³",
       "latitude": 62.78246,
       "longitude": 8.87658,
@@ -276,12 +290,68 @@
       "data": [
         {
           "component": "O3",
-          "fromTime": "2019-07-13T17:00:00+01:00",
-          "toTime": "2019-07-13T18:00:00+01:00",
-          "value": 60,
+          "fromTime": "2019-07-13T18:00:00+01:00",
+          "toTime": "2019-07-13T19:00:00+01:00",
+          "value": 57.4,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Kårvatn"
+        }
+      ]
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Birkenes",
+      "area": "Birkenes",
+      "station": "Birkenesobservatoriet",
+      "eoi": "NO0002R",
+      "component": "O3",
+      "fromTime": "2019-07-13T18:00:00+01:00",
+      "toTime": "2019-07-13T19:00:00+01:00",
+      "value": 71.838,
+      "unit": "µg/m³",
+      "latitude": 58.38846,
+      "longitude": 8.2519,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "O3",
+          "fromTime": "2019-07-13T18:00:00+01:00",
+          "toTime": "2019-07-13T19:00:00+01:00",
+          "value": 71.838,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Birkenesobservatoriet"
+        }
+      ]
+    },
+    {
+      "zone": "Utenfor sonesystemet",
+      "municipality": "Dronning Maud Land",
+      "area": "Troll",
+      "station": "Trollhaugen",
+      "eoi": null,
+      "component": "O3",
+      "fromTime": "2019-07-13T17:00:00+01:00",
+      "toTime": "2019-07-13T18:00:00+01:00",
+      "value": 67.4,
+      "unit": "µg/m³",
+      "latitude": -72.0117,
+      "longitude": 2.5351,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "O3",
+          "fromTime": "2019-07-13T17:00:00+01:00",
+          "toTime": "2019-07-13T18:00:00+01:00",
+          "value": 67.4,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Trollhaugen"
         }
       ]
     }
