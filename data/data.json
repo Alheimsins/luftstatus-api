@@ -1,5 +1,5 @@
 {
-  "updated": "2019-07-15T09:01:46.982Z",
+  "updated": "2019-07-15T10:02:13.280Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -10,91 +10,45 @@
           "zone": "Bergen",
           "municipality": "Bergen",
           "area": "Bergen",
-          "station": "Loddefjord",
-          "eoi": "NO0109A",
+          "station": "Danmarks plass",
+          "eoi": "NO0059A",
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 3.721542,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 4.375069,
           "unit": "µg/m³",
-          "latitude": 60.361135,
-          "longitude": 5.23686,
+          "latitude": 60.37408,
+          "longitude": 5.34042,
           "timestep": 3600,
           "index": 1,
           "color": "6ee86e",
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 3.721542,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 4.375069,
               "unit": "µg/m³",
               "color": "6ee86e",
-              "station": "Loddefjord"
+              "station": "Danmarks plass"
             },
             {
               "component": "PM2.5",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 2.134178,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 2.115475,
               "unit": "µg/m³",
               "color": "6ee86e",
-              "station": "Loddefjord"
+              "station": "Danmarks plass"
             },
             {
               "component": "NO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 7.964695,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 25.698693,
               "unit": "µg/m³",
               "color": "6ee86e",
-              "station": "Loddefjord"
-            }
-          ]
-        },
-        {
-          "zone": "Bergen",
-          "municipality": "Bergen",
-          "area": "Bergen",
-          "station": "Rådal",
-          "eoi": "NO0121A",
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 6.873281,
-          "unit": "µg/m³",
-          "latitude": 60.294268,
-          "longitude": 5.324619,
-          "timestep": 3600,
-          "index": 1,
-          "color": "6ee86e",
-          "data": [
-            {
-              "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 6.873281,
-              "unit": "µg/m³",
-              "color": "6ee86e",
-              "station": "Rådal"
-            },
-            {
-              "component": "PM2.5",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 2.500111,
-              "unit": "µg/m³",
-              "color": "6ee86e",
-              "station": "Rådal"
-            },
-            {
-              "component": "NO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 11.940187,
-              "unit": "µg/m³",
-              "color": "6ee86e",
-              "station": "Rådal"
+              "station": "Danmarks plass"
             }
           ]
         },
@@ -105,9 +59,9 @@
           "station": "Rolland, Åsane",
           "eoi": "NO0108A",
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 3.216133,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 2.553647,
           "unit": "µg/m³",
           "latitude": 60.462665,
           "longitude": 5.332447,
@@ -117,27 +71,27 @@
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 3.216133,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 2.553647,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Rolland, Åsane"
             },
             {
               "component": "PM2.5",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 1.750611,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 1.723444,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Rolland, Åsane"
             },
             {
               "component": "NO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 3.398125,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 3.065588,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Rolland, Åsane"
@@ -151,9 +105,9 @@
           "station": "Klosterhaugen",
           "eoi": "NO0120A",
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 3.4156,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 5.036175,
           "unit": "µg/m³",
           "latitude": 60.395929,
           "longitude": 5.312674,
@@ -163,27 +117,27 @@
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 3.4156,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 5.036175,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Klosterhaugen"
             },
             {
               "component": "PM2.5",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 2.143594,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 1.994164,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Klosterhaugen"
             },
             {
               "component": "NO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 8.870366,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 3.675253,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Klosterhaugen"
@@ -194,45 +148,91 @@
           "zone": "Bergen",
           "municipality": "Bergen",
           "area": "Bergen",
-          "station": "Danmarks plass",
-          "eoi": "NO0059A",
+          "station": "Loddefjord",
+          "eoi": "NO0109A",
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 5.149883,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 3.978872,
           "unit": "µg/m³",
-          "latitude": 60.37408,
-          "longitude": 5.34042,
+          "latitude": 60.361135,
+          "longitude": 5.23686,
           "timestep": 3600,
           "index": 1,
           "color": "6ee86e",
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 5.149883,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 3.978872,
               "unit": "µg/m³",
               "color": "6ee86e",
-              "station": "Danmarks plass"
+              "station": "Loddefjord"
             },
             {
               "component": "PM2.5",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 2.6344,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 2.139814,
               "unit": "µg/m³",
               "color": "6ee86e",
-              "station": "Danmarks plass"
+              "station": "Loddefjord"
             },
             {
               "component": "NO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 26.323242,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 7.029378,
               "unit": "µg/m³",
               "color": "6ee86e",
-              "station": "Danmarks plass"
+              "station": "Loddefjord"
+            }
+          ]
+        },
+        {
+          "zone": "Bergen",
+          "municipality": "Bergen",
+          "area": "Bergen",
+          "station": "Rådal",
+          "eoi": "NO0121A",
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 6.165158,
+          "unit": "µg/m³",
+          "latitude": 60.294268,
+          "longitude": 5.324619,
+          "timestep": 3600,
+          "index": 1,
+          "color": "6ee86e",
+          "data": [
+            {
+              "component": "PM10",
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 6.165158,
+              "unit": "µg/m³",
+              "color": "6ee86e",
+              "station": "Rådal"
+            },
+            {
+              "component": "PM2.5",
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 2.570014,
+              "unit": "µg/m³",
+              "color": "6ee86e",
+              "station": "Rådal"
+            },
+            {
+              "component": "NO2",
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 10.211247,
+              "unit": "µg/m³",
+              "color": "6ee86e",
+              "station": "Rådal"
             }
           ]
         }
@@ -251,9 +251,9 @@
           "station": "Birkenesobservatoriet",
           "eoi": "NO0002R",
           "component": "O3",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 43.238,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 51.238,
           "unit": "µg/m³",
           "latitude": 58.38846,
           "longitude": 8.2519,
@@ -263,9 +263,9 @@
           "data": [
             {
               "component": "O3",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 43.238,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 51.238,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Birkenesobservatoriet"
@@ -287,9 +287,9 @@
           "station": "Olav V gate",
           "eoi": "NO0126A",
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 5.529836,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 4.9111,
           "unit": "µg/m³",
           "latitude": 67.275501,
           "longitude": 14.419057,
@@ -299,18 +299,18 @@
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 5.529836,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 4.9111,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Olav V gate"
             },
             {
               "component": "PM2.5",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 1.338231,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 1.331472,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Olav V gate"
@@ -332,9 +332,9 @@
           "station": "Ringsakervegen",
           "eoi": "NO0130A",
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 4.5,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 4.1,
           "unit": "µg/m³",
           "latitude": 60.88593,
           "longitude": 10.93785,
@@ -344,27 +344,27 @@
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 4.5,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 4.1,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Ringsakervegen"
             },
             {
               "component": "PM2.5",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 2.4,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 2.1,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Ringsakervegen"
             },
             {
               "component": "NO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 5.077594,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 6.855161,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Ringsakervegen"
@@ -383,58 +383,12 @@
           "zone": "Stor-Oslo",
           "municipality": "Bærum",
           "area": "Bærum",
-          "station": "Eilif Dues vei",
-          "eoi": "NO0099A",
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 5.2,
-          "unit": "µg/m³",
-          "latitude": 59.90608,
-          "longitude": 10.61195,
-          "timestep": 3600,
-          "index": 1,
-          "color": "6ee86e",
-          "data": [
-            {
-              "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 5.2,
-              "unit": "µg/m³",
-              "color": "6ee86e",
-              "station": "Eilif Dues vei"
-            },
-            {
-              "component": "PM2.5",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 2.8,
-              "unit": "µg/m³",
-              "color": "6ee86e",
-              "station": "Eilif Dues vei"
-            },
-            {
-              "component": "NO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 11.219553,
-              "unit": "µg/m³",
-              "color": "6ee86e",
-              "station": "Eilif Dues vei"
-            }
-          ]
-        },
-        {
-          "zone": "Stor-Oslo",
-          "municipality": "Bærum",
-          "area": "Bærum",
           "station": "Bekkestua",
           "eoi": "NO0114A",
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 4.2,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 4.7,
           "unit": "µg/m³",
           "latitude": 59.9181,
           "longitude": 10.5839,
@@ -444,26 +398,26 @@
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 4.2,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 4.7,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Bekkestua"
             },
             {
               "component": "PM2.5",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 2.9,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 2.7,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Bekkestua"
             },
             {
               "component": "NO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
               "value": 5.760396,
               "unit": "µg/m³",
               "color": "6ee86e",
@@ -475,12 +429,58 @@
           "zone": "Stor-Oslo",
           "municipality": "Bærum",
           "area": "Bærum",
+          "station": "Eilif Dues vei",
+          "eoi": "NO0099A",
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 5.8,
+          "unit": "µg/m³",
+          "latitude": 59.90608,
+          "longitude": 10.61195,
+          "timestep": 3600,
+          "index": 1,
+          "color": "6ee86e",
+          "data": [
+            {
+              "component": "PM10",
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 5.8,
+              "unit": "µg/m³",
+              "color": "6ee86e",
+              "station": "Eilif Dues vei"
+            },
+            {
+              "component": "PM2.5",
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 2.6,
+              "unit": "µg/m³",
+              "color": "6ee86e",
+              "station": "Eilif Dues vei"
+            },
+            {
+              "component": "NO2",
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 21.669876,
+              "unit": "µg/m³",
+              "color": "6ee86e",
+              "station": "Eilif Dues vei"
+            }
+          ]
+        },
+        {
+          "zone": "Stor-Oslo",
+          "municipality": "Bærum",
+          "area": "Bærum",
           "station": "Lommedalen",
           "eoi": "NO0081A",
           "component": "O3",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 51.2,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 54.6,
           "unit": "µg/m³",
           "latitude": 59.9524,
           "longitude": 10.487777,
@@ -490,9 +490,9 @@
           "data": [
             {
               "component": "O3",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 51.2,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 54.6,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Lommedalen"
@@ -511,49 +511,12 @@
           "zone": "Stor-Oslo",
           "municipality": "Drammen",
           "area": "Drammen",
-          "station": "Bangeløkka",
-          "eoi": "NO0067A",
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 5.06,
-          "unit": "µg/m³",
-          "latitude": 59.73325,
-          "longitude": 10.21187,
-          "timestep": 3600,
-          "index": 1,
-          "color": "6ee86e",
-          "data": [
-            {
-              "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 5.06,
-              "unit": "µg/m³",
-              "color": "6ee86e",
-              "station": "Bangeløkka"
-            },
-            {
-              "component": "NO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 12.047744,
-              "unit": "µg/m³",
-              "color": "6ee86e",
-              "station": "Bangeløkka"
-            }
-          ]
-        },
-        {
-          "zone": "Stor-Oslo",
-          "municipality": "Drammen",
-          "area": "Drammen",
           "station": "Nedre Storgate",
           "eoi": "NO0016A",
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 6.3,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 7.8,
           "unit": "µg/m³",
           "latitude": 59.74333,
           "longitude": 10.20595,
@@ -563,12 +526,49 @@
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 6.3,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 7.8,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Nedre Storgate"
+            }
+          ]
+        },
+        {
+          "zone": "Stor-Oslo",
+          "municipality": "Drammen",
+          "area": "Drammen",
+          "station": "Bangeløkka",
+          "eoi": "NO0067A",
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 8.58,
+          "unit": "µg/m³",
+          "latitude": 59.73325,
+          "longitude": 10.21187,
+          "timestep": 3600,
+          "index": 1,
+          "color": "6ee86e",
+          "data": [
+            {
+              "component": "PM10",
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 8.58,
+              "unit": "µg/m³",
+              "color": "6ee86e",
+              "station": "Bangeløkka"
+            },
+            {
+              "component": "NO2",
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 9.032143,
+              "unit": "µg/m³",
+              "color": "6ee86e",
+              "station": "Bangeløkka"
             }
           ]
         }
@@ -587,9 +587,9 @@
           "station": "St.Croix",
           "eoi": "NO0084A",
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 5.3,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 5,
           "unit": "µg/m³",
           "latitude": 59.2103,
           "longitude": 10.9454,
@@ -599,27 +599,27 @@
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 5.3,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 5,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "St.Croix"
             },
             {
               "component": "PM2.5",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 4.8,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 4.2,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "St.Croix"
             },
             {
               "component": "NO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 16.978163,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 17.326138,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "St.Croix"
@@ -633,9 +633,9 @@
           "station": "Nygaardsgata",
           "eoi": "NO0105A",
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 4.461664,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 4.720889,
           "unit": "µg/m³",
           "latitude": 59.210191,
           "longitude": 10.940097,
@@ -645,18 +645,18 @@
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 4.461664,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 4.720889,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Nygaardsgata"
             },
             {
               "component": "PM2.5",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 3.6477,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 3.442706,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Nygaardsgata"
@@ -678,9 +678,9 @@
           "station": "Minnesundvegen, Gjøvik",
           "eoi": "NO0103A",
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 9.282024,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 6.130861,
           "unit": "µg/m³",
           "latitude": 60.79089,
           "longitude": 10.6967,
@@ -690,27 +690,27 @@
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 9.282024,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 6.130861,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Minnesundvegen, Gjøvik"
             },
             {
               "component": "PM2.5",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 3.732703,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 0.372951,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Minnesundvegen, Gjøvik"
             },
             {
               "component": "NO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 11.880471,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 11.699165,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Minnesundvegen, Gjøvik"
@@ -732,9 +732,9 @@
           "station": "Furulund",
           "eoi": "NO0115A",
           "component": "SO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 0.809896,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": -0.566217,
           "unit": "µg/m³",
           "latitude": 59.057304,
           "longitude": 9.695568,
@@ -744,85 +744,39 @@
           "data": [
             {
               "component": "SO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 0.809896,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": -0.566217,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Furulund"
             },
             {
               "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 14.974544,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 10.442528,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Furulund"
             },
             {
               "component": "PM2.5",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 9.890711,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 7.937953,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Furulund"
             },
             {
               "component": "NO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 7.234181,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 3.426761,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Furulund"
-            }
-          ]
-        },
-        {
-          "zone": "Øst og Sørlandet",
-          "municipality": "Grenland",
-          "area": "Grenland",
-          "station": "Knarrdalstranda",
-          "eoi": "NO0118A",
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 15.73,
-          "unit": "µg/m³",
-          "latitude": 59.13354,
-          "longitude": 9.6219,
-          "timestep": 3600,
-          "index": 1,
-          "color": "6ee86e",
-          "data": [
-            {
-              "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 15.73,
-              "unit": "µg/m³",
-              "color": "6ee86e",
-              "station": "Knarrdalstranda"
-            },
-            {
-              "component": "PM2.5",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 9.5,
-              "unit": "µg/m³",
-              "color": "6ee86e",
-              "station": "Knarrdalstranda"
-            },
-            {
-              "component": "NO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 5.085048,
-              "unit": "µg/m³",
-              "color": "6ee86e",
-              "station": "Knarrdalstranda"
             }
           ]
         },
@@ -833,9 +787,9 @@
           "station": "Sverresgate",
           "eoi": "NO0106A",
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 13.97,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 3.85,
           "unit": "µg/m³",
           "latitude": 59.13812,
           "longitude": 9.65212,
@@ -845,18 +799,18 @@
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 13.97,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 3.85,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Sverresgate"
             },
             {
               "component": "NO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 5.28242,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 4.500955,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Sverresgate"
@@ -867,12 +821,58 @@
           "zone": "Øst og Sørlandet",
           "municipality": "Grenland",
           "area": "Grenland",
+          "station": "Knarrdalstranda",
+          "eoi": "NO0118A",
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 5.06,
+          "unit": "µg/m³",
+          "latitude": 59.13354,
+          "longitude": 9.6219,
+          "timestep": 3600,
+          "index": 1,
+          "color": "6ee86e",
+          "data": [
+            {
+              "component": "PM10",
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 5.06,
+              "unit": "µg/m³",
+              "color": "6ee86e",
+              "station": "Knarrdalstranda"
+            },
+            {
+              "component": "PM2.5",
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 2.8,
+              "unit": "µg/m³",
+              "color": "6ee86e",
+              "station": "Knarrdalstranda"
+            },
+            {
+              "component": "NO2",
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 3.571886,
+              "unit": "µg/m³",
+              "color": "6ee86e",
+              "station": "Knarrdalstranda"
+            }
+          ]
+        },
+        {
+          "zone": "Øst og Sørlandet",
+          "municipality": "Grenland",
+          "area": "Grenland",
           "station": "Lensmannsdalen",
           "eoi": "NO0061A",
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 20.13,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 12.98,
           "unit": "µg/m³",
           "latitude": 59.15927,
           "longitude": 9.63565,
@@ -882,27 +882,27 @@
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 20.13,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 12.98,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Lensmannsdalen"
             },
             {
               "component": "PM2.5",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 10,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 3.2,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Lensmannsdalen"
             },
             {
               "component": "NO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 9.90075,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 9.309545,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Lensmannsdalen"
@@ -916,9 +916,9 @@
           "station": "Haukenes",
           "eoi": "NO0062A",
           "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 2.018677,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 2.42271,
           "unit": "µg/m³",
           "latitude": 59.2024,
           "longitude": 9.48708,
@@ -928,18 +928,18 @@
           "data": [
             {
               "component": "NO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 2.018677,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 2.42271,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Haukenes"
             },
             {
               "component": "O3",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 47.4,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 43.4,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Haukenes"
@@ -961,9 +961,9 @@
           "station": "Prestebakke",
           "eoi": "NO0043R",
           "component": "O3",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 51.8,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 46.4,
           "unit": "µg/m³",
           "latitude": 58.99677,
           "longitude": 11.52769,
@@ -973,9 +973,9 @@
           "data": [
             {
               "component": "O3",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 51.8,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 46.4,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Prestebakke"
@@ -997,9 +997,9 @@
           "station": "Vangsveien, Hamar",
           "eoi": "NO0104A",
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 8.034612,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 5.934874,
           "unit": "µg/m³",
           "latitude": 60.79646,
           "longitude": 11.09777,
@@ -1009,27 +1009,27 @@
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 8.034612,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 5.934874,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Vangsveien, Hamar"
             },
             {
               "component": "PM2.5",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 3.943146,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 2.05227,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Vangsveien, Hamar"
             },
             {
               "component": "NO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 7.736058,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 7.248762,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Vangsveien, Hamar"
@@ -1051,9 +1051,9 @@
           "station": "Seljestad Rv83",
           "eoi": "NO0127A",
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 5.099056,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 8.74925,
           "unit": "µg/m³",
           "latitude": 68.79222701,
           "longitude": 16.53742346,
@@ -1063,27 +1063,27 @@
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 5.099056,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 8.74925,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Seljestad Rv83"
             },
             {
               "component": "PM2.5",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 3.021222,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 3.316194,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Seljestad Rv83"
             },
             {
               "component": "NO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 14.928258,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 10.455668,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Seljestad Rv83"
@@ -1105,9 +1105,9 @@
           "station": "Tustervatn",
           "eoi": "NO0015R",
           "component": "O3",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 61,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 64,
           "unit": "µg/m³",
           "latitude": 65.83089,
           "longitude": 13.90655,
@@ -1117,9 +1117,9 @@
           "data": [
             {
               "component": "O3",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 61,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 64,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Tustervatn"
@@ -1141,9 +1141,9 @@
           "station": "Hurdal25",
           "eoi": "NO0056R",
           "component": "O3",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 54,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 55.2,
           "unit": "µg/m³",
           "latitude": 60.37288,
           "longitude": 11.07407,
@@ -1153,9 +1153,9 @@
           "data": [
             {
               "component": "O3",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 54,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 55.2,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Hurdal25"
@@ -1177,9 +1177,9 @@
           "station": "Sandve",
           "eoi": "NO0052R",
           "component": "O3",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 53.8,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 54.4,
           "unit": "µg/m³",
           "latitude": 59.19722,
           "longitude": 5.20148,
@@ -1189,9 +1189,9 @@
           "data": [
             {
               "component": "O3",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 53.8,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 54.4,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Sandve"
@@ -1210,12 +1210,49 @@
           "zone": "Øst og Sørlandet",
           "municipality": "Kristiansand",
           "area": "Kristiansand",
+          "station": "Stener Heyerdahl",
+          "eoi": "NO0063A",
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 10,
+          "unit": "µg/m³",
+          "latitude": 58.14888,
+          "longitude": 7.99183,
+          "timestep": 3600,
+          "index": 1,
+          "color": "6ee86e",
+          "data": [
+            {
+              "component": "PM10",
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 10,
+              "unit": "µg/m³",
+              "color": "6ee86e",
+              "station": "Stener Heyerdahl"
+            },
+            {
+              "component": "NO2",
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 7.71017,
+              "unit": "µg/m³",
+              "color": "6ee86e",
+              "station": "Stener Heyerdahl"
+            }
+          ]
+        },
+        {
+          "zone": "Øst og Sørlandet",
+          "municipality": "Kristiansand",
+          "area": "Kristiansand",
           "station": "Gartnerløkka",
           "eoi": "NO0092A",
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 7.366667,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 10.85,
           "unit": "µg/m³",
           "latitude": 58.14703,
           "longitude": 7.98662,
@@ -1225,49 +1262,21 @@
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 7.366667,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 10.85,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Gartnerløkka"
             },
             {
               "component": "NO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 12.704583,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 13.530836,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Gartnerløkka"
-            }
-          ]
-        },
-        {
-          "zone": "Øst og Sørlandet",
-          "municipality": "Kristiansand",
-          "area": "Kristiansand",
-          "station": "Stener Heyerdahl",
-          "eoi": "NO0063A",
-          "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 3.954492,
-          "unit": "µg/m³",
-          "latitude": 58.14888,
-          "longitude": 7.99183,
-          "timestep": 3600,
-          "index": 1,
-          "color": "6ee86e",
-          "data": [
-            {
-              "component": "NO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 3.954492,
-              "unit": "µg/m³",
-              "color": "6ee86e",
-              "station": "Stener Heyerdahl"
             }
           ]
         }
@@ -1286,9 +1295,9 @@
           "station": "Bankplassen",
           "eoi": "NO0074A",
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 3.41,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 8.36,
           "unit": "µg/m³",
           "latitude": 61.11288,
           "longitude": 10.46497,
@@ -1298,26 +1307,26 @@
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 3.41,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 8.36,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Bankplassen"
             },
             {
               "component": "PM2.5",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 2.5,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 4.1,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Bankplassen"
             },
             {
               "component": "NO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
               "value": 3.721937,
               "unit": "µg/m³",
               "color": "6ee86e",
@@ -1340,29 +1349,29 @@
           "station": "Holta",
           "eoi": "NO0100A",
           "component": "SO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 187.652962,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 0.267693,
           "unit": "µg/m³",
           "latitude": 58.25602,
           "longitude": 8.35935,
           "timestep": 3600,
-          "index": 2,
-          "color": "ff9900",
+          "index": 1,
+          "color": "6ee86e",
           "data": [
             {
               "component": "SO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 187.652962,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 0.267693,
               "unit": "µg/m³",
-              "color": "ff9900",
+              "color": "6ee86e",
               "station": "Holta"
             }
           ]
         }
       ],
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -1376,9 +1385,9 @@
           "station": "Kransen",
           "eoi": "NO0112A",
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 7.239583,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 5.500333,
           "unit": "µg/m³",
           "latitude": 59.433471,
           "longitude": 10.66176236,
@@ -1388,27 +1397,27 @@
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 7.239583,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 5.500333,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Kransen"
             },
             {
               "component": "PM2.5",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 5.56775,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 4.02575,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Kransen"
             },
             {
               "component": "NO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 2.919981,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 1.930222,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Kransen"
@@ -1430,8 +1439,8 @@
           "station": "Sofienbergparken",
           "eoi": "NO0073A",
           "component": "SO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
           "value": 0.290698,
           "unit": "µg/m³",
           "latitude": 59.92295,
@@ -1442,8 +1451,8 @@
           "data": [
             {
               "component": "SO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
               "value": 0.290698,
               "unit": "µg/m³",
               "color": "6ee86e",
@@ -1451,26 +1460,26 @@
             },
             {
               "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 8.04,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 4.74,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Sofienbergparken"
             },
             {
               "component": "PM2.5",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 2.91,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 0.87,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Sofienbergparken"
             },
             {
               "component": "O3",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
               "value": 55.8,
               "unit": "µg/m³",
               "color": "6ee86e",
@@ -1482,45 +1491,36 @@
           "zone": "Stor-Oslo",
           "municipality": "Oslo",
           "area": "Oslo",
-          "station": "Bygdøy Alle",
-          "eoi": "NO0083A",
+          "station": "Hjortnes",
+          "eoi": "NO0093A",
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 11.5,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 14.19,
           "unit": "µg/m³",
-          "latitude": 59.91898,
-          "longitude": 10.69707,
+          "latitude": 59.91132,
+          "longitude": 10.70407,
           "timestep": 3600,
           "index": 1,
           "color": "6ee86e",
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 11.5,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 14.19,
               "unit": "µg/m³",
               "color": "6ee86e",
-              "station": "Bygdøy Alle"
-            },
-            {
-              "component": "PM2.5",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 3.5,
-              "unit": "µg/m³",
-              "color": "6ee86e",
-              "station": "Bygdøy Alle"
+              "station": "Hjortnes"
             },
             {
               "component": "NO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 15.861088,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 24.449496,
               "unit": "µg/m³",
               "color": "6ee86e",
-              "station": "Bygdøy Alle"
+              "station": "Hjortnes"
             }
           ]
         },
@@ -1531,9 +1531,9 @@
           "station": "Manglerud",
           "eoi": "NO0071A",
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 13.09,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 11.66,
           "unit": "µg/m³",
           "latitude": 59.89869,
           "longitude": 10.81495,
@@ -1543,27 +1543,27 @@
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 13.09,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 11.66,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Manglerud"
             },
             {
               "component": "PM2.5",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 4.3,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 3.9,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Manglerud"
             },
             {
               "component": "NO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 28.102593,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 33.771216,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Manglerud"
@@ -1574,73 +1574,45 @@
           "zone": "Stor-Oslo",
           "municipality": "Oslo",
           "area": "Oslo",
-          "station": "Hjortnes",
-          "eoi": "NO0093A",
+          "station": "Bygdøy Alle",
+          "eoi": "NO0083A",
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 12.87,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 13.8,
           "unit": "µg/m³",
-          "latitude": 59.91132,
-          "longitude": 10.70407,
+          "latitude": 59.91898,
+          "longitude": 10.69707,
           "timestep": 3600,
           "index": 1,
           "color": "6ee86e",
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 12.87,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 13.8,
               "unit": "µg/m³",
               "color": "6ee86e",
-              "station": "Hjortnes"
+              "station": "Bygdøy Alle"
             },
             {
               "component": "PM2.5",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 3.8,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 3.5,
               "unit": "µg/m³",
               "color": "6ee86e",
-              "station": "Hjortnes"
+              "station": "Bygdøy Alle"
             },
             {
               "component": "NO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 19.429624,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 18.271433,
               "unit": "µg/m³",
               "color": "6ee86e",
-              "station": "Hjortnes"
-            }
-          ]
-        },
-        {
-          "zone": "Stor-Oslo",
-          "municipality": "Oslo",
-          "area": "Oslo",
-          "station": "Skøyen",
-          "eoi": "NO0072A",
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 51,
-          "unit": "µg/m³",
-          "latitude": 59.91975,
-          "longitude": 10.68973,
-          "timestep": 3600,
-          "index": 1,
-          "color": "6ee86e",
-          "data": [
-            {
-              "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 51,
-              "unit": "µg/m³",
-              "color": "6ee86e",
-              "station": "Skøyen"
+              "station": "Bygdøy Alle"
             }
           ]
         },
@@ -1651,9 +1623,9 @@
           "station": "Bryn skole",
           "eoi": "NO0132A",
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 10.869861,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 8.886528,
           "unit": "µg/m³",
           "latitude": 59.914106,
           "longitude": 10.82263,
@@ -1663,27 +1635,27 @@
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 10.869861,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 8.886528,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Bryn skole"
             },
             {
               "component": "PM2.5",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 3.495139,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 3.116944,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Bryn skole"
             },
             {
               "component": "NO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 6.962074,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 5.725284,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Bryn skole"
@@ -1694,12 +1666,40 @@
           "zone": "Stor-Oslo",
           "municipality": "Oslo",
           "area": "Oslo",
+          "station": "Skøyen",
+          "eoi": "NO0072A",
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 63,
+          "unit": "µg/m³",
+          "latitude": 59.91975,
+          "longitude": 10.68973,
+          "timestep": 3600,
+          "index": 2,
+          "color": "ff9900",
+          "data": [
+            {
+              "component": "PM10",
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 63,
+              "unit": "µg/m³",
+              "color": "ff9900",
+              "station": "Skøyen"
+            }
+          ]
+        },
+        {
+          "zone": "Stor-Oslo",
+          "municipality": "Oslo",
+          "area": "Oslo",
           "station": "Alnabru",
           "eoi": "NO0057A",
           "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 21.097673,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 23.754135,
           "unit": "µg/m³",
           "latitude": 59.92773,
           "longitude": 10.84633,
@@ -1709,9 +1709,9 @@
           "data": [
             {
               "component": "NO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 21.097673,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 23.754135,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Alnabru"
@@ -1719,7 +1719,7 @@
           ]
         }
       ],
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Midt-Norge og Nordland",
@@ -1733,9 +1733,9 @@
           "station": "Moheia Vest",
           "eoi": "NO0123A",
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 14.004222,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 14.956028,
           "unit": "µg/m³",
           "latitude": 66.312191,
           "longitude": 14.149923,
@@ -1745,18 +1745,18 @@
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 14.004222,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 14.956028,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Moheia Vest"
             },
             {
               "component": "PM2.5",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 2.130556,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 2.797778,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Moheia Vest"
@@ -1778,9 +1778,9 @@
           "station": "Vollgata",
           "eoi": "NO0098A",
           "component": "SO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 2.689241,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 4.338327,
           "unit": "µg/m³",
           "latitude": 59.27897,
           "longitude": 11.12228,
@@ -1790,9 +1790,9 @@
           "data": [
             {
               "component": "SO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 2.689241,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 4.338327,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Vollgata"
@@ -1806,9 +1806,9 @@
           "station": "Alvim",
           "eoi": "NO0110A",
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 6.9,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 5.6,
           "unit": "µg/m³",
           "latitude": 59.27377544,
           "longitude": 11.08919017,
@@ -1818,18 +1818,18 @@
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 6.9,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 5.6,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Alvim"
             },
             {
               "component": "PM2.5",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 5.8,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 4.8,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Alvim"
@@ -1851,9 +1851,9 @@
           "station": "Vigernes",
           "eoi": "NO0111A",
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 2.32219,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 2.259992,
           "unit": "µg/m³",
           "latitude": 59.955477,
           "longitude": 11.073983,
@@ -1863,27 +1863,27 @@
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 2.32219,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 2.259992,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Vigernes"
             },
             {
               "component": "PM2.5",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 0.826623,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": -0.676872,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Vigernes"
             },
             {
               "component": "NO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 1.148617,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 1.246062,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Vigernes"
@@ -1902,49 +1902,12 @@
           "zone": "Vestlandet",
           "municipality": "Stavanger",
           "area": "Stavanger",
-          "station": "Kannik",
-          "eoi": "NO0076A",
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 5.9,
-          "unit": "µg/m³",
-          "latitude": 58.96415,
-          "longitude": 5.72785,
-          "timestep": 3600,
-          "index": 1,
-          "color": "6ee86e",
-          "data": [
-            {
-              "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 5.9,
-              "unit": "µg/m³",
-              "color": "6ee86e",
-              "station": "Kannik"
-            },
-            {
-              "component": "PM2.5",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 4.9,
-              "unit": "µg/m³",
-              "color": "6ee86e",
-              "station": "Kannik"
-            }
-          ]
-        },
-        {
-          "zone": "Vestlandet",
-          "municipality": "Stavanger",
-          "area": "Stavanger",
           "station": "Schancheholen",
           "eoi": "NO0125A",
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 5.48775,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 5.582444,
           "unit": "µg/m³",
           "latitude": 58.951877,
           "longitude": 5.721875,
@@ -1954,30 +1917,67 @@
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 5.48775,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 5.582444,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Schancheholen"
             },
             {
               "component": "PM2.5",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 5.041806,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 5.072056,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Schancheholen"
             },
             {
               "component": "NO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 7.396545,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 9.502641,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Schancheholen"
+            }
+          ]
+        },
+        {
+          "zone": "Vestlandet",
+          "municipality": "Stavanger",
+          "area": "Stavanger",
+          "station": "Kannik",
+          "eoi": "NO0076A",
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 6.4,
+          "unit": "µg/m³",
+          "latitude": 58.96415,
+          "longitude": 5.72785,
+          "timestep": 3600,
+          "index": 1,
+          "color": "6ee86e",
+          "data": [
+            {
+              "component": "PM10",
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 6.4,
+              "unit": "µg/m³",
+              "color": "6ee86e",
+              "station": "Kannik"
+            },
+            {
+              "component": "PM2.5",
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 5.1,
+              "unit": "µg/m³",
+              "color": "6ee86e",
+              "station": "Kannik"
             }
           ]
         },
@@ -1988,9 +1988,9 @@
           "station": "Våland",
           "eoi": "NO0065A",
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 4.896322,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 6.462686,
           "unit": "µg/m³",
           "latitude": 58.96173,
           "longitude": 5.73147,
@@ -2000,27 +2000,27 @@
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 4.896322,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 6.462686,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Våland"
             },
             {
               "component": "PM2.5",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 3.289636,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 3.627097,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Våland"
             },
             {
               "component": "NO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 6.534859,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 10.885073,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Våland"
@@ -2042,9 +2042,9 @@
           "station": "Kårvatn",
           "eoi": "NO0039R",
           "component": "O3",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 44.4,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 42,
           "unit": "µg/m³",
           "latitude": 62.78246,
           "longitude": 8.87658,
@@ -2054,9 +2054,9 @@
           "data": [
             {
               "component": "O3",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 44.4,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 42,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Kårvatn"
@@ -2078,8 +2078,8 @@
           "station": "Zeppelinfjellet",
           "eoi": "NO0042R",
           "component": "O3",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
           "value": 52.4,
           "unit": "µg/m³",
           "latitude": 78.90669,
@@ -2090,8 +2090,8 @@
           "data": [
             {
               "component": "O3",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
               "value": 52.4,
               "unit": "µg/m³",
               "color": "6ee86e",
@@ -2114,9 +2114,9 @@
           "station": "Svanvik",
           "eoi": "NO0047R",
           "component": "SO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": -1.107382,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 0.276845,
           "unit": "µg/m³",
           "latitude": 69.45505,
           "longitude": 30.04075,
@@ -2126,12 +2126,40 @@
           "data": [
             {
               "component": "SO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": -1.107382,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 0.276845,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Svanvik"
+            }
+          ]
+        },
+        {
+          "zone": "Troms og Finnmark",
+          "municipality": "Sør-Varanger",
+          "area": "Sør-Varanger",
+          "station": "Karpdalen",
+          "eoi": "NO0094A",
+          "component": "SO2",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 1.033036,
+          "unit": "µg/m³",
+          "latitude": 69.65617,
+          "longitude": 30.42147,
+          "timestep": 3600,
+          "index": 1,
+          "color": "6ee86e",
+          "data": [
+            {
+              "component": "SO2",
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 1.033036,
+              "unit": "µg/m³",
+              "color": "6ee86e",
+              "station": "Karpdalen"
             }
           ]
         }
@@ -2150,9 +2178,9 @@
           "station": "Hansjordnesbukta",
           "eoi": "NO0079A",
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 21.23,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 18.59,
           "unit": "µg/m³",
           "latitude": 69.65625,
           "longitude": 18.96372,
@@ -2162,18 +2190,18 @@
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 21.23,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 18.59,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Hansjordnesbukta"
             },
             {
               "component": "NO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 34.554566,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 26.158029,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Hansjordnesbukta"
@@ -2195,9 +2223,9 @@
           "station": "Nedre Langgate",
           "eoi": "NO0128A",
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 15.060531,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 11.500828,
           "unit": "µg/m³",
           "latitude": 59.263725,
           "longitude": 10.411165,
@@ -2207,18 +2235,18 @@
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 15.060531,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 11.500828,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Nedre Langgate"
             },
             {
               "component": "PM2.5",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 6.323289,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 4.599475,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Nedre Langgate"
@@ -2237,40 +2265,12 @@
           "zone": "Midt-Norge og Nordland",
           "municipality": "Ålesund",
           "area": "Ålesund",
-          "station": "Grimmerhaugen",
-          "eoi": "NO0070A",
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 5.5,
-          "unit": "µg/m³",
-          "latitude": 62.47217,
-          "longitude": 6.15682,
-          "timestep": 3600,
-          "index": 1,
-          "color": "6ee86e",
-          "data": [
-            {
-              "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 5.5,
-              "unit": "µg/m³",
-              "color": "6ee86e",
-              "station": "Grimmerhaugen"
-            }
-          ]
-        },
-        {
-          "zone": "Midt-Norge og Nordland",
-          "municipality": "Ålesund",
-          "area": "Ålesund",
           "station": "Karl Eriksens plass",
           "eoi": "NO0116A",
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 7.7,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 6.38,
           "unit": "µg/m³",
           "latitude": 62.470622,
           "longitude": 6.153501,
@@ -2280,21 +2280,49 @@
           "data": [
             {
               "component": "PM10",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 7.7,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 6.38,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Karl Eriksens plass"
             },
             {
               "component": "NO2",
-              "fromTime": "2019-07-15T08:00:00+01:00",
-              "toTime": "2019-07-15T09:00:00+01:00",
-              "value": 7.120434,
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 11.18676,
               "unit": "µg/m³",
               "color": "6ee86e",
               "station": "Karl Eriksens plass"
+            }
+          ]
+        },
+        {
+          "zone": "Midt-Norge og Nordland",
+          "municipality": "Ålesund",
+          "area": "Ålesund",
+          "station": "Grimmerhaugen",
+          "eoi": "NO0070A",
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 3.41,
+          "unit": "µg/m³",
+          "latitude": 62.47217,
+          "longitude": 6.15682,
+          "timestep": 3600,
+          "index": 1,
+          "color": "6ee86e",
+          "data": [
+            {
+              "component": "PM10",
+              "fromTime": "2019-07-15T09:00:00+01:00",
+              "toTime": "2019-07-15T10:00:00+01:00",
+              "value": 3.41,
+              "unit": "µg/m³",
+              "color": "6ee86e",
+              "station": "Grimmerhaugen"
             }
           ]
         }
@@ -2409,7 +2437,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Lillesand",
       "area": "Lillesand",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -2421,7 +2449,7 @@
       "zone": "Stor-Oslo",
       "municipality": "Oslo",
       "area": "Oslo",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Midt-Norge og Nordland",
@@ -2486,98 +2514,15 @@
   ],
   "stations": [
     {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Sarpsborg",
-      "area": "Sarpsborg",
-      "station": "Vollgata",
-      "eoi": "NO0098A",
-      "component": "SO2",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 2.689241,
-      "unit": "µg/m³",
-      "latitude": 59.27897,
-      "longitude": 11.12228,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "SO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 2.689241,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Vollgata"
-        }
-      ]
-    },
-    {
-      "zone": "Stor-Oslo",
-      "municipality": "Oslo",
-      "area": "Oslo",
-      "station": "Sofienbergparken",
-      "eoi": "NO0073A",
-      "component": "SO2",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 0.290698,
-      "unit": "µg/m³",
-      "latitude": 59.92295,
-      "longitude": 10.76573,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "SO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 0.290698,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Sofienbergparken"
-        },
-        {
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 8.04,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Sofienbergparken"
-        },
-        {
-          "component": "PM2.5",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 2.91,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Sofienbergparken"
-        },
-        {
-          "component": "O3",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 55.8,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Sofienbergparken"
-        }
-      ]
-    },
-    {
       "zone": "Troms og Finnmark",
       "municipality": "Sør-Varanger",
       "area": "Sør-Varanger",
       "station": "Svanvik",
       "eoi": "NO0047R",
       "component": "SO2",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": -1.107382,
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 0.276845,
       "unit": "µg/m³",
       "latitude": 69.45505,
       "longitude": 30.04075,
@@ -2587,9 +2532,9 @@
       "data": [
         {
           "component": "SO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": -1.107382,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 0.276845,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Svanvik"
@@ -2603,9 +2548,9 @@
       "station": "Furulund",
       "eoi": "NO0115A",
       "component": "SO2",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 0.809896,
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": -0.566217,
       "unit": "µg/m³",
       "latitude": 59.057304,
       "longitude": 9.695568,
@@ -2615,39 +2560,95 @@
       "data": [
         {
           "component": "SO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 0.809896,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": -0.566217,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Furulund"
         },
         {
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 14.974544,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 10.442528,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Furulund"
         },
         {
           "component": "PM2.5",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 9.890711,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 7.937953,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Furulund"
         },
         {
           "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 7.234181,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 3.426761,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Furulund"
+        }
+      ]
+    },
+    {
+      "zone": "Troms og Finnmark",
+      "municipality": "Sør-Varanger",
+      "area": "Sør-Varanger",
+      "station": "Karpdalen",
+      "eoi": "NO0094A",
+      "component": "SO2",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 1.033036,
+      "unit": "µg/m³",
+      "latitude": 69.65617,
+      "longitude": 30.42147,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "SO2",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 1.033036,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Karpdalen"
+        }
+      ]
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Sarpsborg",
+      "area": "Sarpsborg",
+      "station": "Vollgata",
+      "eoi": "NO0098A",
+      "component": "SO2",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 4.338327,
+      "unit": "µg/m³",
+      "latitude": 59.27897,
+      "longitude": 11.12228,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "SO2",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 4.338327,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Vollgata"
         }
       ]
     },
@@ -2658,24 +2659,475 @@
       "station": "Holta",
       "eoi": "NO0100A",
       "component": "SO2",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 187.652962,
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 0.267693,
       "unit": "µg/m³",
       "latitude": 58.25602,
       "longitude": 8.35935,
       "timestep": 3600,
-      "index": 2,
-      "color": "ff9900",
+      "index": 1,
+      "color": "6ee86e",
       "data": [
         {
           "component": "SO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 187.652962,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 0.267693,
           "unit": "µg/m³",
-          "color": "ff9900",
+          "color": "6ee86e",
           "station": "Holta"
+        }
+      ]
+    },
+    {
+      "zone": "Stor-Oslo",
+      "municipality": "Oslo",
+      "area": "Oslo",
+      "station": "Sofienbergparken",
+      "eoi": "NO0073A",
+      "component": "SO2",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 0.290698,
+      "unit": "µg/m³",
+      "latitude": 59.92295,
+      "longitude": 10.76573,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "SO2",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 0.290698,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Sofienbergparken"
+        },
+        {
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 4.74,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Sofienbergparken"
+        },
+        {
+          "component": "PM2.5",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 0.87,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Sofienbergparken"
+        },
+        {
+          "component": "O3",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 55.8,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Sofienbergparken"
+        }
+      ]
+    },
+    {
+      "zone": "Stor-Oslo",
+      "municipality": "Oslo",
+      "area": "Oslo",
+      "station": "Hjortnes",
+      "eoi": "NO0093A",
+      "component": "PM10",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 14.19,
+      "unit": "µg/m³",
+      "latitude": 59.91132,
+      "longitude": 10.70407,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 14.19,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Hjortnes"
+        },
+        {
+          "component": "NO2",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 24.449496,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Hjortnes"
+        }
+      ]
+    },
+    {
+      "zone": "Bergen",
+      "municipality": "Bergen",
+      "area": "Bergen",
+      "station": "Danmarks plass",
+      "eoi": "NO0059A",
+      "component": "PM10",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 4.375069,
+      "unit": "µg/m³",
+      "latitude": 60.37408,
+      "longitude": 5.34042,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 4.375069,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Danmarks plass"
+        },
+        {
+          "component": "PM2.5",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 2.115475,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Danmarks plass"
+        },
+        {
+          "component": "NO2",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 25.698693,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Danmarks plass"
+        }
+      ]
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Fredrikstad",
+      "area": "Fredrikstad",
+      "station": "St.Croix",
+      "eoi": "NO0084A",
+      "component": "PM10",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 5,
+      "unit": "µg/m³",
+      "latitude": 59.2103,
+      "longitude": 10.9454,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 5,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "St.Croix"
+        },
+        {
+          "component": "PM2.5",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 4.2,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "St.Croix"
+        },
+        {
+          "component": "NO2",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 17.326138,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "St.Croix"
+        }
+      ]
+    },
+    {
+      "zone": "Bergen",
+      "municipality": "Bergen",
+      "area": "Bergen",
+      "station": "Rolland, Åsane",
+      "eoi": "NO0108A",
+      "component": "PM10",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 2.553647,
+      "unit": "µg/m³",
+      "latitude": 60.462665,
+      "longitude": 5.332447,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 2.553647,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Rolland, Åsane"
+        },
+        {
+          "component": "PM2.5",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 1.723444,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Rolland, Åsane"
+        },
+        {
+          "component": "NO2",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 3.065588,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Rolland, Åsane"
+        }
+      ]
+    },
+    {
+      "zone": "Vestlandet",
+      "municipality": "Stavanger",
+      "area": "Stavanger",
+      "station": "Schancheholen",
+      "eoi": "NO0125A",
+      "component": "PM10",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 5.582444,
+      "unit": "µg/m³",
+      "latitude": 58.951877,
+      "longitude": 5.721875,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 5.582444,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Schancheholen"
+        },
+        {
+          "component": "PM2.5",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 5.072056,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Schancheholen"
+        },
+        {
+          "component": "NO2",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 9.502641,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Schancheholen"
+        }
+      ]
+    },
+    {
+      "zone": "Midt-Norge og Nordland",
+      "municipality": "Ålesund",
+      "area": "Ålesund",
+      "station": "Karl Eriksens plass",
+      "eoi": "NO0116A",
+      "component": "PM10",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 6.38,
+      "unit": "µg/m³",
+      "latitude": 62.470622,
+      "longitude": 6.153501,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 6.38,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Karl Eriksens plass"
+        },
+        {
+          "component": "NO2",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 11.18676,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Karl Eriksens plass"
+        }
+      ]
+    },
+    {
+      "zone": "Bergen",
+      "municipality": "Bergen",
+      "area": "Bergen",
+      "station": "Klosterhaugen",
+      "eoi": "NO0120A",
+      "component": "PM10",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 5.036175,
+      "unit": "µg/m³",
+      "latitude": 60.395929,
+      "longitude": 5.312674,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 5.036175,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Klosterhaugen"
+        },
+        {
+          "component": "PM2.5",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 1.994164,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Klosterhaugen"
+        },
+        {
+          "component": "NO2",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 3.675253,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Klosterhaugen"
+        }
+      ]
+    },
+    {
+      "zone": "Stor-Oslo",
+      "municipality": "Oslo",
+      "area": "Oslo",
+      "station": "Manglerud",
+      "eoi": "NO0071A",
+      "component": "PM10",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 11.66,
+      "unit": "µg/m³",
+      "latitude": 59.89869,
+      "longitude": 10.81495,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 11.66,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Manglerud"
+        },
+        {
+          "component": "PM2.5",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 3.9,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Manglerud"
+        },
+        {
+          "component": "NO2",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 33.771216,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Manglerud"
+        }
+      ]
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Lillehammer",
+      "area": "Lillehammer",
+      "station": "Bankplassen",
+      "eoi": "NO0074A",
+      "component": "PM10",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 8.36,
+      "unit": "µg/m³",
+      "latitude": 61.11288,
+      "longitude": 10.46497,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 8.36,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Bankplassen"
+        },
+        {
+          "component": "PM2.5",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 4.1,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Bankplassen"
+        },
+        {
+          "component": "NO2",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 3.721937,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Bankplassen"
         }
       ]
     },
@@ -2686,9 +3138,9 @@
       "station": "Bygdøy Alle",
       "eoi": "NO0083A",
       "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 11.5,
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 13.8,
       "unit": "µg/m³",
       "latitude": 59.91898,
       "longitude": 10.69707,
@@ -2698,17 +3150,17 @@
       "data": [
         {
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 11.5,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 13.8,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Bygdøy Alle"
         },
         {
           "component": "PM2.5",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
           "value": 3.5,
           "unit": "µg/m³",
           "color": "6ee86e",
@@ -2716,9 +3168,9 @@
         },
         {
           "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 15.861088,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 18.271433,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Bygdøy Alle"
@@ -2732,9 +3184,9 @@
       "station": "Moheia Vest",
       "eoi": "NO0123A",
       "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 14.004222,
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 14.956028,
       "unit": "µg/m³",
       "latitude": 66.312191,
       "longitude": 14.149923,
@@ -2744,639 +3196,21 @@
       "data": [
         {
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 14.004222,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 14.956028,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Moheia Vest"
         },
         {
           "component": "PM2.5",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 2.130556,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 2.797778,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Moheia Vest"
-        }
-      ]
-    },
-    {
-      "zone": "Midt-Norge og Nordland",
-      "municipality": "N/A",
-      "area": "Bodø",
-      "station": "Olav V gate",
-      "eoi": "NO0126A",
-      "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 5.529836,
-      "unit": "µg/m³",
-      "latitude": 67.275501,
-      "longitude": 14.419057,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 5.529836,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Olav V gate"
-        },
-        {
-          "component": "PM2.5",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 1.338231,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Olav V gate"
-        }
-      ]
-    },
-    {
-      "zone": "Troms og Finnmark",
-      "municipality": "Tromsø",
-      "area": "Tromsø",
-      "station": "Hansjordnesbukta",
-      "eoi": "NO0079A",
-      "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 21.23,
-      "unit": "µg/m³",
-      "latitude": 69.65625,
-      "longitude": 18.96372,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 21.23,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Hansjordnesbukta"
-        },
-        {
-          "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 34.554566,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Hansjordnesbukta"
-        }
-      ]
-    },
-    {
-      "zone": "Troms og Finnmark",
-      "municipality": "Harstad",
-      "area": "Harstad",
-      "station": "Seljestad Rv83",
-      "eoi": "NO0127A",
-      "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 5.099056,
-      "unit": "µg/m³",
-      "latitude": 68.79222701,
-      "longitude": 16.53742346,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 5.099056,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Seljestad Rv83"
-        },
-        {
-          "component": "PM2.5",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 3.021222,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Seljestad Rv83"
-        },
-        {
-          "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 14.928258,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Seljestad Rv83"
-        }
-      ]
-    },
-    {
-      "zone": "Stor-Oslo",
-      "municipality": "Oslo",
-      "area": "Oslo",
-      "station": "Manglerud",
-      "eoi": "NO0071A",
-      "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 13.09,
-      "unit": "µg/m³",
-      "latitude": 59.89869,
-      "longitude": 10.81495,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 13.09,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Manglerud"
-        },
-        {
-          "component": "PM2.5",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 4.3,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Manglerud"
-        },
-        {
-          "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 28.102593,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Manglerud"
-        }
-      ]
-    },
-    {
-      "zone": "Vestlandet",
-      "municipality": "Stavanger",
-      "area": "Stavanger",
-      "station": "Kannik",
-      "eoi": "NO0076A",
-      "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 5.9,
-      "unit": "µg/m³",
-      "latitude": 58.96415,
-      "longitude": 5.72785,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 5.9,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Kannik"
-        },
-        {
-          "component": "PM2.5",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 4.9,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Kannik"
-        }
-      ]
-    },
-    {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Gjøvik",
-      "area": "Gjøvik",
-      "station": "Minnesundvegen, Gjøvik",
-      "eoi": "NO0103A",
-      "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 9.282024,
-      "unit": "µg/m³",
-      "latitude": 60.79089,
-      "longitude": 10.6967,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 9.282024,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Minnesundvegen, Gjøvik"
-        },
-        {
-          "component": "PM2.5",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 3.732703,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Minnesundvegen, Gjøvik"
-        },
-        {
-          "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 11.880471,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Minnesundvegen, Gjøvik"
-        }
-      ]
-    },
-    {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Fredrikstad",
-      "area": "Fredrikstad",
-      "station": "St.Croix",
-      "eoi": "NO0084A",
-      "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 5.3,
-      "unit": "µg/m³",
-      "latitude": 59.2103,
-      "longitude": 10.9454,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 5.3,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "St.Croix"
-        },
-        {
-          "component": "PM2.5",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 4.8,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "St.Croix"
-        },
-        {
-          "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 16.978163,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "St.Croix"
-        }
-      ]
-    },
-    {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Moss",
-      "area": "Moss",
-      "station": "Kransen",
-      "eoi": "NO0112A",
-      "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 7.239583,
-      "unit": "µg/m³",
-      "latitude": 59.433471,
-      "longitude": 10.66176236,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 7.239583,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Kransen"
-        },
-        {
-          "component": "PM2.5",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 5.56775,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Kransen"
-        },
-        {
-          "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 2.919981,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Kransen"
-        }
-      ]
-    },
-    {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Grenland",
-      "area": "Grenland",
-      "station": "Knarrdalstranda",
-      "eoi": "NO0118A",
-      "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 15.73,
-      "unit": "µg/m³",
-      "latitude": 59.13354,
-      "longitude": 9.6219,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 15.73,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Knarrdalstranda"
-        },
-        {
-          "component": "PM2.5",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 9.5,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Knarrdalstranda"
-        },
-        {
-          "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 5.085048,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Knarrdalstranda"
-        }
-      ]
-    },
-    {
-      "zone": "Bergen",
-      "municipality": "Bergen",
-      "area": "Bergen",
-      "station": "Loddefjord",
-      "eoi": "NO0109A",
-      "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 3.721542,
-      "unit": "µg/m³",
-      "latitude": 60.361135,
-      "longitude": 5.23686,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 3.721542,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Loddefjord"
-        },
-        {
-          "component": "PM2.5",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 2.134178,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Loddefjord"
-        },
-        {
-          "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 7.964695,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Loddefjord"
-        }
-      ]
-    },
-    {
-      "zone": "Stor-Oslo",
-      "municipality": "Oslo",
-      "area": "Oslo",
-      "station": "Hjortnes",
-      "eoi": "NO0093A",
-      "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 12.87,
-      "unit": "µg/m³",
-      "latitude": 59.91132,
-      "longitude": 10.70407,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 12.87,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Hjortnes"
-        },
-        {
-          "component": "PM2.5",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 3.8,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Hjortnes"
-        },
-        {
-          "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 19.429624,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Hjortnes"
-        }
-      ]
-    },
-    {
-      "zone": "Midt-Norge og Nordland",
-      "municipality": "Ålesund",
-      "area": "Ålesund",
-      "station": "Grimmerhaugen",
-      "eoi": "NO0070A",
-      "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 5.5,
-      "unit": "µg/m³",
-      "latitude": 62.47217,
-      "longitude": 6.15682,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 5.5,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Grimmerhaugen"
-        }
-      ]
-    },
-    {
-      "zone": "Stor-Oslo",
-      "municipality": "Drammen",
-      "area": "Drammen",
-      "station": "Bangeløkka",
-      "eoi": "NO0067A",
-      "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 5.06,
-      "unit": "µg/m³",
-      "latitude": 59.73325,
-      "longitude": 10.21187,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 5.06,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Bangeløkka"
-        },
-        {
-          "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 12.047744,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Bangeløkka"
-        }
-      ]
-    },
-    {
-      "zone": "Stor-Oslo",
-      "municipality": "Oslo",
-      "area": "Oslo",
-      "station": "Skøyen",
-      "eoi": "NO0072A",
-      "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 51,
-      "unit": "µg/m³",
-      "latitude": 59.91975,
-      "longitude": 10.68973,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 51,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Skøyen"
-        }
-      ]
-    },
-    {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Lillehammer",
-      "area": "Lillehammer",
-      "station": "Bankplassen",
-      "eoi": "NO0074A",
-      "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 3.41,
-      "unit": "µg/m³",
-      "latitude": 61.11288,
-      "longitude": 10.46497,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 3.41,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Bankplassen"
-        },
-        {
-          "component": "PM2.5",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 2.5,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Bankplassen"
-        },
-        {
-          "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 3.721937,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Bankplassen"
         }
       ]
     },
@@ -3387,9 +3221,9 @@
       "station": "Sverresgate",
       "eoi": "NO0106A",
       "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 13.97,
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 3.85,
       "unit": "µg/m³",
       "latitude": 59.13812,
       "longitude": 9.65212,
@@ -3399,159 +3233,21 @@
       "data": [
         {
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 13.97,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 3.85,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Sverresgate"
         },
         {
           "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 5.28242,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 4.500955,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Sverresgate"
-        }
-      ]
-    },
-    {
-      "zone": "Bergen",
-      "municipality": "Bergen",
-      "area": "Bergen",
-      "station": "Rådal",
-      "eoi": "NO0121A",
-      "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 6.873281,
-      "unit": "µg/m³",
-      "latitude": 60.294268,
-      "longitude": 5.324619,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 6.873281,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Rådal"
-        },
-        {
-          "component": "PM2.5",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 2.500111,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Rådal"
-        },
-        {
-          "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 11.940187,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Rådal"
-        }
-      ]
-    },
-    {
-      "zone": "Bergen",
-      "municipality": "Bergen",
-      "area": "Bergen",
-      "station": "Rolland, Åsane",
-      "eoi": "NO0108A",
-      "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 3.216133,
-      "unit": "µg/m³",
-      "latitude": 60.462665,
-      "longitude": 5.332447,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 3.216133,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Rolland, Åsane"
-        },
-        {
-          "component": "PM2.5",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 1.750611,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Rolland, Åsane"
-        },
-        {
-          "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 3.398125,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Rolland, Åsane"
-        }
-      ]
-    },
-    {
-      "zone": "Øst og Sørlandet",
-      "municipality": "N/A",
-      "area": "Brumunddal",
-      "station": "Ringsakervegen",
-      "eoi": "NO0130A",
-      "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 4.5,
-      "unit": "µg/m³",
-      "latitude": 60.88593,
-      "longitude": 10.93785,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 4.5,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Ringsakervegen"
-        },
-        {
-          "component": "PM2.5",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 2.4,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Ringsakervegen"
-        },
-        {
-          "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 5.077594,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Ringsakervegen"
         }
       ]
     },
@@ -3559,45 +3255,36 @@
       "zone": "Vestlandet",
       "municipality": "Stavanger",
       "area": "Stavanger",
-      "station": "Schancheholen",
-      "eoi": "NO0125A",
+      "station": "Kannik",
+      "eoi": "NO0076A",
       "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 5.48775,
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 6.4,
       "unit": "µg/m³",
-      "latitude": 58.951877,
-      "longitude": 5.721875,
+      "latitude": 58.96415,
+      "longitude": 5.72785,
       "timestep": 3600,
       "index": 1,
       "color": "6ee86e",
       "data": [
         {
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 5.48775,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 6.4,
           "unit": "µg/m³",
           "color": "6ee86e",
-          "station": "Schancheholen"
+          "station": "Kannik"
         },
         {
           "component": "PM2.5",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 5.041806,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 5.1,
           "unit": "µg/m³",
           "color": "6ee86e",
-          "station": "Schancheholen"
-        },
-        {
-          "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 7.396545,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Schancheholen"
+          "station": "Kannik"
         }
       ]
     },
@@ -3608,9 +3295,9 @@
       "station": "Vigernes",
       "eoi": "NO0111A",
       "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 2.32219,
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 2.259992,
       "unit": "µg/m³",
       "latitude": 59.955477,
       "longitude": 11.073983,
@@ -3620,27 +3307,27 @@
       "data": [
         {
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 2.32219,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 2.259992,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Vigernes"
         },
         {
           "component": "PM2.5",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 0.826623,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": -0.676872,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Vigernes"
         },
         {
           "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 1.148617,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 1.246062,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Vigernes"
@@ -3654,9 +3341,9 @@
       "station": "Nygaardsgata",
       "eoi": "NO0105A",
       "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 4.461664,
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 4.720889,
       "unit": "µg/m³",
       "latitude": 59.210191,
       "longitude": 10.940097,
@@ -3666,113 +3353,21 @@
       "data": [
         {
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 4.461664,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 4.720889,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Nygaardsgata"
         },
         {
           "component": "PM2.5",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 3.6477,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 3.442706,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Nygaardsgata"
-        }
-      ]
-    },
-    {
-      "zone": "Stor-Oslo",
-      "municipality": "Bærum",
-      "area": "Bærum",
-      "station": "Eilif Dues vei",
-      "eoi": "NO0099A",
-      "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 5.2,
-      "unit": "µg/m³",
-      "latitude": 59.90608,
-      "longitude": 10.61195,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 5.2,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Eilif Dues vei"
-        },
-        {
-          "component": "PM2.5",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 2.8,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Eilif Dues vei"
-        },
-        {
-          "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 11.219553,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Eilif Dues vei"
-        }
-      ]
-    },
-    {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Hamar",
-      "area": "Hamar",
-      "station": "Vangsveien, Hamar",
-      "eoi": "NO0104A",
-      "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 8.034612,
-      "unit": "µg/m³",
-      "latitude": 60.79646,
-      "longitude": 11.09777,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 8.034612,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Vangsveien, Hamar"
-        },
-        {
-          "component": "PM2.5",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 3.943146,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Vangsveien, Hamar"
-        },
-        {
-          "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 7.736058,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Vangsveien, Hamar"
         }
       ]
     },
@@ -3780,322 +3375,73 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Ålesund",
       "area": "Ålesund",
-      "station": "Karl Eriksens plass",
-      "eoi": "NO0116A",
+      "station": "Grimmerhaugen",
+      "eoi": "NO0070A",
       "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 7.7,
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 3.41,
       "unit": "µg/m³",
-      "latitude": 62.470622,
-      "longitude": 6.153501,
+      "latitude": 62.47217,
+      "longitude": 6.15682,
       "timestep": 3600,
       "index": 1,
       "color": "6ee86e",
       "data": [
         {
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 7.7,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 3.41,
           "unit": "µg/m³",
           "color": "6ee86e",
-          "station": "Karl Eriksens plass"
-        },
-        {
-          "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 7.120434,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Karl Eriksens plass"
+          "station": "Grimmerhaugen"
         }
       ]
     },
     {
       "zone": "Øst og Sørlandet",
-      "municipality": "Sarpsborg",
-      "area": "Sarpsborg",
-      "station": "Alvim",
-      "eoi": "NO0110A",
+      "municipality": "N/A",
+      "area": "Brumunddal",
+      "station": "Ringsakervegen",
+      "eoi": "NO0130A",
       "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 6.9,
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 4.1,
       "unit": "µg/m³",
-      "latitude": 59.27377544,
-      "longitude": 11.08919017,
+      "latitude": 60.88593,
+      "longitude": 10.93785,
       "timestep": 3600,
       "index": 1,
       "color": "6ee86e",
       "data": [
         {
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 6.9,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 4.1,
           "unit": "µg/m³",
           "color": "6ee86e",
-          "station": "Alvim"
+          "station": "Ringsakervegen"
         },
         {
           "component": "PM2.5",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 5.8,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 2.1,
           "unit": "µg/m³",
           "color": "6ee86e",
-          "station": "Alvim"
-        }
-      ]
-    },
-    {
-      "zone": "Bergen",
-      "municipality": "Bergen",
-      "area": "Bergen",
-      "station": "Klosterhaugen",
-      "eoi": "NO0120A",
-      "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 3.4156,
-      "unit": "µg/m³",
-      "latitude": 60.395929,
-      "longitude": 5.312674,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 3.4156,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Klosterhaugen"
-        },
-        {
-          "component": "PM2.5",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 2.143594,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Klosterhaugen"
+          "station": "Ringsakervegen"
         },
         {
           "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 8.870366,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 6.855161,
           "unit": "µg/m³",
           "color": "6ee86e",
-          "station": "Klosterhaugen"
-        }
-      ]
-    },
-    {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Kristiansand",
-      "area": "Kristiansand",
-      "station": "Gartnerløkka",
-      "eoi": "NO0092A",
-      "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 7.366667,
-      "unit": "µg/m³",
-      "latitude": 58.14703,
-      "longitude": 7.98662,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 7.366667,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Gartnerløkka"
-        },
-        {
-          "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 12.704583,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Gartnerløkka"
-        }
-      ]
-    },
-    {
-      "zone": "Stor-Oslo",
-      "municipality": "Bærum",
-      "area": "Bærum",
-      "station": "Bekkestua",
-      "eoi": "NO0114A",
-      "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 4.2,
-      "unit": "µg/m³",
-      "latitude": 59.9181,
-      "longitude": 10.5839,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 4.2,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Bekkestua"
-        },
-        {
-          "component": "PM2.5",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 2.9,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Bekkestua"
-        },
-        {
-          "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 5.760396,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Bekkestua"
-        }
-      ]
-    },
-    {
-      "zone": "Stor-Oslo",
-      "municipality": "Drammen",
-      "area": "Drammen",
-      "station": "Nedre Storgate",
-      "eoi": "NO0016A",
-      "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 6.3,
-      "unit": "µg/m³",
-      "latitude": 59.74333,
-      "longitude": 10.20595,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 6.3,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Nedre Storgate"
-        }
-      ]
-    },
-    {
-      "zone": "Vestlandet",
-      "municipality": "Stavanger",
-      "area": "Stavanger",
-      "station": "Våland",
-      "eoi": "NO0065A",
-      "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 4.896322,
-      "unit": "µg/m³",
-      "latitude": 58.96173,
-      "longitude": 5.73147,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 4.896322,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Våland"
-        },
-        {
-          "component": "PM2.5",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 3.289636,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Våland"
-        },
-        {
-          "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 6.534859,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Våland"
-        }
-      ]
-    },
-    {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Grenland",
-      "area": "Grenland",
-      "station": "Lensmannsdalen",
-      "eoi": "NO0061A",
-      "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 20.13,
-      "unit": "µg/m³",
-      "latitude": 59.15927,
-      "longitude": 9.63565,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 20.13,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Lensmannsdalen"
-        },
-        {
-          "component": "PM2.5",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 10,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Lensmannsdalen"
-        },
-        {
-          "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 9.90075,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Lensmannsdalen"
+          "station": "Ringsakervegen"
         }
       ]
     },
@@ -4106,9 +3452,9 @@
       "station": "Bryn skole",
       "eoi": "NO0132A",
       "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 10.869861,
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 8.886528,
       "unit": "µg/m³",
       "latitude": 59.914106,
       "longitude": 10.82263,
@@ -4118,30 +3464,122 @@
       "data": [
         {
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 10.869861,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 8.886528,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Bryn skole"
         },
         {
           "component": "PM2.5",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 3.495139,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 3.116944,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Bryn skole"
         },
         {
           "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 6.962074,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 5.725284,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Bryn skole"
+        }
+      ]
+    },
+    {
+      "zone": "Bergen",
+      "municipality": "Bergen",
+      "area": "Bergen",
+      "station": "Loddefjord",
+      "eoi": "NO0109A",
+      "component": "PM10",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 3.978872,
+      "unit": "µg/m³",
+      "latitude": 60.361135,
+      "longitude": 5.23686,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 3.978872,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Loddefjord"
+        },
+        {
+          "component": "PM2.5",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 2.139814,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Loddefjord"
+        },
+        {
+          "component": "NO2",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 7.029378,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Loddefjord"
+        }
+      ]
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Gjøvik",
+      "area": "Gjøvik",
+      "station": "Minnesundvegen, Gjøvik",
+      "eoi": "NO0103A",
+      "component": "PM10",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 6.130861,
+      "unit": "µg/m³",
+      "latitude": 60.79089,
+      "longitude": 10.6967,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 6.130861,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Minnesundvegen, Gjøvik"
+        },
+        {
+          "component": "PM2.5",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 0.372951,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Minnesundvegen, Gjøvik"
+        },
+        {
+          "component": "NO2",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 11.699165,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Minnesundvegen, Gjøvik"
         }
       ]
     },
@@ -4152,9 +3590,9 @@
       "station": "Nedre Langgate",
       "eoi": "NO0128A",
       "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 15.060531,
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 11.500828,
       "unit": "µg/m³",
       "latitude": 59.263725,
       "longitude": 10.411165,
@@ -4164,18 +3602,18 @@
       "data": [
         {
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 15.060531,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 11.500828,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Nedre Langgate"
         },
         {
           "component": "PM2.5",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 6.323289,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 4.599475,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Nedre Langgate"
@@ -4183,48 +3621,509 @@
       ]
     },
     {
-      "zone": "Bergen",
-      "municipality": "Bergen",
-      "area": "Bergen",
-      "station": "Danmarks plass",
-      "eoi": "NO0059A",
+      "zone": "Midt-Norge og Nordland",
+      "municipality": "N/A",
+      "area": "Bodø",
+      "station": "Olav V gate",
+      "eoi": "NO0126A",
       "component": "PM10",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 5.149883,
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 4.9111,
       "unit": "µg/m³",
-      "latitude": 60.37408,
-      "longitude": 5.34042,
+      "latitude": 67.275501,
+      "longitude": 14.419057,
       "timestep": 3600,
       "index": 1,
       "color": "6ee86e",
       "data": [
         {
           "component": "PM10",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 5.149883,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 4.9111,
           "unit": "µg/m³",
           "color": "6ee86e",
-          "station": "Danmarks plass"
+          "station": "Olav V gate"
         },
         {
           "component": "PM2.5",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 2.6344,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 1.331472,
           "unit": "µg/m³",
           "color": "6ee86e",
-          "station": "Danmarks plass"
+          "station": "Olav V gate"
+        }
+      ]
+    },
+    {
+      "zone": "Bergen",
+      "municipality": "Bergen",
+      "area": "Bergen",
+      "station": "Rådal",
+      "eoi": "NO0121A",
+      "component": "PM10",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 6.165158,
+      "unit": "µg/m³",
+      "latitude": 60.294268,
+      "longitude": 5.324619,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 6.165158,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Rådal"
+        },
+        {
+          "component": "PM2.5",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 2.570014,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Rådal"
         },
         {
           "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 26.323242,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 10.211247,
           "unit": "µg/m³",
           "color": "6ee86e",
-          "station": "Danmarks plass"
+          "station": "Rådal"
+        }
+      ]
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Grenland",
+      "area": "Grenland",
+      "station": "Knarrdalstranda",
+      "eoi": "NO0118A",
+      "component": "PM10",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 5.06,
+      "unit": "µg/m³",
+      "latitude": 59.13354,
+      "longitude": 9.6219,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 5.06,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Knarrdalstranda"
+        },
+        {
+          "component": "PM2.5",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 2.8,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Knarrdalstranda"
+        },
+        {
+          "component": "NO2",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 3.571886,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Knarrdalstranda"
+        }
+      ]
+    },
+    {
+      "zone": "Troms og Finnmark",
+      "municipality": "Harstad",
+      "area": "Harstad",
+      "station": "Seljestad Rv83",
+      "eoi": "NO0127A",
+      "component": "PM10",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 8.74925,
+      "unit": "µg/m³",
+      "latitude": 68.79222701,
+      "longitude": 16.53742346,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 8.74925,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Seljestad Rv83"
+        },
+        {
+          "component": "PM2.5",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 3.316194,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Seljestad Rv83"
+        },
+        {
+          "component": "NO2",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 10.455668,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Seljestad Rv83"
+        }
+      ]
+    },
+    {
+      "zone": "Vestlandet",
+      "municipality": "Stavanger",
+      "area": "Stavanger",
+      "station": "Våland",
+      "eoi": "NO0065A",
+      "component": "PM10",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 6.462686,
+      "unit": "µg/m³",
+      "latitude": 58.96173,
+      "longitude": 5.73147,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 6.462686,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Våland"
+        },
+        {
+          "component": "PM2.5",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 3.627097,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Våland"
+        },
+        {
+          "component": "NO2",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 10.885073,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Våland"
+        }
+      ]
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Hamar",
+      "area": "Hamar",
+      "station": "Vangsveien, Hamar",
+      "eoi": "NO0104A",
+      "component": "PM10",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 5.934874,
+      "unit": "µg/m³",
+      "latitude": 60.79646,
+      "longitude": 11.09777,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 5.934874,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Vangsveien, Hamar"
+        },
+        {
+          "component": "PM2.5",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 2.05227,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Vangsveien, Hamar"
+        },
+        {
+          "component": "NO2",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 7.248762,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Vangsveien, Hamar"
+        }
+      ]
+    },
+    {
+      "zone": "Stor-Oslo",
+      "municipality": "Bærum",
+      "area": "Bærum",
+      "station": "Bekkestua",
+      "eoi": "NO0114A",
+      "component": "PM10",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 4.7,
+      "unit": "µg/m³",
+      "latitude": 59.9181,
+      "longitude": 10.5839,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 4.7,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Bekkestua"
+        },
+        {
+          "component": "PM2.5",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 2.7,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Bekkestua"
+        },
+        {
+          "component": "NO2",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 5.760396,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Bekkestua"
+        }
+      ]
+    },
+    {
+      "zone": "Stor-Oslo",
+      "municipality": "Bærum",
+      "area": "Bærum",
+      "station": "Eilif Dues vei",
+      "eoi": "NO0099A",
+      "component": "PM10",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 5.8,
+      "unit": "µg/m³",
+      "latitude": 59.90608,
+      "longitude": 10.61195,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 5.8,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Eilif Dues vei"
+        },
+        {
+          "component": "PM2.5",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 2.6,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Eilif Dues vei"
+        },
+        {
+          "component": "NO2",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 21.669876,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Eilif Dues vei"
+        }
+      ]
+    },
+    {
+      "zone": "Troms og Finnmark",
+      "municipality": "Tromsø",
+      "area": "Tromsø",
+      "station": "Hansjordnesbukta",
+      "eoi": "NO0079A",
+      "component": "PM10",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 18.59,
+      "unit": "µg/m³",
+      "latitude": 69.65625,
+      "longitude": 18.96372,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 18.59,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Hansjordnesbukta"
+        },
+        {
+          "component": "NO2",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 26.158029,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Hansjordnesbukta"
+        }
+      ]
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Grenland",
+      "area": "Grenland",
+      "station": "Lensmannsdalen",
+      "eoi": "NO0061A",
+      "component": "PM10",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 12.98,
+      "unit": "µg/m³",
+      "latitude": 59.15927,
+      "longitude": 9.63565,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 12.98,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Lensmannsdalen"
+        },
+        {
+          "component": "PM2.5",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 3.2,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Lensmannsdalen"
+        },
+        {
+          "component": "NO2",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 9.309545,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Lensmannsdalen"
+        }
+      ]
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Sarpsborg",
+      "area": "Sarpsborg",
+      "station": "Alvim",
+      "eoi": "NO0110A",
+      "component": "PM10",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 5.6,
+      "unit": "µg/m³",
+      "latitude": 59.27377544,
+      "longitude": 11.08919017,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 5.6,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Alvim"
+        },
+        {
+          "component": "PM2.5",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 4.8,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Alvim"
+        }
+      ]
+    },
+    {
+      "zone": "Stor-Oslo",
+      "municipality": "Drammen",
+      "area": "Drammen",
+      "station": "Nedre Storgate",
+      "eoi": "NO0016A",
+      "component": "PM10",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 7.8,
+      "unit": "µg/m³",
+      "latitude": 59.74333,
+      "longitude": 10.20595,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 7.8,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Nedre Storgate"
         }
       ]
     },
@@ -4234,10 +4133,10 @@
       "area": "Kristiansand",
       "station": "Stener Heyerdahl",
       "eoi": "NO0063A",
-      "component": "NO2",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 3.954492,
+      "component": "PM10",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 10,
       "unit": "µg/m³",
       "latitude": 58.14888,
       "longitude": 7.99183,
@@ -4246,13 +4145,170 @@
       "color": "6ee86e",
       "data": [
         {
-          "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 3.954492,
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 10,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Stener Heyerdahl"
+        },
+        {
+          "component": "NO2",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 7.71017,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Stener Heyerdahl"
+        }
+      ]
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Moss",
+      "area": "Moss",
+      "station": "Kransen",
+      "eoi": "NO0112A",
+      "component": "PM10",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 5.500333,
+      "unit": "µg/m³",
+      "latitude": 59.433471,
+      "longitude": 10.66176236,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 5.500333,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Kransen"
+        },
+        {
+          "component": "PM2.5",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 4.02575,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Kransen"
+        },
+        {
+          "component": "NO2",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 1.930222,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Kransen"
+        }
+      ]
+    },
+    {
+      "zone": "Stor-Oslo",
+      "municipality": "Drammen",
+      "area": "Drammen",
+      "station": "Bangeløkka",
+      "eoi": "NO0067A",
+      "component": "PM10",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 8.58,
+      "unit": "µg/m³",
+      "latitude": 59.73325,
+      "longitude": 10.21187,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 8.58,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Bangeløkka"
+        },
+        {
+          "component": "NO2",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 9.032143,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Bangeløkka"
+        }
+      ]
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Kristiansand",
+      "area": "Kristiansand",
+      "station": "Gartnerløkka",
+      "eoi": "NO0092A",
+      "component": "PM10",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 10.85,
+      "unit": "µg/m³",
+      "latitude": 58.14703,
+      "longitude": 7.98662,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 10.85,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Gartnerløkka"
+        },
+        {
+          "component": "NO2",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 13.530836,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Gartnerløkka"
+        }
+      ]
+    },
+    {
+      "zone": "Stor-Oslo",
+      "municipality": "Oslo",
+      "area": "Oslo",
+      "station": "Skøyen",
+      "eoi": "NO0072A",
+      "component": "PM10",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 63,
+      "unit": "µg/m³",
+      "latitude": 59.91975,
+      "longitude": 10.68973,
+      "timestep": 3600,
+      "index": 2,
+      "color": "ff9900",
+      "data": [
+        {
+          "component": "PM10",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 63,
+          "unit": "µg/m³",
+          "color": "ff9900",
+          "station": "Skøyen"
         }
       ]
     },
@@ -4263,9 +4319,9 @@
       "station": "Alnabru",
       "eoi": "NO0057A",
       "component": "NO2",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 21.097673,
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 23.754135,
       "unit": "µg/m³",
       "latitude": 59.92773,
       "longitude": 10.84633,
@@ -4275,9 +4331,9 @@
       "data": [
         {
           "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 21.097673,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 23.754135,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Alnabru"
@@ -4291,9 +4347,9 @@
       "station": "Haukenes",
       "eoi": "NO0062A",
       "component": "NO2",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 2.018677,
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 2.42271,
       "unit": "µg/m³",
       "latitude": 59.2024,
       "longitude": 9.48708,
@@ -4303,189 +4359,21 @@
       "data": [
         {
           "component": "NO2",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 2.018677,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 2.42271,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Haukenes"
         },
         {
           "component": "O3",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 47.4,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 43.4,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Haukenes"
-        }
-      ]
-    },
-    {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Birkenes",
-      "area": "Birkenes",
-      "station": "Birkenesobservatoriet",
-      "eoi": "NO0002R",
-      "component": "O3",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 43.238,
-      "unit": "µg/m³",
-      "latitude": 58.38846,
-      "longitude": 8.2519,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "O3",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 43.238,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Birkenesobservatoriet"
-        }
-      ]
-    },
-    {
-      "zone": "Utenfor sonesystemet",
-      "municipality": "Svalbard",
-      "area": "Zeppelinfjellet",
-      "station": "Zeppelinfjellet",
-      "eoi": "NO0042R",
-      "component": "O3",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 52.4,
-      "unit": "µg/m³",
-      "latitude": 78.90669,
-      "longitude": 11.88899,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "O3",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 52.4,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Zeppelinfjellet"
-        }
-      ]
-    },
-    {
-      "zone": "Stor-Oslo",
-      "municipality": "Bærum",
-      "area": "Bærum",
-      "station": "Lommedalen",
-      "eoi": "NO0081A",
-      "component": "O3",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 51.2,
-      "unit": "µg/m³",
-      "latitude": 59.9524,
-      "longitude": 10.487777,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "O3",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 51.2,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Lommedalen"
-        }
-      ]
-    },
-    {
-      "zone": "Vestlandet",
-      "municipality": "Karmøy",
-      "area": "Sandve",
-      "station": "Sandve",
-      "eoi": "NO0052R",
-      "component": "O3",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 53.8,
-      "unit": "µg/m³",
-      "latitude": 59.19722,
-      "longitude": 5.20148,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "O3",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 53.8,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Sandve"
-        }
-      ]
-    },
-    {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Hurdal",
-      "area": "Hurdal",
-      "station": "Hurdal25",
-      "eoi": "NO0056R",
-      "component": "O3",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 54,
-      "unit": "µg/m³",
-      "latitude": 60.37288,
-      "longitude": 11.07407,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "O3",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 54,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Hurdal25"
-        }
-      ]
-    },
-    {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Halden",
-      "area": "Prestebakke",
-      "station": "Prestebakke",
-      "eoi": "NO0043R",
-      "component": "O3",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 51.8,
-      "unit": "µg/m³",
-      "latitude": 58.99677,
-      "longitude": 11.52769,
-      "timestep": 3600,
-      "index": 1,
-      "color": "6ee86e",
-      "data": [
-        {
-          "component": "O3",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 51.8,
-          "unit": "µg/m³",
-          "color": "6ee86e",
-          "station": "Prestebakke"
         }
       ]
     },
@@ -4496,9 +4384,9 @@
       "station": "Kårvatn",
       "eoi": "NO0039R",
       "component": "O3",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 44.4,
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 42,
       "unit": "µg/m³",
       "latitude": 62.78246,
       "longitude": 8.87658,
@@ -4508,12 +4396,180 @@
       "data": [
         {
           "component": "O3",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 44.4,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 42,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Kårvatn"
+        }
+      ]
+    },
+    {
+      "zone": "Utenfor sonesystemet",
+      "municipality": "Svalbard",
+      "area": "Zeppelinfjellet",
+      "station": "Zeppelinfjellet",
+      "eoi": "NO0042R",
+      "component": "O3",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 52.4,
+      "unit": "µg/m³",
+      "latitude": 78.90669,
+      "longitude": 11.88899,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "O3",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 52.4,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Zeppelinfjellet"
+        }
+      ]
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Hurdal",
+      "area": "Hurdal",
+      "station": "Hurdal25",
+      "eoi": "NO0056R",
+      "component": "O3",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 55.2,
+      "unit": "µg/m³",
+      "latitude": 60.37288,
+      "longitude": 11.07407,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "O3",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 55.2,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Hurdal25"
+        }
+      ]
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Birkenes",
+      "area": "Birkenes",
+      "station": "Birkenesobservatoriet",
+      "eoi": "NO0002R",
+      "component": "O3",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 51.238,
+      "unit": "µg/m³",
+      "latitude": 58.38846,
+      "longitude": 8.2519,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "O3",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 51.238,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Birkenesobservatoriet"
+        }
+      ]
+    },
+    {
+      "zone": "Stor-Oslo",
+      "municipality": "Bærum",
+      "area": "Bærum",
+      "station": "Lommedalen",
+      "eoi": "NO0081A",
+      "component": "O3",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 54.6,
+      "unit": "µg/m³",
+      "latitude": 59.9524,
+      "longitude": 10.487777,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "O3",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 54.6,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Lommedalen"
+        }
+      ]
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Halden",
+      "area": "Prestebakke",
+      "station": "Prestebakke",
+      "eoi": "NO0043R",
+      "component": "O3",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 46.4,
+      "unit": "µg/m³",
+      "latitude": 58.99677,
+      "longitude": 11.52769,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "O3",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 46.4,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Prestebakke"
+        }
+      ]
+    },
+    {
+      "zone": "Vestlandet",
+      "municipality": "Karmøy",
+      "area": "Sandve",
+      "station": "Sandve",
+      "eoi": "NO0052R",
+      "component": "O3",
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 54.4,
+      "unit": "µg/m³",
+      "latitude": 59.19722,
+      "longitude": 5.20148,
+      "timestep": 3600,
+      "index": 1,
+      "color": "6ee86e",
+      "data": [
+        {
+          "component": "O3",
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 54.4,
+          "unit": "µg/m³",
+          "color": "6ee86e",
+          "station": "Sandve"
         }
       ]
     },
@@ -4524,9 +4580,9 @@
       "station": "Tustervatn",
       "eoi": "NO0015R",
       "component": "O3",
-      "fromTime": "2019-07-15T08:00:00+01:00",
-      "toTime": "2019-07-15T09:00:00+01:00",
-      "value": 61,
+      "fromTime": "2019-07-15T09:00:00+01:00",
+      "toTime": "2019-07-15T10:00:00+01:00",
+      "value": 64,
       "unit": "µg/m³",
       "latitude": 65.83089,
       "longitude": 13.90655,
@@ -4536,9 +4592,9 @@
       "data": [
         {
           "component": "O3",
-          "fromTime": "2019-07-15T08:00:00+01:00",
-          "toTime": "2019-07-15T09:00:00+01:00",
-          "value": 61,
+          "fromTime": "2019-07-15T09:00:00+01:00",
+          "toTime": "2019-07-15T10:00:00+01:00",
+          "value": 64,
           "unit": "µg/m³",
           "color": "6ee86e",
           "station": "Tustervatn"
