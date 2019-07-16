@@ -1,5 +1,5 @@
 {
-  "updated": "2019-07-16T09:01:25.445Z",
+  "updated": "2019-07-16T10:01:31.964Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -39,6 +39,12 @@
     },
     {
       "zone": "Øst og Sørlandet",
+      "municipality": "Elverum",
+      "area": "Elverum",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Øst og Sørlandet",
       "municipality": "Fredrikstad",
       "area": "Fredrikstad",
       "color": "6ee86e"
@@ -53,7 +59,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Grenland",
       "area": "Grenland",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -125,7 +131,7 @@
       "zone": "Stor-Oslo",
       "municipality": "Oslo",
       "area": "Oslo",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Midt-Norge og Nordland",
