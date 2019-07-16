@@ -1,5 +1,5 @@
 {
-  "updated": "2019-07-16T12:01:20.961Z",
+  "updated": "2019-07-16T13:01:28.926Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -53,12 +53,6 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Grenland",
       "area": "Grenland",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Halden",
-      "area": "Prestebakke",
       "color": "6ee86e"
     },
     {
