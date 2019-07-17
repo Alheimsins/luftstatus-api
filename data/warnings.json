@@ -1,1 +1,11 @@
-[]
+{
+  "veryHigh": [
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Lillehammer",
+      "area": "Lillehammer",
+      "color": "990099"
+    }
+  ],
+  "high": []
+}
