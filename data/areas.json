@@ -1,5 +1,5 @@
 {
-  "updated": "2019-07-17T12:02:01.842Z",
+  "updated": "2019-07-17T13:01:46.516Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -80,21 +80,9 @@
       "color": "6ee86e"
     },
     {
-      "zone": "Midt-Norge og Nordland",
-      "municipality": "Hemnes",
-      "area": "Tustervatn",
-      "color": "6ee86e"
-    },
-    {
       "zone": "Øst og Sørlandet",
       "municipality": "Hurdal",
       "area": "Hurdal",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Vestlandet",
-      "municipality": "Karmøy",
-      "area": "Sandve",
       "color": "6ee86e"
     },
     {
