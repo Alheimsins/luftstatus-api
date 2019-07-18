@@ -1,5 +1,5 @@
 {
-  "updated": "2019-07-18T00:02:10.565Z",
+  "updated": "2019-07-18T01:02:02.285Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -149,7 +149,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Sarpsborg",
       "area": "Sarpsborg",
-      "color": "ff0000"
+      "color": "ff9900"
     },
     {
       "zone": "Stor-Oslo",
