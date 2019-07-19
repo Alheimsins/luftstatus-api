@@ -3,11 +3,11 @@
   const warningsUrl = 'https://api.luftstatus.no/warnings'
   const tweetMessage = require('./lib/tweet-message')
   const createMessage = require('./lib/create-message')
-  let jobs = []
+  const jobs = []
 
   const { data } = await axios.get(warningsUrl)
   console.log(`Got data`)
-  if (data.hasOwnProperty('high') || data.hasOwnProperty('veryHigh')) {
+  if (Object.prototype.hasOwnProperty.call(data, 'high') || Object.prototype.hasOwnProperty.call(data, 'veryHigh')) {
     console.log(`Creating tweets`)
     if (data.high.length > 0) {
       const msg = createMessage('høy', data.high)
