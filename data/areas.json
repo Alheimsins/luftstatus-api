@@ -1,5 +1,5 @@
 {
-  "updated": "2019-07-22T19:01:25.284Z",
+  "updated": "2019-07-22T20:01:37.000Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -29,6 +29,12 @@
       "zone": "Stor-Oslo",
       "municipality": "Drammen",
       "area": "Drammen",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Utenfor sonesystemet",
+      "municipality": "Dronning Maud Land",
+      "area": "Troll",
       "color": "6ee86e"
     },
     {
@@ -155,6 +161,12 @@
       "zone": "Vestlandet",
       "municipality": "Stavanger",
       "area": "Stavanger",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Midt-Norge og Nordland",
+      "municipality": "Sunndal",
+      "area": "Kårvatn",
       "color": "6ee86e"
     },
     {
