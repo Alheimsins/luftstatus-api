@@ -1,5 +1,5 @@
 {
-  "updated": "2019-07-22T02:02:03.251Z",
+  "updated": "2019-07-22T03:02:03.506Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -11,6 +11,12 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Bodø",
       "area": "Bodø",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Brumunddal",
+      "area": "Brumunddal",
       "color": "6ee86e"
     },
     {
