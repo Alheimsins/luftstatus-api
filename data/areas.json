@@ -1,5 +1,5 @@
 {
-  "updated": "2019-07-29T12:01:55.337Z",
+  "updated": "2019-07-29T13:02:00.912Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -17,6 +17,12 @@
       "zone": "Midt-Norge og Nordland",
       "municipality": "Bodø",
       "area": "Bodø",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Brumunddal",
+      "area": "Brumunddal",
       "color": "6ee86e"
     },
     {
@@ -89,7 +95,7 @@
       "zone": "Vestlandet",
       "municipality": "Karmøy",
       "area": "Sandve",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -173,7 +179,7 @@
       "zone": "Troms og Finnmark",
       "municipality": "Tromsø",
       "area": "Tromsø",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Trondheim",
