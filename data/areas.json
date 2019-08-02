@@ -1,5 +1,5 @@
 {
-  "updated": "2019-08-02T14:02:17.171Z",
+  "updated": "2019-08-02T15:01:34.266Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -65,7 +65,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Hamar",
       "area": "Hamar",
-      "color": "ff0000"
+      "color": "6ee86e"
     },
     {
       "zone": "Troms og Finnmark",
@@ -149,6 +149,12 @@
       "zone": "Vestlandet",
       "municipality": "Stavanger",
       "area": "Stavanger",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Midt-Norge og Nordland",
+      "municipality": "Sunndal",
+      "area": "Kårvatn",
       "color": "6ee86e"
     },
     {
