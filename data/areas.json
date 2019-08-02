@@ -1,5 +1,5 @@
 {
-  "updated": "2019-08-02T20:02:36.148Z",
+  "updated": "2019-08-02T21:02:05.093Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -71,7 +71,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Hamar",
       "area": "Hamar",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Troms og Finnmark",
@@ -143,7 +143,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Sarpsborg",
       "area": "Sarpsborg",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Stor-Oslo",
