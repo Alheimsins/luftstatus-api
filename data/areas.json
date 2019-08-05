@@ -1,5 +1,5 @@
 {
-  "updated": "2019-08-05T00:01:46.751Z",
+  "updated": "2019-08-05T01:02:22.207Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -38,12 +38,6 @@
       "color": "6ee86e"
     },
     {
-      "zone": "Utenfor sonesystemet",
-      "municipality": "Dronning Maud Land",
-      "area": "Troll",
-      "color": "6ee86e"
-    },
-    {
       "zone": "Øst og Sørlandet",
       "municipality": "Elverum",
       "area": "Elverum",
@@ -77,7 +71,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Hamar",
       "area": "Hamar",
-      "color": "ff0000"
+      "color": "6ee86e"
     },
     {
       "zone": "Troms og Finnmark",
