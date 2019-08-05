@@ -1,5 +1,5 @@
 {
-  "updated": "2019-08-05T09:02:08.721Z",
+  "updated": "2019-08-05T10:02:22.796Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -39,12 +39,6 @@
     },
     {
       "zone": "Øst og Sørlandet",
-      "municipality": "Elverum",
-      "area": "Elverum",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Øst og Sørlandet",
       "municipality": "Fredrikstad",
       "area": "Fredrikstad",
       "color": "6ee86e"
@@ -65,12 +59,6 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Halden",
       "area": "Prestebakke",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Øst og Sørlandet",
-      "municipality": "Hamar",
-      "area": "Hamar",
       "color": "6ee86e"
     },
     {
@@ -185,6 +173,12 @@
       "zone": "Trondheim",
       "municipality": "Trondheim",
       "area": "Trondheim",
+      "color": "6ee86e"
+    },
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Tønsberg",
+      "area": "Tønsberg",
       "color": "6ee86e"
     },
     {
