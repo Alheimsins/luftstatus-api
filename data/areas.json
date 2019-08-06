@@ -1,5 +1,5 @@
 {
-  "updated": "2019-08-06T06:02:06.329Z",
+  "updated": "2019-08-06T08:02:02.921Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -92,12 +92,6 @@
       "color": "6ee86e"
     },
     {
-      "zone": "Vestlandet",
-      "municipality": "Karmøy",
-      "area": "Sandve",
-      "color": "6ee86e"
-    },
-    {
       "zone": "Øst og Sørlandet",
       "municipality": "Kristiansand",
       "area": "Kristiansand",
@@ -137,7 +131,7 @@
       "zone": "Stor-Oslo",
       "municipality": "Oslo",
       "area": "Oslo",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Midt-Norge og Nordland",
