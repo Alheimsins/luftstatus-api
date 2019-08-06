@@ -1,5 +1,5 @@
 {
-  "updated": "2019-08-06T08:02:02.921Z",
+  "updated": "2019-08-06T09:01:30.354Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -92,6 +92,12 @@
       "color": "6ee86e"
     },
     {
+      "zone": "Vestlandet",
+      "municipality": "Karmøy",
+      "area": "Sandve",
+      "color": "6ee86e"
+    },
+    {
       "zone": "Øst og Sørlandet",
       "municipality": "Kristiansand",
       "area": "Kristiansand",
@@ -107,7 +113,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Lillesand",
       "area": "Lillesand",
-      "color": "6ee86e"
+      "color": "ff9900"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -131,7 +137,7 @@
       "zone": "Stor-Oslo",
       "municipality": "Oslo",
       "area": "Oslo",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Midt-Norge og Nordland",
