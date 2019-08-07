@@ -1,11 +1,11 @@
 {
-  "veryHigh": [
+  "veryHigh": [],
+  "high": [
     {
       "zone": "Bergen",
       "municipality": "Bergen",
       "area": "Bergen",
-      "color": "990099"
+      "color": "ff0000"
     }
-  ],
-  "high": []
+  ]
 }

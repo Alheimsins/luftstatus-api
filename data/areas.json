@@ -1,11 +1,11 @@
 {
-  "updated": "2019-08-07T16:01:25.263Z",
+  "updated": "2019-08-07T17:01:16.385Z",
   "areas": [
     {
       "zone": "Bergen",
       "municipality": "Bergen",
       "area": "Bergen",
-      "color": "990099"
+      "color": "ff0000"
     },
     {
       "zone": "Øst og Sørlandet",
@@ -149,7 +149,7 @@
       "zone": "Øst og Sørlandet",
       "municipality": "Sarpsborg",
       "area": "Sarpsborg",
-      "color": "ff9900"
+      "color": "6ee86e"
     },
     {
       "zone": "Stor-Oslo",
