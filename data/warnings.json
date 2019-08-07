@@ -1,1 +1,11 @@
-[]
+{
+  "veryHigh": [
+    {
+      "zone": "Øst og Sørlandet",
+      "municipality": "Sarpsborg",
+      "area": "Sarpsborg",
+      "color": "990099"
+    }
+  ],
+  "high": []
+}
