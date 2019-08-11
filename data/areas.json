@@ -1,5 +1,5 @@
 {
-  "updated": "2019-08-11T16:01:49.491Z",
+  "updated": "2019-08-11T17:01:49.829Z",
   "areas": [
     {
       "zone": "Bergen",
@@ -29,12 +29,6 @@
       "zone": "Stor-Oslo",
       "municipality": "Bærum",
       "area": "Bærum",
-      "color": "6ee86e"
-    },
-    {
-      "zone": "Stor-Oslo",
-      "municipality": "Drammen",
-      "area": "Drammen",
       "color": "6ee86e"
     },
     {
