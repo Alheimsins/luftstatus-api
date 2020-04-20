@@ -1,4 +1,4 @@
-FROM alpine/git:1.0.10
+FROM alpine/git:1.0.11
 
 LABEL "name"="commit-changes"
 LABEL "maintainer"="Geir Gåsodden <geir.gasodden@pythonia.no>"
