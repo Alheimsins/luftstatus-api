@@ -1,4 +1,4 @@
-FROM node:15-alpine
+FROM node:17-alpine
 
 LABEL "name"="tweet-warnings"
 LABEL "maintainer"="Geir Gåsodden <geir.gasodden@pythonia.no>"
